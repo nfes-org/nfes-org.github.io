@@ -1,6 +1,7 @@
 ---
 title: Post with Header Image
 tags: TeXt
+cover: /screenshot.jpg
 article_header:
   type: cover
   image:

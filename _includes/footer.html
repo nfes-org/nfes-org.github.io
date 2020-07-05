@@ -19,6 +19,9 @@
         <meta itemprop="description" content="{{ _site_author.bio }}">
       {%- endif -%}
       <div class="footer__author-links">
+        {%- include sponsors.html -%}
+      </div>
+      <div class="footer__author-links">
         {%- include author-links.html author=_site_author -%}
       </div>
     </div>
