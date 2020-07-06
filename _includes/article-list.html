@@ -26,7 +26,6 @@
 {%- endif -%}
 
   {%- for _article in _sorted_list -%}
-
     {%- include snippets/prepend-baseurl.html path=_article.url -%}
     {%- assign _article_url = __return -%}
 
@@ -34,7 +33,8 @@
       {%- include snippets/get-nav-url.html path=_article.cover -%}
       {%- assign _article_cover = __return -%}
     {%- endif -%}
-
+    <!-- 123 -->
+    
     {%- if include.type == 'item' -%}
       {%- if include.article_type == 'BlogPosting' -%}
         <article class="item" itemscope itemtype="http://schema.org/BlogPosting">
@@ -54,6 +54,7 @@
           {%- endif -%}
           </div>
         {%- endif -%}
+        
         <div class="item__content">
           <header><a href="{{ _article_url }}"><h2 itemprop="headline" class="item__header">{{ _article.title }}</h2></a></header>
           <div class="item__description">
@@ -138,7 +139,37 @@
           </div>
         </div>
       {%- endif -%}
-    {%- endif -%}
+  {%- elsif include.type == 'full' -%}
+    <article class="item">
+    <!-- {%- if _article.cover and include.show_cover-%}
+      {%- include snippets/get-nav-url.html path=_article.cover -%}
+      {%- assign _article_cover = __return -%}
+      <div class="item__image">
+      {%- if include.cover_size == 'lg' -%}
+        <img class="image image--lg" src="{{ _article_cover }}" />
+      {%- elsif include.cover_size == 'sm' -%}
+        <img class="image image--sm" src="{{ _article_cover }}" />
+      {%- else -%}
+        <img class="image" src="{{ _article_cover }}" />
+      {%- endif -%}
+      </div>
+    {%- endif -%} -->
+    
+    <div class="item__content">
+      <header>
+          <h2 itemprop="headline" class="item__header">{{ _article.title }}
+        </h2></header>
+      <div class="item__description">
+        {%- if _article.excerpt and include.show_excerpt -%}
+          <div class="article__content" itemprop="description articleBody">
+            {{_article.content}}
+          </div>
+        {%- endif -%}
+      </div>
+    </div>
+  </article>
+  {%- endif -%}
   {%- endfor -%}
+
 
 </div>
