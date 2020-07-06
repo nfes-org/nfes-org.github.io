@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: mixed
 titles:
   # @start locale config
   en      : &EN       Home
@@ -25,18 +25,18 @@ titles:
   # @end locale config
 show_title: false
 articles:
-  data_source: paginator.posts
+  data_source: site.posts # site.tags.blbla
   article_type: BlogPosting
   show_cover: true
   show_excerpt: true
   show_readmore: true
   show_info: true
+  # type: grid
 ---
-<div class="layout--home">
+<!-- <div class="layout--home">
   {%- include paginator.html -%}
-</div>
+</div> -->
 <script>
   {%- include scripts/home.js -%}
 </script>
-
 {{ content }}

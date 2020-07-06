@@ -146,11 +146,13 @@ html,
 .hero--light {
   .article__info {
     color: $text-color-theme-light;
+    // text-shadow: #FC1 2px 0 10px;
   }
 }
 .hero--dark {
   .article__info {
     color: $text-color-theme-dark;
+    text-shadow: #FC0 2px 0 10px;
   }
 }
 

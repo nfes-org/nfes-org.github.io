@@ -1,6 +1,8 @@
 ---
 title: Post with Header Image
-tags: TeXt
+tags: [TeXt, blbla, featured]
+category: test_ctegory
+featured: true
 cover: /screenshot.jpg
 article_header:
   type: cover

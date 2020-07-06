@@ -13,6 +13,7 @@
 
 node_modules/
 .sass-cache/
+/test/vendor/bundle
 
 /.bundle/
 /vendor/bundle
@@ -25,3 +26,5 @@ Gemfile.lock
 _site/
 .jekyll-metadata
 .jekyll-cache/
+
+test/.bundle/

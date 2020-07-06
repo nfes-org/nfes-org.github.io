@@ -2,7 +2,12 @@
 layout: page
 ---
 
+<div class="layout--article">
+  {%- include article/top/custom.html -%}
 
+  <div class="article__content" itemprop="articleBody">{{ content }}</div>
+
+</div>
 
 {%- assign _page_articles_data_source = page.articles.data_source | default: layout.articles.data_source -%}
 
@@ -36,7 +41,7 @@ layout: page
 {%- if _articles -%}
 
   <div class="layout--articles">
-
+    <h1>Recent</h1>
     {%- if _type == 'grid' -%}
       {%- if page.articles.size == 'sm' -%}
         {%- include article-list.html articles=_articles type='grid' size='sm' -%}
@@ -87,5 +92,3 @@ layout: page
 
   </div>
 {%- endif -%}
-
-{{content}}
