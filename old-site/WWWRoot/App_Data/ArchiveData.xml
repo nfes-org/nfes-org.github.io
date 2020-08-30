@@ -1,0 +1,1599 @@
+<?xml version="1.0"?>
+<Archive>
+  <presentation>
+    <date>2020-09-02</date>
+    <title>Cement evaluation during new well construction or PnA – Do we trust?</title>
+    <author>Amit Govil, Schlumberger</author>
+    <file>archive/2020/Sep20.aspx</file>
+    <Abstract>
+      <p>Well Integrity is a very critical concern throughout the lifecycle of a well. One part of ensuring well integrity is by evaluating the barrier in the casing annulus.  Sonic/Ultrasonic tools are the most common and effective technology for annulus evaluation.  For annulus evaluation with ultrasonic measurements, the acoustic impedance of borehole fluid is a critical input for the accurate determination of the acoustic impedance of annulus material and its subsequent bond quality. In Norway, where most of the wells are highly deviated or horizontal, overtime while waiting for any intervention, static mud settles and segregates on the low side of the wellbore. This becomes a challenge when interpreting cement evaluation data, in such environment.
+Keeping above challenges in mind  developed a novel pulse-echo inversion scheme called R+, that accurately determine azimuthal as well as depth wise variations in the acoustic impedance of borehole mud, for all casing and cement types, based on the inversion using validated 3D models without prior knowledge of mud properties. With the help of the new R+ inversion, the operators managed to take informed intervention decisions much clearer and quicker saving rig time and cost.
+Cemented casing sections were recovered from the upper part of a North Sea production well during a permanent abandonment operation. The barrier quality of the cement sheath, which has been sandwiched between two casing strings for more than thirty years since the well was constructed, has been evaluated utilizing acoustic logging, fluid leakage testing and core plug analysis.
+The presentation will describe the full-scale test performed at the research institute, including the lab experiments and data acquisition covering SPE #197338 (ADIPEC-2019) and SPE#199609, 199575 (IADC-20)
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Amit Govil joined Schlumberger in 1993 as a Wireline Field Engineer. During his initial 9 years in the field, he worked with many clients and cased hole Wireline technologies both in India and Qatar. In 2003, he began supporting operations and interpretation as a Cased Hole Domain Champion. Since 2007, Amit has been working as Principal Production Services (Cased hole operations, intervention and interpretation) Domain Champion for Scandinavia, based first in Bergen and later in Stavanger. He has  authored multiple technical papers, presented at ICoTA, SPE, PACE, DrillWell, ADIPEC, IADC conferences.  Since 2017, he is involved with SPE Stavanger Section, as a Treasurer.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2019-09-04</date>
+    <title>FROM THE BOREHOLE WALL INTO THE FORMATION – COMBINING BOREHOLE IMAGES WITH DEEP SHEAR WAVE IMAGING TECHNOLOGY</title>
+    <author>Stefan Schimschal, Baker Hughes, a GE company</author>
+    <file>archive/2019/Sep19.aspx</file>
+    <Abstract>
+      <p>One major challenge of integrating borehole image and geophysical measurements is to bridge the gaps between their dissimilar horizontal and vertical resolutions and depth of investigation. Identifying and characterizing geological features like bedding contacts and fractures, by combining high-resolution Borehole Imaging (BHI) with Deep Shear Wave Imaging (DSWI) technology, helps to overcome this challenge. It reveal sub-seismic features in the reservoir section that ultimately lead to a more accurate structural model of the subsurface. In this paper, we present a case study showing the full integration of both imaging methods. Picked reflectors in the deep shear wave image allow correlation with corresponding geological features on the borehole image. Identifying the dip and azimuth of a reflector from the measured orientation of the corresponding feature on the borehole wall enables the rotation of the tool reference frame to be aligned with the sagittal plane from the deep shear wave image (i.e., the plane in which the reflection occurs. Note that the strike of the reflector equals the azimuth of the sagittal plane). With this borehole image-based adjustment the sagittal plane of the deep shear wave image is shown at its correct azimuth and therefore positioned “correctly” in the subsurface. Accordingly, our understanding and interpretation of the DSWI result improves significantly. Although this azimuth can also be obtained via the four component DSWI data (Tang 2004), this is not always as robust as the method proposed here. However, if possible, it is good practice to compare both methods, also because an “event” picked from a borehole image log does not necessarily have to coincide with a similar event in the DSWI image. The borehole image event may not continue away from the wellbore and/or the resolution of this borehole image event is far above the DSWI resolution.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Stefan Schimschal is a geophysicist working mainly on acoustic processing and application development. He started his career at Baker Hughes in 2013 at the acoustic group in the Celle Technology Center. Stefan holds a B.Sc. in geophysics and geoinformatics and a M.Sc. in geophysics from the TU Bergakademie Freiberg, Germany and has mainly worked on Seismic data processing during his Master times.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2019-03-06</date>
+    <title>Azimuthal Imaging using Deep-directional Resistivity Measurements reveals 3D Reservoir Structure</title>
+    <author>Michael Thiel, Schlumberger</author>
+    <file>archive/2019/Mar19.aspx</file>
+    <Abstract>
+      <p>The reservoir scale deep-directional electromagnetic logging-while-drilling technology is now routinely being used to map boundaries and fluid contacts for strategic geosteering, reservoir navigation, and more recently, for reservoir characterization. Data interpretation is based on inversion algorithms that estimate a local resistivity profile and usually a 1D layered profile is continuously estimated during real-time interpretation. The traditional inversion approaches ignore the lateral changes of the reservoir, which are contained in the measurements, only a longitudinal 2D representation of the 3D reservoir structure around the well is provided. This limits the ability to make real-time geosteering decisions with respect to lateral reservoir heterogeneities, such as faults to the side of a horizontal well.</p>
+      <p>
+        In this talk, an inversion is presented that can provide 2D azimuthal resistivity images in a plane transverse to the wellbore; thus, the inversion is able to map lateral reservoir heterogeneities. The minimally biased algorithm uses a nonuniform 2D pixel discretization of the imaging plane, initially perpendicular to the near-horizontal well.  This algorithm takes advantage of the full 3D sensitivities of deep-directional resistivity measurements to map the 2D resistivity distribution. A fast EM simulator is used to reconstruct the tool response in complex 2D anisotropic formations for arbitrary tool orientation. Continuous azimuthal 2D imaging along the well path generates a 3D map of the reservoir in the proximity of the wellbore.
+      </p>
+      <p>
+        The inversion is initially validated using synthetic scenarios with various complexities. Subsequently, the algorithm is applied to field datasets, all of which resulted in 3D reservoir maps derived from deep-directional resistivity measurements. Examples include consistent imaging of faults parallel to the wellbore, and imaging when the tool is approaching, crossing, and moving away from one or multiple faults.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Michael Thiel is a Principal Research Scientist at Schlumberger-Doll Research Center in Cambridge, MA. He joined Schlumberger in 2010 after receiving his PhD in electrical engineering from the University of Michigan. He is working at Schlumberger-Doll Research in Cambridge, MA, on inverse problems and interpretation workflows for LWD directional resistivity measurements.
+      </p>
+
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2019-02-06</date>
+    <title>A Comparative Study of Machine Learning Techniques for Facies Characterization</title>
+    <author>Subhadeep Sarkar, Schlumberger</author>
+    <file>archive/2019/Feb19.aspx</file>
+    <Abstract>
+      <p>
+        In petrophysical modeling, determination of lithofacies is a crucial part of the workflow as it helps to classify similar types of reservoir rocks in the spatial domain and allows identification of potential pay zones. Conventional methodologies of facies classification rely mostly on the visualization process of the human interpreters and is extremely tedious and prone to errors. With the onset of the machine learning era, this procedure can be significantly improved by the implementation of several supervised and unsupervised learning techniques. Three commonly used supervised machine learning algorithms, namely the Decision Trees, Random Forest (RF) and the Support Vector Machine (SVM) are used on a dataset associated with a complex lithology. The robustness of the three algorithms for different training conditions like small training sets or data unseen by the model are then compared.
+        In terms of Facies classification, SVM is efficient in clustering data with small training sets than the Decision trees. On comparing the predictive error for the three different algorithms, one common observation was that over-modeling can affect the precision. Also, as expected, the models were more efficient when the predictive classes were fewer. However, a key to the facies classification task using supervised machine learning algorithm is to properly condition the training dataset, so that all the facies are well represented in the training phase. Also, to optimize the bias and variance, which is an inherent problem with most machine learning techniques, cross-validation needs to be performed to fine tune the algorithms.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Subhadeep Sarkar is a Petrophysicist at Schlumberger Software Integrated Solutions in Tananger. He received a B.Sc. in Physics from Presidency College, Kolkata in 2008 an M. Tech in Geophysics from Banaras Hindu University in 2011. At Schlumberger, he focuses on NMR, petrophysics, and acoustics data interpretation for a wide range of wireline and logging-while-drilling measurements. He has worked on various conventional and unconventional reservoirs in India, North America and Gulf of Mexico. His interests also include implementation of machine learning techniques in novel petrophysical workflows and their parameterization.
+      </p>
+
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2019-01-09</date>
+    <title>Water Pressure Measurement Inside a Hydrocarbon Column</title>
+    <author>Trond Rolfsvåg, Hydrophillic</author>
+    <file>archive/2019/Jan19.aspx</file>
+    <Abstract>
+      <p>
+        This presentation will explain how it is possible to measure water pressure inside an oil reservoir with a hydrophilic probe, and how to use this pressure to estimate the distance to the oil/water contact.
+      </p>
+      <p>
+        The pressure difference between oil and water can also provide information about invasion of water into a reservoir segment long before anything can be seen on a saturation log.
+      </p>
+      <p>
+        The presentation will also give some details on how the hydrophilic probe works, share fresh results from the lab and show the conceptual design of a wire-line tool capable of performing the measurement in an open hole discovery well.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Trond Rolfsvåg, has a Master’s degree in Petroleum Technology from University of Stavanger. He has worked with IOR related research (NORCE), but most of the 30 year career as a reservoir engineer in Equinor (5 years) and ConocoPhillips (20 years). Mentoring less experienced RE’s, and monitoring R&amp;D project has always been an important part of the various assignments.
+        He has developed a technology for finding the oil/water contact without drilling through it in 2015. Left ConocoPhillips in 2016 and established Hydrophilic AS in 2016.
+      </p>
+
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2018-12-05</date>
+    <title>Geosteering in Complex Mature Fields Through Integration of 3D Multi-Scale LWD-Data, Geomodels, Surface and Time-Lapse Seismic</title>
+    <author>Frank Antonsen, Equinor</author>
+    <file>archive/2018/Dec18.aspx</file>
+    <Abstract>
+      <p>
+Success of horizontal infill wells targeting bypassed zones are challenged by uncertainties in the reservoir description and by fluid content variation generated by differences in sweep efficiency over time. Optimizing well placement of such producer wells has a direct impact on cost and recovery. This could, also, potentially unlock targets not accessible today with currently used methods and technologies. Innovative interpretation methods based on efficient measurements to map structure and fluids around high angle and horizontal wells while drilling are critical for future success in a marginal, but increasingly strategical, business on the Norwegian Continental Shelf (NCS).</p>
+      <p>Novel integration and advanced 2D inversions allows lateral identification of structural and fluid events tens of meters from the borehole. Therefore, in an unprecedented manner, this paper presents new possibilities to remotely map azimuthally not only the geological structure but also the fluid distribution that was only possible before by drilling into the zones of interest.</p>
+      <p>The presented methodology has been developed with the aim of building a realistic, high resolution geomodel reconciling subsurface measurements made at different scales, including real time logging while-drilling (LWD) measurements, 1D and 2D resistivity inversions, interpreted dips and time lapse seismic data. This methodology describes how ultra-deep directional resistivity measurements and inversion-derived reservoir maps bridge the gap in scale and resolution between the standard LWD acquisition and the surface seismic data. Moreover, a novel full 2D deep azimuthal inversion of the ultra-deep directional resistivity measurements generates 2D images in plane perpendicular to the wellbore providing substantial new information to delineate the 3D reservoir structure.</p>
+      <p>This workflow determines the fluids distribution with greater certainty by combining the deep azimuthal resistivity profiles with the time-lapse surface seismic.</p>
+      <p>The methodology was applied in a horizontal infill well in an offshore Norwegian field. Integration of subsurface measurements unveils both the 3D complexity of the geological environment, including subtle faults, and the fingering water front coming sideways at the toe of the well.</p>
+      <p>The case study presented illustrates how reconciling logging while drilling measurements, ultra-deep directional resistivity inversions with surface seismic, time-lapse seismic and sedimentological and structural models is essential to enable reservoir mapping in complex geological structures with fluid flooding. The integrated interpretation from measurements made at different scale can significantly improve the understanding of the 3D reservoir structure and fluids distribution around a horizontal well. The integrated workflow has been beneficial for the planning and drilling of horizontal wells, especially to optimize geosteering for productivity of infill wells in the complex settings of mature fields.
+</p>
+    </Abstract>
+    <CV>
+      <p>Frank Antonsen is a specialist in reservoir geology and petrophysics at Equinor Research Centre in Trondheim, Norway. He has close to 20 years of experience from the oil industry with focus on R&amp;D activities within petrophysics, i.e. NMR logging and core analysis. Deep look around technologies for well placement and reservoir characterization has been his main research topic since 2007.</p>
+
+    </CV>
+    <xattachmentx>
+      <filename>archive/2018/NFES_20180905.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </xattachmentx>
+  </presentation>
+  <presentation>
+    <seminar />
+    <date>2018-11-07</date>
+    <title>Lifting the Fog of Confusion Surrounding Total and Effective Porosity in Petrophysics</title>
+    <author>Paul Spooner, Lloyd's Register</author>
+
+    <attachment>
+      <filename>archive/2018/NFES-Spooner.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+  </presentation>
+  <presentation>
+    <seminar />
+    <date>2018-11-07</date>
+    <title>High Pressure Mercury Injection Capillary Pressure: unveiling its value by scrutinising and analysing disparate data sets into a single, meaningful analysis</title>
+    <author>Izaskun Zubizarreta, Lloyd's Register</author>
+    <attachment>
+      <filename>archive/2018/NFES_Zubizarreta02.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+  </presentation>
+  <presentation>
+    <seminar />
+    <date>2018-11-07</date>
+    <title>Characterization of Fluid Composition While Drilling to Aid Well Placement</title>
+    <author>Maneesh Pisharat, Maria Cecilia Bravo, Schlumberger</author>
+    <attachment>
+      <filename>archive/2018/NFES_FLAIR for well placement.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+  </presentation>
+  <presentation>
+    <date>2018-10-03</date>
+    <title>FIELD TEST RESULTS OF A NEW HIGH-RESOLUTION, DUALPHYSICS LOGGING-WHILE-DRILLING IMAGING TOOL IN OILBASE MUD</title>
+    <author>Mathias Horstman, Schlumberger</author>
+    <file>archive/2018/Oct18.aspx</file>
+    <Abstract>
+      <p>
+        Borehole imaging while drilling is available since the first azimuthal tools were designed in the 1990s. In conductive muds, numerous image improvements (both in resolution and quality) have been made, particularly in micro-resistivity logging tools. The challenge to extend these capabilities to oil-base mud (OBM) has been addressed in a new tool designed to acquire high-resolution images logging-while-drilling (LWD). The data are maximized by a dual-physics technique using separate resistivity and ultrasonic imaging sensors.
+</p>
+      <p>The new tool introduces key design features that overcome the challenges associated with LWD imaging in oil-base mud. Sensors are positioned on the drill collar and high-resolution electromagnetic pulses are sent through the mud from the sensor to the formation at multiple frequencies (similar in principle to recently introduced wireline imaging tools for OBM). A novel processing algorithm combines the multiple individual frequencies to produce a robust image. A set of ultrasonic sensors is positioned close to the resistivity sensors on the tool collar. Focusing of the sensors and high-sampling rates deliver HD resolution comparable to wireline ultrasonic imaging tools. The multi-sensor design used for both measurement physics and their rapid firing and recording maximize full-borehole coverage in the majority of rotary drilling conditions.
+</p>
+      <p>An experimental version of the tool has been field tested in a broad variety of drilling and geological environments, also extensively in Norway. To date, over 45,000 ft of data have been acquired in wells ranging from vertical to horizontal. Data acquisition has been in clastics, carbonates, and evaporites having various formation properties. The field test data have confirmed the metrology of both physics types; i.e., resistivity and ultrasonic imaging. Examples are presented demonstrating the range of measurements under different borehole and geological conditions. Results to date have exceeded expectations in terms of imaging capabilities.
+      
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Mathias Horstman is principal domain petrophysicist with Schlumberger Norway, supporting both the reservoir characterization and drilling group in Scandinavia. After working for a period in the mining industry he joined Schlumberger in 2002 as a field engineer in Europe and Africa. He worked in management positions and held various petro-technical positions in log interpretation and geosteering in Europe and Asia. Mathias holds a master’s degree in geology from the University of Freiburg, Germany. He is currently president of the Norwegian Formation Evaluation Society (NFES), the Norwegian chapter of the Society of Petrophysicists and Well Log Analysts.
+      </p>
+
+    </CV>
+    <attachmentx>
+      <filename>archive/2018/NFES_20180905.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachmentx>
+  </presentation>
+  <presentation>
+    <date>2018-09-05</date>
+    <title>LATERAL-MOTION CORRECTION OF NMR LOGGING-WHILE-DRILLING DATA</title>
+    <author>Radu Coman, Baker Hughes</author>
+    <file>archive/2018/Sep18.aspx</file>
+    <Abstract>
+      <p>
+        The total porosity obtained from nuclear magnetic resonance (NMR) logging-while-drilling (LWD) data is typically not affected by lateral motion of the NMR-LWD tool; however, some other deliverables (e.g., bound water, movable fluid, permeability, viscosity) might be affected. This paper introduces a data-based lateral-motion correction (LMC) that uses a four-parameter function to quantify and correct potential lateral-motion effects.
+      </p>
+      <p>
+        The objective of the LMC is to improve the accuracy of the final T2 porosity distribution. The LMC extends the operational range of the NMR-LWD method and enables more advanced petrophysical NMR applications. In addition, the LMC approach can be used to quantify the lateral-motion effect and to mark intervals where the motion effect is too severe to be fully corrected.
+      </p>
+      <p>
+        The LMC was developed by analyzing the potential lateral-motion effect on numerous NMR-LWD data in combination with numerical simulations. By using drilling dynamic simulations of a complete Bottom Hole Assembly (BHA) under realistic drilling conditions, motion paths of an NMR sensor were calculated, which were then used to simulate NMR signals. Actual data and the NMR simulation indicate that lateral-motion effects can be adequately described by a four-parametric function. Two parameters describe an exponential decay, while the other two parameters describe a periodic variation of the amplitude. The motion effect function was integrated into the forward matrix of the NMR joint inversion, and a non-linear optimization algorithm was used to determine the four motion parameters and, if present, to compensate for lateral-motion effects.
+      </p>
+      <p>
+        Although motion paths are typically complex, the motion periodic characteristic relates to the revolutions per minute (RPM) of the BHA. The amplitude of the motion mainly depends on the drilling regime (e.g., from “smooth” drilling to whirl), the gap between the BHA stabilizers and the borehole, and the borehole inclination. Numerical simulations show that the NMR motion effect is small-to-negligible if an NMR-LWD tool has a low magnetic field gradient and has adequate stabilization.
+      </p>
+      <p>
+        The correction method was tested on synthetic and real NMR-LWD data from more than 30 runs with different realizations of lateral motion. The approach is robust and works for all data sets. The magnitude of the lateral motion effect is reliably shown by the implemented multiple quality control indicator. Some examples of synthetic and actual NMR data with and without LMC are included.
+      </p>
+      <p>
+        The inversion that includes the LMC improves the quality of the T2 spectrum, which is important for standard and advanced NMR applications, such as accurate calculation of volumetrics (e.g., movable fluid, bound/irreducible fluids) and pore size distribution, as well as improved estimation of fluid viscosity and formation permeability.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Radu Coman received a Dr.rer.nat. degree from the University of Hamburg in 2004 and holds an M.Sc. in Geology and Geophysics from the University of Bucharest. Radu's dissertation dealt with the computation of multivalued travel-times in three-dimensional heterogeneous media. The efficient computation of travel-time is very important for pre-stack depth migration of 3D seismic data.  After his PhD, Radu worked at Trappe Erdöl Erdgas Consulting (TEEC), where he was responsible for the conception, development, and implementation of new seismic processing algorithms. In 2006 Radu joined the R&amp;D department of Baker Hughes in Germany as a scientist in the Seismic While Drilling R&amp;D Team. After the commercialization of the SeismicTrak™ tool and service, Radu joined the NMR-LWD Engineering Group, to develop and improve the MagTrak™ tool and service. Radu’s focus was on improving the accuracy and vertical resolution of NMR logging data. Currently, Radu is an Engineering Manager in the LWD Engineering Group of Baker Hughes, a GE company. He is the author or a co-author of seismic and NMR-logging papers and holds six US patents. Radu is a member of the SPWLA and the SPE.
+      </p>
+
+    </CV>
+    <attachment>
+      <filename>archive/2018/NFES_20180905.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+  </presentation>
+  <presentation>
+    <date>2018-05-30</date>
+    <title>The use of new LWD High Resolution Ultrasonic Imaging Tool to Unlock the Reservoir Potential</title>
+    <author>Davide, Weatherford</author>
+    <file>archive/2018/Jun18.aspx</file>
+    <Abstract>
+<p>A recently launched Logging- While-Drilling (LWD) ultrasonic imaging tool now enables operators to obtain high-resolution structural, stratigraphic, and borehole geometry information in both water and oil-based muds by means of acoustic impedance contrast and ultrasonic amplitude measurements. Results from the very first  deployment of this new imager in Europe will be presented.
+</p>
+    </Abstract>
+    <CV>
+      <p>Davide is the Operations Manager - Petrophysicist at  Weatherford, responsible of processing and interpretation of LWD data and of well placement supervision in North Sea, Continental Europe and West Africa. Davide joined Weatherford, one of the largest multinational oilfield service companies, in 2007 as LWD Field Engineer after he had been working for 2 years at the University as geophysicist. He has then covered different positions within the company from Coordinator to Formation Evaluation Specialist for North Mediterranean area.
+      </p></CV>
+  </presentation>
+  <presentation>
+    <date>2018-05-02</date>
+    <title>Look Ahead Geosteering via Real Time Integration of Logging While Drilling Measurements with Surface Seismic</title>
+    <author>Sergey Alyaev, IRIS</author>
+    <file>archive/2018/May18.aspx</file>
+    <Abstract>
+      <p>
+        In this work we present a systematic geosteering workflow that automatically integrates a priori information and the real-time
+        measurements for updating of geomodel with uncertainties, and uses the latest model predictions in a Decision Support System (DSS).
+        The DSS supports geosteering decisions by evaluating production potential versus drilling and completion risks.
+      </p>
+      <p>
+        In our workflow, the uncertainty in the geological interpretation around the well is represented via multiple realizations of the geology. The realizations are updated using EnKF (Ensemble Kalman Filter) in real-time when new LWD measurements become available,
+        providing a modified prediction of the geology ahead of the bit. For every geosteering decision, the most recent representation of the
+        geological uncertainty is used as input for the DSS. It suggests steering correction or stopping, considering complete well trajectories
+        ahead-of-the-bit against the always updated representation of key uncertainties. The optimized well trajectories and the uncertainties are
+        presented to the users of the DSS via a GUI. This interface enables interactive adjustment of decision criteria and constraints, which are
+        applied in a matter of seconds using advanced dynamic programming algorithms yielding consistently updated decision suggestions.
+      </p>
+      <p>
+        To illustrate the benefits of the DSS, we consider synthetic cases for which we demonstrate the model updating and the decision
+        recommendations. The DSS is particularly advantageous for unbiased high-quality decision making when navigating in complex reservoirs with several potential targets and significant interpretation uncertainty. The initial results demonstrate statistically optimal landing
+        and navigating of the well in such a complex reservoir. Furthermore, the capability to adjust and re-weight the objectives provides the
+        geosteering team with the ability to change the selected trade-offs between the objectives as they drill. Under challenging conditions,
+        model-based results as input to a decision process that is traditionally much based on human intuition and judgement is expected to yield
+        superior decisions.
+      </p>
+      <p>
+        The novel DSS offers a new paradigm for geosteering where the geosteering experts control the input to the DSS by choosing
+        decision criteria. At the same time, the DSS identifies the optimal decisions through multi-objective optimization under uncertainty. It
+        bridges the gap between developments in formation evaluation and reservoir mapping on one side, and automation of the drilling process
+        on the other. Hence, the approach creates value based on the existing instrumentation and technology
+      </p>
+    </Abstract>
+    <CV>
+      <p>Sergey Alyaev</p>
+    </CV>
+    <attachment>
+      <filename>archive/2018/presentationNFES.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+  </presentation>
+   <presentation>
+    <date>2018-01-10</date>
+    <title>Laminated reservoirs – what can you do with pesky LWD data?</title>
+    <author>David Maggs, Schlumberger</author>
+    <file>archive/2018/Jan18.aspx</file>
+    <Abstract>
+       <p>Laminated or thin bed reservoirs provide multiple challenges for petrophysical evaluation. By definition the beds are thinner than the resolution of the logging tools and therefore their properties are not fully resolved by the measurements. 
+      </p><p>The situation is further complicated when the measurements (especially resistivity) do not return the correct average value of the multiple beds they are investigating. 
+      </p><p>There are two main approaches to determine the correct petrophysical answers in these reservoirs, which I will label “sharpening” and “the big picture”. In the sharpening approach a high resolution log, normally a borehole imager, is used to define the bed boundaries and then the lower resolution logs are sharpened to match. Log convolution is used to ensure the log bed boundary responses are respected when sharpened. After sharpening standard petrophysical algorithms are used to solve for porosity, saturation etc. The big picture approach makes no attempt to define the formation properties in individual layers, but focuses on ensuring that the correct average properties are obtained in an interval. An example would be the use of tri-axial induction tools to determine the horizontal and vertical resistivity of the formation, and then used to determine hydrocarbon volumes and saturations.
+      </p><p>The approaches mentioned above have been available for some time and are regularly applied to wireline data in vertical wells. But in these days of tight budgets and high angle and horizontal wells such data is not always available. The talk attempts to demonstrate how the sharpening and big picture approaches can be modified and applied to use LWD data in vertical, high angle and horizontal wells through a series of case studies and examples.
+      </p>
+    </Abstract>
+    <CV>
+      <p>David Maggs, received his Master’s in Mechanical Engineering from the University of Southampton, England in 1988. He has 29 years of experience in the oil industry, all with Schlumberger. He started as a wireline field engineer in South America for 5 years followed by a further 3 years in the Southern North Sea. David then moved to support Logging-While-Drilling (LWD) and well placement in the Gulf of Mexico. He was then transferred to the Data &amp; Consulting Services segment as operations manager for Continental Europe, and later Latin America South. In 2004 David returned to Drilling &amp; Measurements (D&amp;M) as an LWD Domain Champion, completing assignments in Malaysia, Venezuela and Saudi Arabia, where he was responsible for the technical sales and support of a wide range of LWD technologies. In 2011 David moved to the Schlumberger Information Services (SIS) segment as Petrophysics Product Champion, based in Montpellier, France. Working on the Techlog software platform he was responsible for the development and implementation of several petrophysics modules, in particular the 3D Petrophysics module for high angle and horizontal well interpretation. He has been the Petrophysics Domain Head for D&amp;M since summer 2014. David is a member of the SPWLA, and SPE.</p>
+    </CV>
+  </presentation>
+
+  <presentation>
+    <date>2017-12-06</date>
+    <title>Geosteering and Mapping of Complex Reservoir Boundaries Using an Integrated Data Approach</title>
+    <author>Nils Birger Selheim, Baker Hughes</author>
+    <file>archive/2017/Dec17.aspx</file>
+    <Abstract>
+      <p>A paper presented at SPE ATCE in San Antonio in 2017.</p><p>Most production wells currently drilled in the North Sea are in complex geological settings. In order to place the wells safely and effectively, drilling a successful production well requires an advanced technology and integrated proactive reservoir navigation approach, in addition to multiple data driven answer products from downhole tools.
+</p><p>Extra deep azimuthal resistivity logging while drilling (LWD) tools can detect boundaries up to 30 m away from the wellbore given optimal resistivity conditions. Combined with multicomponent inversion modelling (MCWD), the data acquired are used to map multiple boundaries, individual sand bodies, reservoir thicknesses, and lateral reservoir changes.
+</p><p>Borehole images aid in geosteering and are used to steer up or down based on structural boundaries identified on the image. Using wired pipe technology that provides telemetry rates good enough for memory-resolution data, the full resolution electrical image is available while drilling.
+</p><p>Despite complex reservoir geometry in both external boundaries and internal sedimentary structure, it was possible to successfully geosteer by using an integrated geosteering approach. Through MCWD inversion, it was possible to track a thin, highly resistive layer at the roof for much of the reservoir, which allowed for proactive geosteering, optimizing wellbore placement and mapping of reservoir volumes.
+      </p>
+    </Abstract>
+    <CV>
+      <p>Nils Birger Selheim, Reservoir Navigation Service Manager Norway for Baker Hughes, a GE company. He started his career in 2005 and worked for 6 years in different roles offshore at the rig-site for Baker Hughes within logging and formation evaluation. 
+</p><p>In 2011 he sought new challenges and further career development and started working onshore as a RNS supervisor. In 2014 Nils-Birger took on the role as manager for the RNS geosteering service in Norway. Nils Birger holds a Msc. Degree in Marine Geology from the University of Bergen from 2005.
+</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2017-10-04</date>
+    <title>Values for the Future - The Norwegian Petroleum Directorate’s Resource Report and Outlook</title>
+    <author>Alexey Deryabin, NPD</author>
+    <file>archive/2017/Oct17.aspx</file>
+    <attachment>
+      <filename>archive/2017/NFES_04Oct2017.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+    <Abstract>
+      <p>
+        The significant remaining resources in discoveries and fields make it possible to create values for the Norwegian society for many decades to come, according to the Norwegian Petroleum Directorate’s new report.
+      </p>
+      <p>
+        Since 1990, total resources, including the estimate for undiscovered resources, have increased by more than 40 per cent. In fact, more resources than we expected overall in 1990 have been proven, and there is still a lot left to find. In order to extract all the values, the industry must cooperate on utilizing the infrastructure that exists and use the available technology.
+      </p>
+      <p>“We have been producing oil and gas in Norway for nearly 50 years and we are still not halfway done. Vast volumes of oil and gas have been discovered on the Norwegian shelf that are still waiting to be produced. We want companies with the ability and willingness to utilize new knowledge and advanced technology. This will yield profitable production for many decades in the future”, says Ingrid Sølvberg, Director of development and operations in the Norwegian Petroleum Directorate.</p>
+      <p>At the turn of the year, there were 77 discoveries on the Norwegian shelf that are being considered for development. Most are located in the North Sea, and the largest are in the Barents Sea. The resources in these discoveries amount to 700 million Sm3 o.e.</p>
+      <p>In addition, nearly 850 million Sm3 o.e. can be produced through improved recovery measures, as much as the total production from the Statfjord field since its start-up in 1979. This presumes that the companies will make investment decisions for projects that have already been identified.</p>
+      <p>The Norwegian shelf has been a laboratory for testing new technology. We now need to become leaders with regard to using the technologies that have been developed. We have a strong offshore technology environment in Norway. Let’s make sure this is also maintained in the future. </p>
+    </Abstract>
+    <CV>
+      <p>
+        Alexey Deryabin holds MSc. in Marine Geology from University of Tromsø and has 11 years of experience within Petroleum Industry. For the past 5 years he has worked for the Norwegian Petroleum Directorate in Harstad and Stavanger offices where he is involved in license rounds, reservoir modelling and authorities follow up of field developments on NCS.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2017-09-06</date>
+    <title>Core Analysis: Getting it Right</title>
+    <author>Jules Reed, Core Analysis Manager, Lloyd's Register</author>
+  </presentation>
+  <presentation>
+    <date>2017-06-07</date>
+    <title>Gamma Ray response from Jurassic shale offshore Norway. Can the Th/K ratio indicate Provenance, or do we need mineral analysis?</title>
+    <author>Dr. Carl F. Gyllenhammar, CaMa GeoScience</author>
+    <file>archive/2017/Jun17.aspx</file>
+    <Abstract>
+      <p>A total of 386 wells from the Norwegian shelf have been analysed. 88 from the southern North Sea, 220 from the northern North Sea and 78 wells from Haltenbanken.</p>
+      <p>
+        In the Jurassic section the volume of clay (Vcl) calculation was done using the Neutron-Density cross plot. For consistency, the same parameters for the 100% clay point was used for all wells.
+        The Vcl calculated from the Neu-Den log was used to calibrate the gamma ray (GR) response for clean sand and 100% clay for each well. The selected GR clean and GR 100% clay was then used higher up the well in the cretaceous and the tertiary. In most cases that produced too much sand and silt. The cut-off values were adjusted to honour the lithological description coming from either the composite log or the mudlog.
+      </p>
+      <p>
+        In all the wells the Vcl clean sand GR response is between 10 and 25 api. In the North Sea Vcl 100% clay varies from about 100 to 150 api. But in the Haltenbanken, it is much higher. Above 200 api. This suggest that the clay fraction in the Haltenbanken shales are much more radioactive than in the North Sea. Hence, the mineral composition could be fundamentally different.
+      </p>
+      <p>
+        The first attempt to solve the issue was to identify wells with Spectro GR log to study the thorium-potassium (Th-K) cross-plot. Surprisingly, the K-logs was not logged with consistent units. Although all headings suggest %, quite a few was in fraction v/v.
+      </p>
+      <p>
+        Having converted all to the same unit, it became apparent that there was no systematic difference in the Th-K cross-plot between Haltenbanken and the North Sea. The resolution is simply not good enough.
+      </p>
+      <p>
+        It was therefore decided to pick core samples for mineral analysis.
+      </p>
+      <p>
+        Cost of running mineral analysis is considerable higher than managing to solve the issue with already run logs. It was therefore decided to test the problem by taking only three samples for mineral analysis. NPD assisted in selecting three wells with chronostratigraphically correlatable cores available. 3/7-8S, 25/5-7 and 6506/9-3 had all cores from the Callovian shale about 162 my ago. The three sample were analysed by RockType in Oxford using QemScan. A SEM microscope with a unique software where more than 37 different minerals are identified and its fraction measured.
+      </p>
+      <p>
+        This analysis show that the Haltenbanken sample have considerable more Muscovite than in the samples from the North Sea. Muscovite has also a very high K concentration and is therefore more radioactive than most other clay mineral. Although this analysis is based on only three samples, the wireline analysis is based on 386 different wells, it does suggest that Haltenbanken Jurassic shales have considerable more Muscovite that the Jurassic shales in the North Sea.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Dr. Carl started his academic career-studying math, physics and chemistry at University of Grenoble, France (1975-78). After three years in France, he returned to Norway and continued studying geology at University in Oslo. In 1984 he became an oil rig well-site geologist. During his time in Conoco (1985) he systematically evaluated the drilling problems associated with drilling through thick clay-stone (Shale) sections before reaching the oil and gas reservoirs. He has received MSc degree in Applied Geophysics, with the title Seismic stratigraphy of the Essouira basin, offshore Morocco and PhD with the title; “A critical review of currently available pore pressure methods and their input parameters. – Glaciations and compaction of the North Sea sediments
+      </p>
+      <p>
+        Carl joined BP research department in Sunbury and worked with compaction and pore pressure developments in claystone. The last 10 years he has explored for oil and gas in the North Sea (UK, Norway and Denmark), onshore Europe, Morocco, Tunisia, Azerbaijan and Kazakhstan. He is currently focusing on the bridge between geology and geophysics; Rock Physics.
+      </p>
+    </CV>
+  </presentation>
+
+  <presentation>
+    <date>2017-05-03</date>
+    <title>Integrated Approach to Diagnose Well Productivity Problem</title>
+    <author>Colin Cranfield, Baker Hughes</author>
+    <file>archive/2017/May17.aspx</file>
+    <Abstract>
+      <p>A North Sea well completed with sand screens and inflow control devices had been cleaned up and placed on production. However, its subsequent production had fallen short of expectations and displayed anomalous behaviour. The operator suspected that the cause of the well productivity problems might be plugging of the sand screens or issues associated with the inflow control devices. The service provider, Baker Hughes, elected to provide an expert view on this. </p>
+      <p>A multi-disciplinary team was formed, comprising specialists in drilling fluids, production technology, reservoir engineering and production chemistry. The team performed a review and detailed analysis of the well drilling, completion and clean-up procedures. This was revealing and uncovered a number of factors which were most likely contributing to the reduced well productivity.</p>
+      <p>The presentation will describe the workflow conducted to investigate the well production issues and insights gained. This will demonstrate the value of an integrated approach together with the key results and conclusions.
+      </p>
+
+    </Abstract>
+    <CV>
+      <p>Colin studied mechanical and petroleum reservoir engineering in the UK many years ago, after which he initially taught science to High School pupils in Papua New Guinea with Voluntary Service Overseas and then spent a year travelling back overland. He was fortunate to still find employment as a reservoir engineer on his return and since then has enjoyed a varied career working for many of the majors, one or two intermediates, the UK regulator and now Baker Hughes. During that time he has variously worked as reservoir engineer, production engineer and petrophysicist.</p>
+      <p>Colin is currently Principal Reservoir Engineer in Baker Hughes’ Geoscience &amp; Petroleum Engineering group of well and sub-surface specialists, with a particular focus on well inflow control. He is based in Aberdeen but spends a significant proportion of his time in Norway.
+</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2017-04-05</date>
+    <title>Calibration of Anisotropic Velocity Models using Innovative Borehole Geophysical Measurements</title>
+    <author>Rafael Guerra, Schlumberger</author>
+    <file>archive/2017/Apr17.aspx</file>
+    <attachment>
+      <filename>archive/2017/NFES_05Apr2017.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+    <Abstract>
+      <p>Some key applications of distributed acoustic fiber optics measurements will be discussed, with the measurements performed during logging or using existing permanent fibers.</p>
+      <p>
+        In particular, the importance of the borehole measurements in the calibration of anisotropic velocity models will be highlighted.
+        The talk will provide examples and cover technical aspects of the integration of advanced sonic measurements with borehole seismic and surface seismic data.
+      </p>
+      <p>
+        The end goal is to obtain accurate velocity models for seismic imaging and for geomechanical studies.
+      </p>
+
+    </Abstract>
+    <CV>
+      <p>Rafael Guerra is a petroleum geophysicist, graduated from the French Petroleum Institute (IFP), having evolved essentially within the Schlumberger group, with further experience acquired with two other Oil&amp;Gas consulting companies. Expert in borehole seismic and acoustic techniques, he has gained over the last 20 years extensive operational experience internationally in data acquisition, processing and interpretation. This included also the interpretation of surface seismic data in exploration and field development projects.</p>
+      <p>
+        Rafael is currently based in Stavanger, and he is responsible for Schlumberger’s wireline borehole seismic activity in Europe.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2017-03-08</date>
+    <title>In the realm of resistivity based Water Saturation equations and introduction to log based Saturation uncertainty analysis</title>
+    <author>Harish B. Datir, Schlumberger</author>
+    <file>archive/2017/Mar17.aspx</file>
+    <Abstract> <p>Estimating the field’s original oil in place (OOIP) for any E&amp;P Company is a crucial part of knowing its worth in terms of money.  Among others, the OOIP calculation requires two key inputs from the Petrophysicist; the Total Porosity (PHIT) and the Total Water Saturation (Sw). It also requires understanding of the oil recovery factor (also known as the productivity index), which comes from the reservoir engineer. The uncertainty on computed Sw and PHIT as well as the accuracy of oil recovery factor, can impact the net worth of the field significantly. Hence, it is imperative to perform an accurate petrophysical assessment.</p><p>
+Porosity plays an important role in the estimation of Sw.  The uncertainty on the PHIT however depends on the porosity estimation method and the measurements being used. If the density porosity method from logs is used, then porosity uncertainty will depends on how accurate is the formation matrix grain density, the bulk density of the rock, and the formation fluid density. Modern days log measurements provide the most comprehensive set of measurements to evaluate the total porosity accurately and precisely. This enables the Petrophysicist to estimate his porosity with confidence; but when it comes to Saturations, it becomes more elaborated as there is not straight forward answer. By understanding the relationship between PHIT and Sw via the Saturation equations, it will be clearer that the final saturation is not only controlled by porosity but also by the type of water saturation equation is being used and level of detail which is involved. In most cases, the selection of appropriate saturation equation plays a paramount role.</p><p>
+This presentation provides a brief overview on the popular resistivity based water saturation equations, the benefits and difficulties of using them, the selection process. It also shows how the choice of equations can give an erroneous results or drive us to success. In the final stage of the presentation the log based saturation uncertainty analysis is described.  The Dual Water equation’s individual inputs and their uncertainty are used to show their specific contribution to the total saturation uncertainty calculation and distribution.
+</p>
+    </Abstract>
+    <CV>
+      <p>Harish is a Senior Petrophysicist currently working for Schlumberger SIS Data Services, based in Stavanger, Norway. He joined Schlumberger in 2007 as a wireline field engineer and later moved into Petro-Technical Services as a Petrophysicist. He initially worked in Middle East for 4 years and in the North Sea area for the last 6 years. He has a BS degree in applied geology and a Master’s degree in applied geophysics (2007) from the Indian Institute of Technology, Roorkee. He also teaches the NExT designed courses on Formation Evaluation (ELAN), Thin Bed Analysis (TBA) and Acoustics Processing and Interpretation. He has a shared patent on NMR Saturation profiling interpretation technique and one individual patent Memo on nuclear measurement interpretation methodology. His work focuses on providing the petrophysical interpretation for Wireline and D&amp;M measurements and also on developing the integrated petrophysical answer products.</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2017-02-01</date>
+    <title>Joint Interpretation of Magnetic Resonance and Resisitivity Based Fluid Volumetrics - A Framework for Petrophysical Evaluation</title>
+    <author>Geoffrey Page, Baker Hughes - SPWLA Distinguished Speaker</author>
+    <file>archive/2017/Feb17.aspx</file>
+    <Abstract>
+      <p>
+        The accurate quantification of fluid volumes is one of
+        the most important tasks for determining the economic
+        value of hydrocarbon reservoirs. Resistivity-based fluid
+        saturation calculations have been established for many
+        decades with known benefits and challenges. More
+        recently nuclear magnetic resonance (NMR)
+        technology has developed as an alternative, robust
+        method for direct fluid volume estimation. Resistivity
+        logging data are used to calculate saturation of
+        conductive (e.g. water) versus non-conductive (e.g.
+        hydrocarbon) fluids in the formation. NMR logging
+        data capture information about pore size in the
+        formation and, thus, separate movable fluids, usually
+        residing in large pores, from bound fluids. The bound
+        fluids are further sub-divided into clay-bound water
+        components and irreducible components held by
+        capillary forces. The movable water and hydrocarbon
+        volumes can be estimated using simple T2 cutoff
+        approaches or more sophisticated 2D-NMR methods
+        (the latter of which are generally only available for
+        wireline NMR applications).
+      </p>
+      <p>
+        As today’s reservoirs are becoming more challenging,
+        conventional resistivity data evaluation involves
+        increasing difficulties and ambiguities such as in
+        complex lithology due to the presence of conductive
+        minerals, low formation water salinity, fractures and
+        vugs, or local variations in water resistivity. NMR data
+        processing and interpretation are also not straight
+        forward in complex carbonates and heavy oil reservoirs,
+        as well as in case of wettability alteration and due to the
+        presence of magnetic minerals. Ambiguities in either of
+        the measurements can be efficaciously addressed by
+        combining results from both approaches. In simple
+        reservoirs, for instance, the combination of resistivty
+        and NMR reduces uncertainties and can be used to
+        identify and quantify effects such as invasion or water
+        (-free) production.
+      </p>
+      <p>
+        We present a systematic compilation and discussion of
+        main properties affecting resistivity and NMR fluid
+        volume estimations such as Archie exponents and T2
+        cutoffs. This includes various reservoir types with
+        various fluid types and measurement conditions.
+        Guidelines will be provided on how to combine
+        resistivity-based fluid volumetrics and NMR-based
+        volumetrics most effectively. An unpublished and four
+        previously published log examples illustrate a wide
+        range of reservoir scenarios. In addition to the log
+        interpretation aspect, we also relate the results to their
+        applications ranging from real-time drilling
+        optimization through hydrocarbon-in-place estimates
+        and reservoir modeling input to production and
+        completion decisions.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Geoffrey Page studied physics at
+        the Royal College of Science in
+        London. He began his oilfield
+        career as a Dresser Atlas field
+        engineer 36 years ago, moved into
+        Petrophysics in Aberdeen 28 years
+        ago, and is now Region
+        Petrophysical Advisor for Baker
+        Hughes based in Aberdeen. He is a former President of
+        the Aberdeen chapter of the SPWLA (AFES) and was
+        honoured with a life membership. He has written and
+        presented many papers over the years, helped organise
+        many of the conferences including SPWLA 2008 in
+        Edinburgh, and in his spare time teaches the
+        Petrophysics course of Aberdeen University’s
+        "Integrated Petroleum Geoscience" MSc course.</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2017-01-11</date>
+    <title>On Error Calculation and Use of First Order Error Propagation as Integral Part of Petrophysical Calculation</title>
+    <author>Stein Ottar Stalheim, Statoil</author>
+    <file>archive/2017/Jan17.aspx</file>
+    <Abstract>
+      <p>
+        The presentation is based on the view that the calculation of error is an essential part of measurements and scientific calculations, and that it should be an integral part of petrophysical calculations. Presentation of errors in petrophysical results are rarely applied in formation evaluation and reservoir characterization.  Calculation of petrophysical error is commonly executed for input to the geostatistics, but often only after the petrophysical calculation is completed.  Sometimes the calculation of petrophysical error is excluded altogether.  Petrophysical results should include traceable and quantifiable errors.
+      </p>
+      <p>
+        The motivation of this paper is to show that errors can easily be integrated to the petrophysical results by including the first order error propagation (FOEP) method as a part of the computer script that give the petrophysical results.  Errors in the petrophysical results are related to the models used and errors in model input.  Calculation of petrophysical errors involves understanding how the input errors propagate through the functions to the end product.  A commonly used method is Monte Carlo, while FOEP is less used.  Different views exist with respect to needs, pros and cons for the various methods, but there also are some doubts regarding limitations around the use of FOEP.  The FOEP solution is the chosen method in this paper because it is an analytical and more practical solution related to implementation into the script that computes the petrophysical results.
+      </p>
+      <p>
+        This paper includes an introduction to the theory of FOEP in matrix form and contains examples that illustrate the application of petrophysical functions.  The mathematics shows how dependencies between variables and asymmetrical distributions are included in calculation of errors. The mathematics, graphical user interfaces (GUI), and plot functionalities are scripted with the use of Python.  An example of a GUI for petrophysical input, and example plots including presentation of the errors and error propagation, are also presented.
+      </p>
+      <p>
+        The purpose of the presentation is to increase the focus on petrophysical error calculations, and to demonstrate the advantages of error propagation as a standard part of the petrophysical results.  The mathematical formulation in matrix form, which makes the computer script simpler and the computation faster, and allows the implementation of asymmetrical distributions, is not observed in the petrophysical literature.
+      </p>
+    </Abstract>
+    <CV>
+      <p>Stein Ottar is a specialist in Petrophysiscs with Statoil, Norway. Stein Ottar joined Statoil in 1993.  His main interests are EM physics, multivariate analysis, and scientific computing.
+</p><p>
+The main role of Stein Ottar in Statoil is related to geo-electrical modeling, dynamic petrophysics and well integrity. Stein Ottar received his MSc and PhD in physics from the university in Bergen.
+</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2016-11-07</date>
+    <title>LOOKING AHEAD OF THE BIT WHILE DRILLING: FROM VISION TO REALITY</title>
+    <author>Monica Vik Constable, Statoil</author>
+    <file>archive/2016/Dec16.aspx</file>
+    <Abstract>
+      <p>
+The presentation is based on the view that the calculation of error is an essential part of measurements and scientific calculations, and that it should be an integral part of petrophysical calculations. Presentation of errors in petrophysical results are rarely applied in formation evaluation and reservoir characterization.  Calculation of petrophysical error is commonly executed for input to the geostatistics, but often only after the petrophysical calculation is completed.  Sometimes the calculation of petrophysical error is excluded altogether.  Petrophysical results should include traceable and quantifiable errors. 
+</p><p>
+The motivation of this paper is to show that errors can easily be integrated to the petrophysical results by including the first order error propagation (FOEP) method as a part of the computer script that give the petrophysical results.  Errors in the petrophysical results are related to the models used and errors in model input.  Calculation of petrophysical errors involves understanding how the input errors propagate through the functions to the end product.  A commonly used method is Monte Carlo, while FOEP is less used.  Different views exist with respect to needs, pros and cons for the various methods, but there also are some doubts regarding limitations around the use of FOEP.  The FOEP solution is the chosen method in this paper because it is an analytical and more practical solution related to implementation into the script that computes the petrophysical results.  
+</p><p>
+This paper includes an introduction to the theory of FOEP in matrix form and contains examples that illustrate the application of petrophysical functions.  The mathematics shows how dependencies between variables and asymmetrical distributions are included in calculation of errors. The mathematics, graphical user interfaces (GUI), and plot functionalities are scripted with the use of Python.  An example of a GUI for petrophysical input, and example plots including presentation of the errors and error propagation, are also presented.
+</p><p>
+The purpose of the presentation is to increase the focus on petrophysical error calculations, and to demonstrate the advantages of error propagation as a standard part of the petrophysical results.  The mathematical formulation in matrix form, which makes the computer script simpler and the computation faster, and allows the implementation of asymmetrical distributions, is not observed in the petrophysical literature.
+      </p>
+    </Abstract>
+    <CV>
+      <p>Monica Vik Constable started working in the oil industry in 1997 as a wireline field engineer for Schlumberger. She joined Statoil in 2005 as a Petrophysicist, and was a Leading Advisor in Petrophysics in Statoil from 2009 – 2014. She is now a Specialist in Petrophysics in the Advanced Petrophysics group and coordinates the Logging Technology Group in Statoil. She has been overseeing the implementation of look ahead and look around resistivity measurements in Statoil.</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2016-10-05</date>
+    <title>Formation Testing and Sampling in Low-Mobility formations, an example of new technology Solutions</title>
+    <author>Gavin JG Sibbald, Baker</author>
+    <file>archive/2016/Oct16.aspx</file>
+    <CV>
+      <p>Gavin JG Sibbald is the regional reservoir engineering advisor for Baker Hughes based in London. He holds an MSci with Honours in Geoscience from Royal Holloway, University of London and PGDip in Petroleum Engineering from Heriot Watt. He has been with Baker Hughes for 10 years.</p>
+    </CV>
+    <attachment>
+      <filename>archive/2016/2016_D.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+  </presentation>
+  <presentation>
+    <date>2016-09-07</date>
+    <title>Supercharging Assessment in Formation Pressure Measurements Made While Drilling by Deliberately Pulsed Circulation</title>
+    <author>Maria Cecilia Bravo, Schlumberger</author>
+    <file>archive/2016/Sep16.aspx</file>
+    <Abstract>
+      <p>Supercharging is increased sand face pressure caused by drilling fluid filtrate leak-off.  It has been long recognized that supercharging is one of the key fact geoscientists will live with for low permeability formations. North Sea chalk reservoirs, in general, exhibit good porosity; however they have poor permeability because of small pores. The use of modelling techniques to estimate supercharging considering deliberately altered wellbore conditions will be discussed. </p>
+    </Abstract>
+    <CV>
+      <p>Maria Cecilia Bravo is a senior reservoir engineer with Schlumberger, currently Associate Reservoir Domain Champion for Norway and Denmark. In that role she is involved within the Drilling Group to support Formation Pressure and Sampling While Drilling operations. She completed a BSc degree in the Simon Bolivar University in Venezuela and obtained Master of Science Degree in Petroleum Engineering from Heriot-Watt University in Edinburgh. She started in Schlumberger 8 years ago as an Field Engineer then joined the Reservoir Engineering team supporting downhole pressure and fluid sampling analysis for offshore operations in Norway, UK, Denmark, Netherlands, Turkey and Romania.</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2016-06-01</date>
+    <title>Optimized geosteering through the use of Extra Deep Resistivity and Broadband Seismic</title>
+    <author>Mats Bjorndal Skaug, Total</author>
+    <file>archive/2016/Jun16.aspx</file>
+    <CV>
+      <p>
+        Mats Bjorndal Skaug:
+        Operations Geologist for Total E&amp;P Norway since 2009. Started career with a short period as exploration geologist (play evaluation in the North Sea) before moving into subsurface operations in 2010. Worked on-/offshore in Russia (onshore development), Italy (onshore development), UK (offshore exploration), Azerbaijan (offshore exploration) in period from 2010-2013, before returning to Norway. Currently working with planning and follow up of operated development and exploration wells as well as non-operated exploration wells.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2016-05-04</date>
+    <title>Heterogeneous Carbonate Reservoirs: Ensuring Consistency of Subsurface Models by Maximizing the Use of Saturation Height Models and Dynamic Data</title>
+    <author>Iulian N Hulea, Shell,  SPWLA Distinguished Speaker</author>
+    <file>archive/2016/May16.aspx</file>
+   </presentation>
+  <presentation>
+    <date>2016-04-06</date>
+    <title>Net Pay – Applications of NMR and Dielectric Dispersion</title>
+    <author>Michel Claverie, Schlumberger </author>
+    <file>archive/2016/Apr16.aspx</file>
+    <Abstract>
+      <p>
+ We will review formation evaluation methods focused on reducing the uncertainty of reservoir thickness and volumes of hydrocarbons-in-place.  Two case studies will describe the applications of NMR and dielectric dispersion logs to the evaluation of a heavy-oil reservoir under steam injection offshore West Africa, and of a bioclastic carbonate reservoir from a highly deviated drain offshore UK.      </p>
+    </Abstract>
+    <CV>
+      <p>
+Michel Claverie is the Petrophysics Technical Director for Schlumberger Wireline.  He was a Wireline field engineer in Australia, Indonesia and India; a reservoir engineer and petrophysicist in Kuwait, Damascus, Stavanger, Buenos-Aires, Perth (WA) and Kuala-Lumpur, before moving to Paris in 2007 as the Petrophysics Advisor at Schlumberger Wireline headquarters. Since 2011, he has provided log acquisition and interpretation support to Europe and Africa operations from London, and recently returned to his global role at Wireline headquarters.
+      </p>
+      <p>
+Michel holds a MEng. in Petroleum Engineering from Herriot-Watt university, Edinburgh (1986). He is the current SPWLA Regional Director for Europe (2015-17).
+      </p>
+    </CV>
+  </presentation>
+
+  <presentation>
+    <date>2016-03-02</date>
+    <title>Formation Fluid Characterisation for Geosteering Application Using Advanced Mud Logging Gas Detection Tools</title>
+    <author>Bacem Ben Abdallah, Geolog Surface Logging</author>
+    <file>archive/2016/Mar16.aspx</file>
+    <Abstract>
+      <p>
+        During drilling, the acquisition of gas in mud data is an almost universal practice used for geological surveillance and safety. This source of data is, however, rarely used for formation evaluation because of the widely accepted presumption that it is unreliable and unrepresentative of the formation fluids. Therefore, recent developments in the mud-logging industry aimed to improve gas data acquisition and analysis and have led to the availability of better quality data. The comparison of surface gas, PVT, and geochemistry data clearly confirms the consistency between the drilling gas data (gas shows) and the corresponding reservoir fluid composition.
+      </p>
+      <p>
+        This NFES Lecture will be focusing on the impact of recent improvements in gas-acquisition technology and the new GWD methodology. In fact, these improvements enabled us to perform reservoir interpretation in near real time allowing fluid and contacts identification, fluid modeling processing and uncertainty evaluation and consequently allowing Geosteering application and operational optimization (e.g., coring, wireline recording and sampling, and testing operations).
+      </p>
+      <p>
+        These improvements make it is also possible to integrate the GWD interpretation in reservoir, geochemical, PVT analysis, and comprehensive studies.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Advanced services Support manager for Geolog in North Sea region, focus on Quality control and Formation evaluation using different advanced Mudlogging techniques (GWD, XRF/ XRD, Isotopy, pyrolysis, TOC...).  He has been working in the Oil &amp; Gas industry for the past 10 years, having a geology background; Bacem holds an engineering diploma on Geo Resources.
+      </p>
+    </CV>
+  </presentation>
+
+  <presentation>
+    <date>2016-02-03</date>
+    <title>Core Analysis in the Digital Age</title>
+    <author>Stefano Pruno, Weatherford Laboratories</author>
+    <file>archive/2016/Feb16.aspx</file>
+    <Abstract>
+      <p><em>“Core samples truly represent the ground truth in the search for oil and gas. There are other established
+sets of integrated parameters such as fluid properties, well data, etc…, but unlocking the secrets of the
+rock will enable the operator understand the production potential of a reservoir and map out the best
+well construction scenarios for optimal field production.”</em></p><p>
+Are these only nice words from a core analysis marketing brochure or can we really get more from the
+core? Since coring operations and core analysis is expensive and time consuming how can we justify
+investing in a full core analysis program and maximise the value of core analysis data. Why it is so
+important to define targets and deliverables for a successful core analysis program?</p><p>
+This NFES lecture will be focused on the recent developments in core analysis, the eternal quest for
+quality data to accurately define reservoir estimates and improve reservoir modelling.</p><p>
+We will also try to address the more recent and interesting developments in the core analysis field.
+Digital rock properties and pore network modelling friend or foe?
+</p>
+    </Abstract>
+    <CV>
+      <p>Weatherford Laboratories Regional Technical Advisor for Core Analysis for Europe and Caspian Region.
+He has a University background in Geology and Petrophysics (MSc), working in Conventional/Special
+Core Analysis field for the O&amp;G Industry for approx. 20 years, with Weatherford Laboratories (Norway)
+for the last 8 years.
+    </p>
+    </CV>
+ </presentation>
+  <presentation>
+    <date>2016-01-06</date>
+    <title>Evolving Petrophysics of the Overburden: A Spectroscopy Approach</title>
+    <author>Harish B. Datir, Schlumberger</author>
+    <file>archive/2016/Jan16.aspx</file>
+    <Abstract>
+      <p>The Greater Ekofisk area produces from naturally fractured chalk reservoirs in the North Sea. While knowledge of the reservoir itself 
+      is essential, it is equally important to have a thorough characterization of the overburden that lies above. Continuous measurements with 
+      high vertical resolution are required to address numerous challenges for drilling, completions, sustainable production, and abandonment 
+      operations-narrow drilling windows, wellbore stability, compaction, subsidence, fault reactivation, and fluid containment-that increase 
+      costs and reduce well life. Previously integrated core studies, acoustic measurements, seismic surveys, and well logs document complex 
+      mineralogy: mixed clays, quartz, feldspars, carbonates, and iron-rich heavy minerals. In addition, these highly porous overburden shales 
+      contain a variable amount of organic matter and naturally occurring free-gas volumes.
+</p><p>The presentation was originally given at the SPWLA 2015, conference paper HHH.
+</p>
+    </Abstract>
+    <CV>
+      <p>Harish B. Datir is a Senior Petrophysicist currently working for Schlumberger SIS Data Services based in Stavanger, Norway. 
+      He joined Schlumberger in 2007 as a wireline field engineer and later moved into PetroTechnical Services as a Petrophysicist. 
+      He worked in Middle East for 4 years, and for the past 4 years he has been working in the North Sea. He has a BS degree in applied 
+      geology and a Master’s degree in applied geophysics (2007) from the Indian Institute of Technology, Roorkee. His work focuses on developing 
+      integrated petrophysical answer products and improving the existing ones in support of Schlumberger petrophysical tools.
+    </p>
+    </CV>
+     <attachment>
+      <filename>archive/2016/EvolvingPetrophysics.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+  </presentation>
+ <presentation>
+    <date>2015-12-02</date>
+    <title>In-Situ Stress Testing with use of Wireline Formation Tester. Update on the Latest Developments</title>
+    <author>Vladislav Achourov, Schlumberger</author>
+    <file>archive/2015/Dec15.aspx</file>
+    <Abstract>
+      <p>The presentation provides an overview of the new developments in in-situ stress testing methods and tools which are designed to help to overcome many of the common limitations of this technology.
+</p><p>In-Situ stress measurements are an essential input to a wide range of geomechanics applications in field exploration, development and production.
+</p><p>An unfavorable distribution of the stress in the rock, like a large difference between the vertical and horizontal stress, may cause a wellbore to be mechanically unstable. Precise knowledge of the stress profile is an important input to well and completion design. The ability to control well stability and sand management also depend on largely on the understanding of the stress distribution. In order to design the hydraulic fracture stimulation, the state of stress in the reservoir, and in the barrier layers above and below must be known to contain the hydraulic fracture and prevent communication with other zones. Production and injection (water injection, pressure support, EOR etc) may change the local stress condition which can lead to changes in permeability or even activate faults and thus affect production performance.
+</p>
+    </Abstract>
+    <CV>
+      <p>Vladislav Achourov is a Principal Reservoir Domain Champion with Schlumberger, since the end of 2007 based in Norway. He has received Master's Degree in Physics from Russian University of Oil and Gas and joined Schlumberger in Russia in 2000 as a reservoir engineer. Vlad has worked with reservoir simulations and production log interpretation and in his current role provides technical support for all the wireline formation testing services in Scandinavia.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <seminar />
+    <date>2015-11-04</date>
+    <title>Combining wellbores with Multilateral technology ‐ a way to reduce cost</title>
+    <author>Gorm Liland, Halliburton</author>
+    <file>archive/2015/NFES_1_Day_PP_Semianr_Timetable_2015_.pdf</file>
+     <attachment>
+      <filename>archive/2015/NFES151104-MLTcostsaving-Halliburton.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+ </presentation>
+  <presentation>
+    <seminar />
+    <date>2015-11-04</date>
+    <title>Integrated Applications of Fiber-Optic Distributed Acoustic and Temperature Sensing</title>
+    <author>Francisco Porturas, Ziebel</author>
+    <file>archive/2015/NFES_1_Day_PP_Semianr_Timetable_2015_.pdf</file>
+     <attachment>
+      <filename>archive/2015/NFES151104-FPorturas.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+ </presentation>
+  <presentation>
+    <date>2015-10-13</date>
+    <title>Resistivity Anisotropy and Formation Dip Evaluation in Vertical and Low Angle Wells Using LWD Directional Electromagnetic Measurements</title>
+    <author>Mathias Horstmann (Schlumberger)</author>
+    <file>archive/2015/Oct15.aspx</file>
+    <Abstract>
+      <p>Detection and quantification of formation resistivity anisotropy is important in many reservoirs, particularly those with laminations thinner than the axial resolution of standard measurements, when the properties of the individual layers cannot be resolved. Resistivity anisotropy evaluation is just as much important for background resistivity estimation in the overburden shales and underlying sequences where controlled-source electromagnetic (CSEM) surveys are acquired to reduce exploration risks. Formation dip determination is vital in almost all reservoirs.</p>
+<p>Electromagnetic methods to determine the formation resistivity perpendicular to layering (Rv) and parallel to layering (Rh), in addition to the layering dip and azimuth, became available with triaxial induction measurements deployed on wireline (WL). Around the same time, deep directional electromagnetic (EM) measurements deployed on logging-while-drilling (LWD) tools ushered in the well placement revolution of remote detection of layers of differing conductivity.</p>
+<p>With thousands of wells successfully positioned using the LWD directional EM technology, an alternate application for evaluation of resistivity anisotropy and formation dip is showing promise. Directional EM measurements are the LWD equivalent of wireline triaxial induction, also providing anisotropy measurements in vertical and deviated wells with enhanced sensitivity to formation dip decoupled from the anisotropy effect. Further, the LWD tool occupies a large portion of the borehole, displacing the mud and ensuring that the tool remains well centered, both of which reduce borehole effect in water-base mud. Finally, the availability of LWD directional EM while drilling provides the opportunity for thin-bed analysis and early decision making in difficult reservoirs.</p>
+<p>The resistivity anisotropy and dip interpretation is based on a multistep inversion workflow optimized to take advantage of measurement sensitivities. In addition to resistivity anisotropy and formation dip evaluation in vertical and deviated wells, the technique provides quality control indicators based on inversion post-processing.</p>
+<p>Measurements and interpretation were successfully qualified in the Norwegian Barents Sea. Here the possibility of borehole integrity issues or its degradation over time increases the risk of having limited or no logging runs on WL. Also, planned riser-less pilot holes may allow data acquisition only while drilling. In these situations LWD resistivity anisotropy data must provide the kernel for interpretation.</p>
+<p>The acquired resistivity anisotropy can be used as input for building CSEM models, reduce resistivity anisotropy uncertainties and support defining constraints for the 3D deep EM inversion-based interpretation. Field testing has provided good opportunities to enhance the measurements and validated the service. With implementation of improvements, an agreement with WL triaxial induction, in a range of different environments, is demonstrated. Several field test examples have proven that resistivity anisotropy and dip evaluation from LWD directional EM measurements is a viable alternative to the traditional WL service.</p>
+    </Abstract>
+    <CV>
+      <p>Mathias Horstmann is a Principal Petrophysicist with Schlumberger, and LWD domain champion for Scandinavia, based in Stavanger, Norway.  After working for a period in the mining industry he joined Schlumberger in 2002 as a field engineer in Europe and Africa. He worked in management positions and held various petro-technical positions in Europe and Asia. Mathias holds a Master Degree in Geology from the University of Freiburg, Germany. He is currently VP Program of the Norwegian Formation Evaluation Society (NFES), the Norwegian chapter of SPWLA.</p>
+    </CV>
+  </presentation>
+ <presentation>
+    <date>2015-09-02</date>
+    <title>Lifting the Fog of Confusion Surrounding Clay and Shale in Petrophysics</title>
+    <author>Paul Spooner, LR Senergy</author>
+    <file>archive/2015/Sep15.aspx</file>
+    <Abstract>
+      <p>Consideration of the distinction between rocks and
+      minerals is of vital importance in the petrophysical
+      task of determining porosity and hence, water
+      saturation. Given the significance of this task it is
+      surprising how much confusion there is across the
+      industry over this issue. The confusion between
+      clay and shale is the most common, to the extent
+      that many books, papers, training courses and
+      software products still do not differentiate, or
+      explain these clearly or correctly.</p>
+      <p>
+      Shale is a rock, typically defined as an indurated,
+      finely laminated, sedimentary rock, composed
+      primarily of clay, mud and silt. The important
+      feature to note is that this definition does not
+      describe the mineralogy but rather the grain size.
+      In this definition, clay refers to clay sized
+      particles, i.e. &lt; 1/256 mm.</p>
+    <p>
+Whilst clay can refer to grain size it can also refer 
+to clay minerals, and it is the dual meaning of the 
+word clay that is at the heart of the confusion in 
+the industry. Clay minerals are a group of hydrous 
+aluminium silicates with a sheet-like structure 
+(phyllosilicates), which adsorb water on their 
+surfaces. It is these clay minerals that we are 
+concerned about when determining porosity and 
+water saturation.</p>
+    <p>
+In shale, most of the clay sized particles are 
+composed of clay minerals. When computing 
+porosity we need to account for the clay minerals, 
+for example when their density is different from 
+the matrix density. When computing water 
+saturation we need to account for the excess 
+conductivity due to the clay minerals. In both 
+cases it is the volume of clay minerals we need to 
+correct for, not the volume of shale.</p>
+    <p>
+Shale models are technically correct when they 
+include a relationship between volume of shale 
+and either volume of clay or volume of silt.</p>
+    <p>
+It is very important not to confuse clay and shale 
+models as this simple error can lead to many 
+problems: misunderstanding the difference 
+between effective porosity and total porosity; the 
+erroneous use of structural, laminated and 
+dispersed clay models when really it is a change in 
+the clay content of the shale; treating silt as a 
+mineral when it is a grain size; shale computed 
+with zero porosity; other low quality reservoir 
+layers, such as siltstones, computed with zero 
+porosity leading to them being modelled as zero 
+permeability baffles, when in reality they can store 
+hydrocarbons and be considered reservoir when 
+they are high enough above the free water level.</p>
+    <p>
+This paper seeks to lift the fog of confusion.</p>
+    </Abstract>
+    <CV>
+      <p>Paul is currently IP Product Champion for LP Senergy,
+      providing support, training and helping with the
+      development of Senergy's IP software product. Prior to
+      joining Senergy Software Paul worked on many
+      complex petrophysical and integrated projects within
+      the consultancy department of Senergy GB Ltd, and
+      formerly Production Geoscience Ltd. Paul spent many
+      years in the field as a Wireline Engineer, then latterly in
+      the office on integrated projects. During this time he
+      built up his Petrophysical knowledge and in particular
+      his expertise on NMR interpretation and core
+      integration. More recently, Paul has been engaged
+      along with others in the development and delivery of
+      the Petrophysics and Formation Evaluation MSc course
+      from Aberdeen University.</p>
+    </CV>
+  </presentation>
+
+  <presentation>
+    <date>2015-06-03</date>
+    <title>Deep Shear Wave Imaging thru Casing</title>
+    <author>Roman Mirzwinski, Baker</author>
+    <file>archive/2015/Jun15.aspx</file>
+    <Abstract>
+      <p>
+        Review of the acoustic dipole imaging technique followed by a case history of a North Sea gas well logged through-casing with XMAC to define near wellbore fractures.
+      </p>
+      <p>
+        A North Sea well was drilled through a thick evaporite sequence. During drilling, gas shows were
+        observed in the halite section by the mudloggers. No openhole wireline logs were acquired over the interval of interest; however, a full-wave monopole and dipole acoustic log was acquired over the interval of interest after casing had been set. The acoustic imaging processing detected geologic reflector structures through the casing up to 70 feet from the borehole.
+      </p>
+      <p>
+        Two types of reflectors with different dip angles were mapped out by the imaging. The low dip-angle reflectors are assigned to the formation beds/structures crossing the borehole. High-angle reflectors correspond to fractures and/or faults of large extent in the formation. These acoustic imaging results were then compared to the gas shows observed during drilling and showed a direct correlation to the high-angle reflectors. This technique made it possible to estimate the fracture presence away from the borehole and pathways for gas migration into the borehole.
+      </p>
+
+    </Abstract>
+    <CV>
+      <table>
+        <thead>
+          <tr>
+            <th colspan="2">Senior Geoscientist for Baker Hughes Norway based in Stavanger</th>
+          </tr>
+        </thead>
+        <tr>
+          <th>Name:</th>
+          <th>Roman J. Mirzwinski</th>
+        </tr>
+        <tr>
+          <th>Current Title:</th>
+          <td>Senior Geoscientist II</td>
+        </tr>
+        <tr>
+          <th>Education:</th>
+          <td>BSc (Hons) Physics, Imperial College, London</td>
+        </tr>
+        <tr>
+          <th>Relevant Job Experience:</th>
+          <td>
+            35 years of oilfield experience  - to date Stavanger, Norway Snr. Petrophysicist<br />
+            Apr-2007 – June 2015 Stavanger, Norway Sr.GeoScientist<br />
+            Nov-2004 - Apr-2007 Baku, Azerbaijan Snr.Petrophysicist<br />
+            Jan-2002 - Nov-2004 Stavanger, Norway S.Log Analyst<br />
+            May-1998 - Jan-2002 AbuDhabi, UAE Snr. Log Analyst<br />
+            Feb-1995 - May-1998 Khobar, Saudi Arabia Sales Engineer<br />
+            Jun-1994 - Feb-1995 Kuwait Log Analyst<br />
+            Mar-1988 - Jun-1994 Aberdeen, Log Analyst<br />
+            Feb-1980 - Mar-1998 North Sea locations General Field Eng
+          </td>
+        </tr>
+
+      </table>
+    </CV>
+    <attachment>
+      <filename>archive/2015/Jun15.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+
+  </presentation>
+
+  <presentation>
+    <date>2015-05-06</date>
+    <title>Evaluating Pore Space Connectivity by NMR Diffusive Coupling</title>
+    <author>Giovanna  Carneiro (Schlumberger-Doll Research), SPWLA Distinguished Lecturer</author>
+    <file>archive/2015/May15.aspx</file>
+    <Abstract>
+      <p>
+        Nuclear  magnetic  resonance  (NMR)  measurements  have  been  used  as  a  way  to  evaluate reservoir  rocks  based,  on  the  longitudinal  and transverse relaxation times, T1 and T2, and the time dependent  diffusion  coefficient,  D(t).   Relaxation time  distributions can be related to pore  sizes and to the  free and  bound fluid fractions. In addition, there  are  well  established  equations  correlating relaxation  times  to  permeability.  Regarding diffusion, at short times  D(t)  is linked to the pore volume to surface area ratio while at long times it is  related  to  pore  tortuosity.  Diffusive  coupling between  pores  complicates  the  interpretation  of NMR  measurements  because  the  relaxation  time distribution  will  no  longer  be  an  accurate representation of the pore size distribution .  On the other  hand,  analyzing  the  effects  of  diffusive coupling  can  provide  information  about connectivity  within  the  pore space.   In  particular, knowing  whether  the  macro-pores  are  connected to  each  other  or  are  connected  only  through  the micro-pores  would  provide  valuable  insight regarding the permeability.
+      </p>
+    </Abstract>
+    <CV>
+      <p>Giovanna  is  a  Research  Associate  at Schlumberger  Brazil  Research  and  Geoengineering Center.  She  has  a  M.S.  in  Chemistry  from  Federal University of Espirito Santo, Brazil, and is currently a Ph.D.  student  at  Chemistry  Department  at  Federal Fluminense University.  Giovanna joined Schlumberger in 2011 as an intern at Schlumberger-Doll Research in Cambridge, Massachusetts.</p>
+    </CV>
+  </presentation>
+
+  <presentation>
+    <date>2015-04-08</date>
+    <title>The Petrophysics Elephant in the Geomechanics Room</title>
+    <author>Colin McPhee, Senergy Energy Services</author>
+    <file>archive/2015/Apr15.aspx</file>
+    <Abstract>
+      <p>
+        Successful well placement and well construction in geomechanically sensitive formations requires an understanding of the mechanisms that cause formation failure, and the development of a field validated methodology to predict the critical conditions for well and completion instability. The objective is a fit for purpose coupled geomechanical-stability model which can be used for well/formation failure predictions.
+        The key inputs in the geomechanical model come from petrophysical analysis of log and core data. Unfortunately, the deep-seated intellectual compartmentalisation in the industry means that the importance of a rigorous and consistent petrophysical interpretation, which recognises and accounts for shortcomings and uncertainties in the data, is often overlooked by well engineers and production technologists, with serious technical and economic consequences for well construction and completion.
+      </p>
+      <p>
+        Several case studies and field examples are presented which not only illustrate the common pitfalls in evaluating petrophysical input to geomechanics models but also demonstrates how to avoid them. For example:
+        <ul>
+          <li>How inconsistent and incorrect log interpretations can invalidate strength models. </li>
+          <li>How poor laboratory test practices, inadequate QC, and core damage on coring and core recovery can turn a strong rock into an apparently weak rock, increasing preventable well construction and completion costs. </li>
+          <li>How incorrect assumptions in sonic log interpretation can give misleading stress estimates </li>
+          <li>How easy it is to misinterpret wellbore failure features from image logs. </li>
+        </ul>
+      </p>
+      <p>
+        The presentation provides best practice recommendations and workflows to ensure that core and petrophysics data are fit for purpose prior to geomechanical analysis. They have demonstrably improved the quality of data input and have ensured a more coherent and consistent data evaluation strategy. Geomechanics has uncertainties which are recognizable and manageable. A pro-active and integrated petrophysical data quality control strategy can eliminate data redundancy and reduce uncertainty in wellbore stability and formation failure evaluation.
+      </p>
+    </Abstract>
+    <CV>
+      <p>Colin’s 40 years of industry experience includes petrophysics, geomechanics, core analysis, formation damage and sand management.  Currently, Colin is Global Technical Head for Geomechanics and Rock Properties for Senergy based in Edinburgh, UK,  advising clients on petrophysical and geomechanical aspects of field development, asset evaluation and well construction. </p>
+      <p>
+        Colin has delivered over 250 geomechanics projects and 250 core analysis management/interpretation projects in the UK, Norway, Africa, Middle East, Asia, SE Asia and South America; and regularly presents training courses on core analysis, geomechanics and sand management to operators and service companies.
+      </p>
+      <p>
+        Colin has been a Technical Editor for SPE Formation Evaluation, a SPE Distinguished Lecturer in 2010-11, has authored several technical papers, and has taught over 100 training courses to over 1200 industry professionals, worldwide. Colin has a BSc in applied geology from Strathclyde University and a masters in civil engineering from Glasgow University.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2015-03-04</date>
+    <title>Attenuation-Based Quantitative Cement Bond Index with LWD Sonic: A Novel Approach Applicable to all Casing and Cement Cases</title>
+    <author>Marcelo Cecena, Acoustic Domain Champion, Schlumberger</author>
+    <file>archive/2015/Mar15.aspx</file>
+    <Abstract>
+      <p>
+        This new approach uses the attenuation of the casing and tool collar signal along an array of receivers from an LWD sonic tool, to extend the quantitative cement evaluation to the full range of bond index in all types of casing and cements. (Reference SPE-170886-MS, Vivian Pistre et al.)
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Marcelo graduated with a degree in Physics from the Instituto Tecnologico y de Estudios Superiores de Monterrey, Mexico in 1995. He started his oilfield career with Schlumberger Geco-Prakla in 1996 as field geophysicist in Mexico. Since then he has held various operational positions around the globe, including senior seismologist, general field engineer in logging and directional drilling and as a senior drilling engineer. Marcelo then taught as a drilling and measurement instructor in Schlumberger training centers before he moved in 2010 into his current role as advising Acoustic Domain Champion, supporting different areas in South America, Central Europe and the North Sea.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2015-02-04</date>
+    <title>Net pay Optimization and Improved Reservoir Mapping From Ultra-Deep Look Around LWD Measurements</title>
+    <author>Frank Antonsen, Statoil</author>
+    <file>archive/2015/Feb15.aspx</file>
+    <Abstract>
+      <p>
+        Statoil has played a key role in testing and development of the new ultra-deep directional resistivity (DDR) logging while drilling (LWD) measurements for high angle and horizontal wells the last 4 years. Inverted resistivity images provide an overview of geological structures and fluid contacts tens of meters around the wellbore. The ultra-deep look around measurements, sensitive to resistivity contrasts up to 30 m away or even more in favorable conditions, are a step change, when it comes to possibility to position the wellbore strategically in the reservoir and to characterize reservoir structure and properties.
+      </p>
+      <p>
+        This paper will present how the new DDR measurements have been applied with success in an operating license on the Norwegian Continental Shelf (NCS). Long horizontal wells in the reservoir sections have been identified as a key strategy to increase recovery. The main benefits from the DDR measurements in the license have been to maximize reservoir exposure by active geosteering, to optimize well placement above oil-water contact, and to increase subsurface understanding which is important input for future well plans.
+      </p>
+      <p>
+        The DDR measurements are already a commercial service with regard to well placement and reservoir landing. Statoil is however also actively pushing for improved reservoir characterization, by coupling geomodels and DDR modeling and inversion software. This paper will also present how standard LWD logs and images can be combined with the DDR inversion results, to build a near-wellbore 3D structural model supporting all available data. This is an important step towards an extended use of the new data not only for well placement, but also for increased subsurface understanding and geomodel update.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Frank graduated from Norwegian University of Science and Technology with a civil engineering degree and PhD in biophysics. He joined Statoil in 1998 and started as a researcher in petrophysics with special focus on NMR core and log analysis. He worked as a petrophysicist in an operating asset offshore Mid-Norway between 2004 – 2006. After this period he returned to the Statoil Research Centre in Trondheim and has since then worked with deep electromagnetic measurements on LWD and also with CSEM-methods. He was appointed as Specialist in petrophysics in Statoil in 2012.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2015-01-07</date>
+    <title>Extra-deep Azimuthal Resistivity Technology</title>
+    <author>David Selvåg Larsen, Baker Hughes</author>
+    <file>archive/2015/Jan15.aspx</file>
+    <Abstract>
+      <p>
+        Baker Hughes has utilized Omni-directional extra deep resistivity technology for more than a decade in Norway, supporting real-time wellbore placement through Reservoir Navigation Services.  Maturity of many fields on the Norwegian Continental Shelf are leading to more challenging wells to ensure enhanced oil recovery and extended production.  The challenge leads to a need for improved reservoir understanding in complex heterogeneous reservoirs, which in turn has led to the development of new extra-deep azimuthal resistivity technology.  To further enhance the downhole technology, inversion software has been developed to fully take advantage of the acquired data which are detecting bed boundaries up to 30m away from the borehole in any direction.
+      </p>
+      <p>
+        The presentation will take you through the technology overview, the inversion service and a field case from the Troll field where the technology is utilized. The presentation include the use of the data in real-time and 3D real-time visualization to improve the understanding of the reservoir geometry and fluid levels.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        David was born and raised in Stavanger where he was early introduced with the oil business.  After high school David moved to Tromsø to become an engineer.  Unfortunately, mechanical engineering was too much hard work and he therefore changed to Geology which he also realized was a lot of hard work and he therefore ended up with a master degree in marine geophysics. He got his first permanent employment in Baker Hughes in 2010, then working in the BEACON Geoscience.  After being trained and exposed to reservoir navigation he moved into his current position as a Reservoir Navigation Service Supervisor.  The last two years he has been leading the introduction of the new Extra Deep Azimuthal Resistivity service to Norway and has also been involved with EDAR deployments in Brazil, UK, Norway and Australia.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2014-12-03</date>
+    <title>Quantifying Bypassed Pay</title>
+    <author>Amitabha Chatterjee, Schlumberger</author>
+    <file>archive/2014/Dec14.aspx</file>
+    <Abstract>
+      <p>
+        Hydrocarbon saturations are key to reserves estimates. While various methods can be used to estimate fluid saturations, resistivity based saturation is used overwhelmingly in the industry. While it has its advantages, resistivity also comes with its limitations. Whether it is low contrast between water and hydrocarbon bearing rock, or uncertainty in the saturation equation parameters, relying solely on resistivity can be dangerous. Pay zones can be wrongly categorized as non-commercial or even missed altogether. What could have been bypassed based on resistivity alone, can be turned into prospective pay with newer logging techniques using Dielectrics, NMR and Spectroscopy.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Amitabha did his Bachelor’s degree in Electrical Engineering from IIT Delhi and  joined Schlumberger in 1993, where he has worked as Field Engineer, Quality Coach, SME- software development, Service Delivery manager, FSM, Instructor and Account manager, before moving to Petrophysics. He has lived and worked in India, Middle East, South and North America, and currently is based in Norway as Wireline Domain for Petrophysics; learning, teaching and advising on Wireline data acquisition and Petrophysical interpretation both internally to Schlumberger and within Oil companies operating out of Norway.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2014-10-01</date>
+    <title>Cement Plus Shale Bond Evaluation: The Draugen Well Abandonment Story</title>
+    <author>Vanessa Mendoza Barrón, Snr. Petrophysicist, Norske Shell</author>
+    <file>archive/2014/Oct14.aspx</file>
+    <Abstract>
+      <p>Many mature fields nowadays are reaching the end of life. With current cost challenges in the North Sea Oil and Gas industry, there is an increased need for a –not only- safe and optimum well abandonment design but cost efficient too.</p>
+      <p>
+        After more than 20 years of oil production in Draugen, we have recently abandoned a well for the first time in the field. During planning, a re-evaluation of the 1992 CBL (Cement Bond Log) was performed with a refined approach.  This methodology was validated and complemented with new generation sonic and ultrasonic data as part of the Abandonment operations: cement bond and creeping shale bond was observed and tested; it all served as basis for design and as input for the Draugen Abandonment Philosophy.
+      </p>
+    </Abstract>
+    <CV>
+      <p>Vanessa has worked for 14 years in the Oil and Gas industry. After receiving her degrees (B.S. in Electronic Engineering and Masters on Business Administration) she obtained wide international experience in logging operations from field positions with Schlumberger Wireline from 2000 to 2007. After that she worked as Petrophysicist in different locations and specialized in the latest Sonic and NMR logging technologies.</p>
+      <p>
+        She joined Shell in 2012 in Norway and has since been working as Petrophysicist for the Draugen field and Exploration in Norske Shell.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2014-09-03</date>
+    <title>A New Wireline Formation Tester – Case Studies from the Norwegian Continental Shelf</title>
+    <author>Thomas Pfeiffer, Schlumberger</author>
+    <file>archive/2014/Sep14.aspx</file>
+    <Abstract>
+      <p>The presentation will show applications of a new formation testing and sampling probe on the Norwegian continental shelf. The presented data examples highlight where this new technology finds its application and compares different probes in terms of clean up behavior, and magnitude of drawdown and mobility range.</p>
+      <p>Formation pressure measurements, downhole fluid analysis, collecting representative formation fluid samples and interval pressure transient data regularly take part in the formation evaluation program. In some cases good data is difficult to acquire with the legacy technology. Testing and sampling in tight formations, transition zone evaluation and sampling close to saturation pressure are frequent and challenging formation testing applications in Norway.  The hardware design differences of the tool are briefly explained flowed by data examples of such challenging formation testing cases.</p>
+    </Abstract>
+    <CV>
+      <p>Thomas is a Principal Reservoir Domain Champion for Schlumberger Wireline in Stavanger. As a subject matter expert Thomas provides technical support to wireline formation testing services and integrates the acquired data in reservoir engineering workflows. He co-authored 13 publications on downhole fluid analysis and formation testing and co-invented two US patent applications. Thomas received his M.S. in electrical engineering in 2001 from the Technical University of Munich, Germany. In 2010 he completed a Masters in Petroleum Engineering at Texas A&amp;M. He joined Schlumberger as a wireline field engineer in January 2002. Assigned locations include the North Sea, central and eastern Europe and the Gulf of Mexico. Thomas lives and works in Stavanger since December 2010.</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2014-01-08</date>
+    <title>An approach to evaluating carbonate successions that helps to mitigate the uncertainly associated with up-scaling environmental interpretations while forging better links with electrofacies and geomodelling</title>
+    <author>Quintin Davies, Senergy</author>
+    <file>archive/2014/Jan14.aspx</file>
+    <Abstract>
+      <p>Conventional schemes used to classify carbonate reservoirs are often at a too finer scale and/or carry environmental uncertainly through to the static and dynamic reservoir models.  Industry descriptive Lithofacies schemes are typically based on the Dunham classification system (eg. skeletal packstone) and capture the finest scale depositional heterogeneity and are commonly developed at a scale below the resolution required for the geomodeller.  In addition, as carbonate pore systems are typically heterogeneous due to a variable diagenetic overprint then individual lithofacies have a wide range of reservoir properties.   Lithofacies Associations  upscale Lithofacies in to interpretative environmental groupings (eg. back shoal) that inherently, by their nature, carry uncertainly in their designation and distribution.  The concept of depositional packages is in development and aims to mitigate some of these issues by providing additional classification criteria that have greater applicability for both geomodelling and petrophysical integration. </p>
+    </Abstract>
+    <CV>
+      <p>Quintin is currently the Global Product Champion for the Integrated Reservoir Description Team at Senergy UK, based in Banchory, Aberdeenshire.  He has 13 years industry experience and prior to joining Senergy he was the Head of Carbonate Geology at Badley Ashton and Associates.   With a focus on carbonates, most of his experience has been gained from the evaluation of reservoirs from the Middle East, North Africa and offshore pre-salt of Brazil, through core description, facies analysis, sequence stratigraphic modelling, BHI evaluations and pore-scale analysis.  He  graduated in geology from Leicester University in 1996 and when on to do an M.Sc in sedimentology at Reading University in 1997, followed by a Ph.D. on Miocene deep water carbonates in Cyprus, finishing in 2001.</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2013-10-02</date>
+    <title>A Petrophysical Potpourri</title>
+    <author>Torbjörn Carlson, A/S Norske Shell</author>
+    <file>archive/2013/Oct13.aspx</file>
+    <Abstract>
+      <p>The plan is to cover three subjects:</p>
+      <ul>
+        <li>Using Quadrant or Image Derived Resistivity and Density to enhance evaluation in high deviation wells.</li>
+        <li>Kv/kh from core and issues around this</li>
+        <li>Determination of incidence angle by comparison of total GR from LWD with modeled GR response. (Method for determining landing angle during drilling of well using total GR only to determine the angle between borehole and formation)</li>
+      </ul>
+      <p>The subjects are really quite basic but hopefully they will trigger some ideas and discussion</p>
+    </Abstract>
+    <CV>
+      <p>Torbjörn Carlson is currently working as a petrophysicist with A/S Norske Shell.  He has a Master in Mining Engineering from Luleå University, Sweden in 1980.  After joining Shell International in 1980 he has worked for them since, first with Operations and as Drilling Engineer in Norway, Australia and the Netherlands until 1986, and then as a petrophysicist in a number of places and positions (e.g. the Netherlands, London, Copenhagen (seconded to Mærsk), Calgary, Libya, and presently in Norway).</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2013-09-04</date>
+    <title>Mutipole LWD Sonic – Shear Slowness Estimation by Inversion of Borehole Quadrupole Mode</title>
+    <author>Michiko Hamada, Senior Petrophysicist, Schlumberger</author>
+    <file>archive/2013/Sep13.aspx</file>
+    <Abstract>LWD technology has progressed rapidly in recent years to address the need for saving rig time, making real-time decisions for drilling efficiency and risk managements, and accurate geosteering. Real-time LWD sonic measurements provide timely analysis for borehole stability problems, drilling optimization, and assisting with pore-pressure prediction and seismic well ties. The sonic measurement can provide data to accurately determine well placement on the seismic sections and can create direct ties between downhole and seismic measurements. Quadrupole acoustic logging is used to measure shear in the logging-while-drilling (LWD) environment. Evaluation of shear slowness in quadrupole acoustic logging requires an inversion method that takes into account the dispersion of the quadrupole mode, including tool-presence effects. The presentation will describe the basics of LWD sonic logging, quadrupole inversion methodology and various examples.</Abstract>
+    <CV>
+      <p>Michiko Hamada is currently a petrophysics domain champion in Stavanger. She joined Schlumberger in 2003 as a field engineer in the United States, held petrophysicist position in multiple locations in USA mainly evaluating SonicScanner and RST response in Diatomite formation. She was then assigned to the Schlumberger Kabushiki Kaisha acoustic engineering center in Japan, overseeing worldwide LWD acoustic operation/interpretation along with the new generation in sonic development.  She has a BS degree in pure mathematics from Hirosaki University, and MSc in pure mathematics from Tohoku University.</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2013-06-05</date>
+    <title>
+      Data acquisition and interpretation challenges on the Johan Sverdrup Field
+    </title>
+    <author>Sven Erik Foyn, Lundin</author>
+    <file>archive/2013/Jun13.aspx</file>
+    <Abstract>
+    </Abstract>
+    <CV>
+      <p> Sven Erik Foyn graduated from NTNU in Trondheim in 1999 with a Masters degree in geology. He started his career as mudlogger and moved on to LWD in Halliburton. In 2005 he moved on to AGR petroleum services as a petrophysicist before joining Lundin Norway in 2010. As a consultant petrophysicist he was involved in exploration and field development work several clients. Today he is the Lundin petrophysicist on the Johan Sverdrup Field.</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2013-05-08</date>
+    <title>
+      Advances in Deep Directional Resistivity
+    </title>
+    <author>Christophe Dupuis, Schlumberger</author>
+    <file>archive/2013/May13.aspx</file>
+    <Abstract>
+      <p>The Deep Directional Electromagnetic LWD tool has been under field test for the last few years in the North Sea and elsewhere.  In this presentation we will show introduce the tool, the multilayer inversion processing, and show an array of different field applications of this new service to date.</p>
+      <p>
+        The real-time inversion is automatic, runs continuously and does not require user inputs such as shoulder resistivity or expected number of layers.  The field tests reviewed show that the service brings value in landing, reservoir delineation and geosteering applications.
+      </p>
+    </Abstract>
+    <CV>
+      <p> Christophe Dupuis graduated from the Catholic University of Louvain in Belgium in 2005 with a degree in applied mathematics.  At Schlumberger, he started in Engineering on the deep directional EM inversion and interpretation team.  In 2008 he moved to operations in Norway as Well Placement Engineer, accompanying the deep directional EM tool to the field.  His following assignment was in Schlumberger-Doll Research, pioneering the next generation of answer products for the tool.  Back in operations, he now looks after the Well Placement business for the North Sea.</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2013-04-03</date>
+    <title>
+      “Diamonds in the Noise” – Treasures Lurking in Acoustic Data
+    </title>
+    <author>Jennifer Market, Senergy</author>
+    <file>archive/2013/Apr13.aspx</file>
+    <attachment>
+      <filename>archive/2013/Apr13.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+    <Abstract>
+      <p>Modern acoustics tools acquire a wealth of waveform data, which is often analysed for one specific purpose (i.e. pore pressure prediction, porosity, or seismic correlation) and then banished to the archives, bypassing many of the rich applications that can be achieved from further interpreting the data. Examples include fracture characterisation, permeability, wellbore stability, mud alteration effects, drilling-induced damage characterisation, secondary porosity, facies determination, hole size, cement bond quality, geosteering and production optimisation in conventional and unconventional reservoirs.  This presentation will review the myriad uses of sonic data as well as recommend which tools are suitable to each application and optimal configurations to get the best quality of data.  Also included will be specific considerations of which types of tool and applications are suitable for various environments such as deepwater, unconventional reservoirs, HPHT, and cased hole.</p>
+    </Abstract>
+    <CV>
+      <p>
+        Jennifer Market is the borehole acoustics manager for Senergy, an international software and consulting company.  She has 15+ years experience in borehole acoustics, working in a service company to develop acoustics tools and applications.  She frequently publishes articles for both SPWLA and SPE and was an SPWLA distinguished lecturer in 2008-2009 and 2011-2012.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2013-03-06</date>
+    <title>
+      Dielectric Measurements - New Answers to the Table
+    </title>
+    <author>Amitabha Chatterjee, Schlumberger</author>
+    <file>archive/2013/Mar13.aspx</file>
+    <Abstract>
+      <p>Bulk density is among the most critical formation parameters for geoscientists. Traditional acquisition technology employs a radioisotope (137Cs) as a source of gamma rays. With a half-life of 30.17 years, this radioisotopic source continually emits 662-keV gamma rays, posing health, security, and environmental risks, which need to be minimized through rigorous and expensive transportation, storage, handling, and deployment procedures. The well logging industry has been seeking an alternative to the radioisotope-based technology for years; some of these alternatives have focused on finding a way to “make do” without a density measurement. However, the industry-standard technique of comparing neutron and density measurements favors the development of a cleaner and safer way to acquire a true formation bulk density. Pulsed-neutron generators (PNG) have been successfully used by the well logging industry to acquire a variety of measurements. Electronically controlled pulses of high-energy neutrons can be emitted in precisely timed bursts. The inelastic collision of high-energy neutrons with the nuclei of formation atoms can put them into excited states, which decay through the emission of gamma rays. The characterization of the transport of these gamma rays in the formation can be used to determine the bulk density, in a manner similar to the traditional gamma-gamma density (GGD) measurement. While the principles behind this method are well understood, the practical development of an industry-grade measurement has taken years of careful development and testing. This paper reviews the principles behind the neutron-gamma density (NGD) measurement and explains its measurement specifications, applications, and quality control indicators. The new measurement was tested and benchmarked using data from a multifunction logging-while-drilling tool that incorporates the PNG and detectors required for the NGD measurement and a GGD density section. This is illustrated through field test results detailing the accuracy and precision of the new measurement.</p>
+    </Abstract>
+    <CV>
+      <p>
+        Amitabha Chatterjee has an engineering degree from the Indian Institute of Technology (IIT) in Delhi obtained in 1993. He joined Schlumberger in the same year as a field engineer, working across the Middle East, Venezuela, US and India. He has worked in sales, operations, R&amp;D and training before moving into Petrophysics. In 2010 he published his first novel – a work of fiction based on the oilfield. He is currently based in Stavanger, Norway as an Associate Domain Petrophysicist for Wireline.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2013-02-06</date>
+    <title>
+      Neutron-Gamma Density (NGD): Principles, Field Test Results And Log Quality Control Of A Radioisotope-Free Bulk Density Measurement
+    </title>
+    <author>Nicole Reichel, Schlumberger, 2013 SPWLA Europe-based distinguished speaker</author>
+    <file>archive/2013/Feb13.aspx</file>
+    <Abstract>
+      <p>Bulk density is among the most critical formation parameters for geoscientists. Traditional acquisition technology employs a radioisotope (137Cs) as a source of gamma rays. With a half-life of 30.17 years, this radioisotopic source continually emits 662-keV gamma rays, posing health, security, and environmental risks, which need to be minimized through rigorous and expensive transportation, storage, handling, and deployment procedures. The well logging industry has been seeking an alternative to the radioisotope-based technology for years; some of these alternatives have focused on finding a way to “make do” without a density measurement. However, the industry-standard technique of comparing neutron and density measurements favors the development of a cleaner and safer way to acquire a true formation bulk density. Pulsed-neutron generators (PNG) have been successfully used by the well logging industry to acquire a variety of measurements. Electronically controlled pulses of high-energy neutrons can be emitted in precisely timed bursts. The inelastic collision of high-energy neutrons with the nuclei of formation atoms can put them into excited states, which decay through the emission of gamma rays. The characterization of the transport of these gamma rays in the formation can be used to determine the bulk density, in a manner similar to the traditional gamma-gamma density (GGD) measurement. While the principles behind this method are well understood, the practical development of an industry-grade measurement has taken years of careful development and testing. This paper reviews the principles behind the neutron-gamma density (NGD) measurement and explains its measurement specifications, applications, and quality control indicators. The new measurement was tested and benchmarked using data from a multifunction logging-while-drilling tool that incorporates the PNG and detectors required for the NGD measurement and a GGD density section. This is illustrated through field test results detailing the accuracy and precision of the new measurement.</p>
+    </Abstract>
+    <CV>
+      <p>
+        Nicole Reichel comes as one of the 2013 SPWLA Europe-based distinguished speaker; she is a Petrophysicist working at the Schlumberger Engineering Center in Clamart, France. She joined Schlumberger in 2007 and has worked in the field in Middle East and North America prior to moving to France, where she is working as part of the LWD petrophysical interpretation group. She is currently working on the development of interpretation and answer products from LWD acquisitions.
+      </p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2013-01-08</date>
+    <title>
+      NMR:  A refresher!
+    </title>
+    <author>Edmund Smith, Baker Hughes</author>
+    <file>archive/2013/Jan13.aspx</file>
+    <Abstract>
+      <p>
+        This lunch and learn will aim to provide a practical refresher on NMR interpretation, starting with understanding your ‘field print’.  Followed by a brief explanation of NMR porosity, permeability models and ‘relaxation’.  Before spending time explaining the differing types of NMR spectra, and how knowing what type of spectra you are viewing will aid your interpretation. Finally 2D NMR will be discussed.
+      </p>
+    </Abstract>
+    <CV>
+      <p>
+        Edmund Smith graduated with an MSc In sedimentology from the University of Reading in 1996, and entered the oil industry as a sedimentologist, He then moved to Baker Hughes Geoscience Group (Aberdeen) in 2006, where he undertakes borehole image, NMR  and acoustic log interpretation.
+      </p>
+    </CV>
+    <attachment>
+      <filename>archive/2013/Jan13.pdf</filename>
+      <linktext>Presentation as PDF</linktext>
+    </attachment>
+  </presentation>
+  <presentation>
+    <date>2012-12-05</date>
+    <title>
+      Formation Evaluation in High Angle and Horizontal Wells – A New and Practical Workflow
+    </title>
+    <author>David Maggs, Schlumberger </author>
+    <file>archive/2012/Dec12.aspx</file>
+    <Abstract>
+      <p>
+        Logging measurements are axially focused and generally deep reading. In near vertical boreholes, measurement volumes are approximately parallel to formation layering. In this environment, logging measurements provide optimal vertical resolution and information about formation properties beyond the mudinvaded zone.
+      </p>
+      <p>
+        Logging-while-drilling (LWD) measurements are predominantly acquired in high angle and horizontal (HaHz) wells. In this environment, measurement volumes are approximately perpendicular to formation layering and deepreading measurements may respond to multiple layers, creating complications for subsequent interpretation. For many years LWD measurements were considered unsuitable for quantitative petrophysical evaluation, however the problem was not so much with the measurements but with the interpreters’ assumption that measurements respond to a single layer, as had been their experience with vertical wells.
+      </p>
+      <p>
+        With an increasing proportion of HaHz wells drilled for field development, a workflow that compensates for geometrical effects is required to determine true formation properties from the logs. A new workflow has been developed to address these issues and is now available in commercial software. Starting with the acquired logs, a layered earth model of the structural geometry proximal to the wellbore is created. Log responses are used to identify boundary intersections with the well trajectory. In the case of multiple crossings of a single boundary, the user simply “joins the dots” to define the formation geometry. Formation dips extracted from LWD images are
+        plotted on the layered earth model to define the relative dip between the wellbore and layering. Formation geometry from other sources can also be imported to guide the structural interpretation.
+      </p>
+      <p>
+        Once the approximate geometry is defined, initial estimates of the formation properties (such as gamma ray, horizontal resistivity, vertical resistivity, bulk density and neutron porosity) for each layer are obtained from the measured logs. When the well crosses a layer more than once, the user can chose to either enforce layer property consistency or allow lateral property variation. Fast forward models of the LWD measurements are then used to compute tool responses based on the geometry and formation properties defined by the formation model. If the computed logs do not match the measured logs, the geometry and/or formation properties are manually but easily updated until an acceptable agreement is achieved. Upon completion, the final model is a validated representation of both the subsurface geometry and formation properties.
+      </p>
+      <p>
+        The resulting layer properties, which have been derived from the measured logs by correcting for formation geometry around the well, are then available for use in conventional formation evaluation techniques. Field examples demonstrate the significance of geometrical effects to LWD measurements in HaHz wells, and the capabilities of the workflow to enhance formation evaluation in this environment.
+      </p>
+    </Abstract>
+    <CV>
+      <p>David Maggs is currently LWD Petrophysics Domain Champion for Techlog, based in Grabels, France. He joined the company in 1988 and worked as a Wireline Field Engineer for 8 years in South America and the North Sea. He has since worked in Management and Technical positions in a variety of geographical locations including North America, Europe, South America, the Far and Middle East, mainly supporting LWD measurements and Well Placement operations. David holds a Master’s Degree in Mechanical Engineering from the University of Southampton, England.</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2012-10-03</date>
+    <title>Carbonate Petrophysics in Wells drilled with Oil Base Mud</title>
+    <author>Austin Boyd, Schlumberger, SPWLA Distinguished Lecturer</author>
+    <file>archive/2012/Oct12.aspx</file>
+    <Abstract>
+      <p>Recent advances in NMR log and core analysis, complemented by more quantitative use of borehole image logs has led to the application of log based porosity partitioning to aid carbonate petrophysical interpretation. The foundation of this approach is the link between NMR T2 distributions and pore size distributions obtained from special core analysis. Several case studies have now been presented where this approach was successfully used in carbonate formations drilled with water base mud, where the NMR response is well characterized and has been validated by core analysis. </p>
+      <p>
+        The recently discovered carbonate reservoirs offshore Brazil are typically drilled with oil base mud to avoid problems in the 2000 meters of salt overlying the reservoir. NMR logs are routinely run in the reservoir section and the interpretation methods developed for carbonates drilled with water base mud have now been shown to be valid for evaluating reservoir quality, even when oil base mud is used. The tendency of these carbonates to be oil wet to both the 28-30 API reservoir oil and the oil base mud filtrate, ensures that surface relaxivity is the dominant relaxation mechanism in the NMR response, which enables the correlation of T2 distributions with the variety of pore sizes encountered in the reservoir zones. Interpreting NMR logs in such conditions requires detailed knowledge of the oil-base mud filtrate properties, the reservoir oil properties and the wettability of the formation at down-hole conditions. Performing lab NMR measurements on these fluids and representative core samples at PVT conditions is one of the key requirements for correctly interpreting the NMR log data.
+      </p>
+      <p>
+        Examples of lab measurements, performed on native state, restored state, brine saturated, and partially saturated cores at PVT conditions when compared with down-hole NMR log data show that log based porosity partitioning can be applied in the pre-salt carbonates. Options for analyzing borehole image logs in carbonates drilled with oil-base mud will also be presented as an aid to porosity typing with NMR. The key considerations will then be summarized for core analysis and also for acquiring, processing and analyzing NMR and borehole image logs in carbonates drilled with oil based mud.
+      </p>
+    </Abstract>
+    <CV>
+      <p>Austin Boyd is the Petrophysics Program manager at Schlumberger Brazil Research and Geoengineering Center in Rio de Janeiro. Prior to moving to Brazil, he was Petrophysics Program manager at Schlumberger-Doll Research in Cambridge, Massachusetts. He joined Schlumberger in 1981 as a field engineer after receiving a degree in Electrical Engineering from Dalhousie University, in Nova Scotia, Canada, and has held a variety of positions in operations, research and engineering in the US, Europe, Brazil and the Middle East.</p>
+    </CV>
+  </presentation>
+  <presentation>
+    <date>2012-09-05</date>
+    <title>Petrophysical examples from the Gjøa Field</title>
+    <author>Matthew G. Reppert, GDF</author>
+    <file>archive/2012/Sep12.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2012-06-06</date>
+    <title>The impact of biased LWD data propagated through nonbiased WL models</title>
+    <author>Yngve Johansen, Statoil</author>
+    <file>archive/2012/Jun12.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2012-05-02</date>
+    <title>Density; How it is Derived , Uncertainties and Influence on Porosity Evaluation</title>
+    <author>Arve K. Thorsen, Baker Hughes </author>
+    <file>archive/2012/May12.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2012-04-11</date>
+    <title>Well-Site Chemostratigraphy - Applications of inorganic element geochemistry while drilling</title>
+    <author>Christian Scheibe, Halliburton - Sperry Drilling</author>
+    <file>archive/2012/Apr12.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2012-03-07</date>
+    <title>Fluid Profiling – Reducing Subsurface Uncertainties</title>
+    <author>Thomas Pfeiffer, Schlumberger</author>
+    <file>archive/2012/Mar12.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2012-02-01</date>
+    <title>Innovative Solution for Optimising Drilling Performance and Wellbore Stability: Western Desert, Egypt</title>
+    <author>Philip McCurdy, Senergy</author>
+    <file>archive/2012/Feb12.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2012-01-04</date>
+    <title>Optimizing data acquisition program and well preparation for logging HTHP wells</title>
+    <author>Arne Holvik, Statoil </author>
+    <file>archive/2012/Jan12.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2011-12-07</date>
+    <title>Pore pressure evolution and core damage: a computational fluid dynamics approach</title>
+    <author>Izaskun Zubizarreta. Senergy</author>
+    <file>archive/2011/Dec11.aspx</file>
+  </presentation>
+  <presentation>
+    <title>NFES – 1 Day Seminar, 2011 - Petrophysics in Mature Fields – Challenge or Triviality?</title>
+    <date>2011-11-02</date>
+    <file>archive/2011/flyer2011.pdf</file>
+  </presentation>
+  <presentation>
+    <date>2011-10-05</date>
+    <title>Applications of Accurate In-Situ Fluid Analysis in the North Sea</title>
+    <author>Vladislav Achourov, Schlumberger</author>
+    <file>archive/2011/Oct11.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2011-09-07</date>
+    <title>Seismic while drilling - Bringing new value to drilling and processing</title>
+    <author>Nils Edwards, Baker Hughes</author>
+    <file>archive/2011/Sep11.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2011-06-01</date>
+    <title>Invasion effects and characterization of LWD technology in CsK drilling fluids</title>
+    <author>Arve K. Thorsen, Baker Hughes</author>
+    <file>archive/2011/Jun11.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2011-05-04</date>
+    <title>The use of LWD Spectroscopy and Sourceless density in an Underground Gas Storage Field in Italy</title>
+    <author>Marit Kongslien, Schlumberger</author>
+    <file>archive/2011/May11.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2011-04-06</date>
+    <title>Formation Damage – Any Time, Any Place, Any Where</title>
+    <author>Michael Byrne, Senergy</author>
+    <file>archive/2011/Apr11.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2011-03-02</date>
+    <title>Sw - From Resistivity Logs or Core Capillary Pressure Data to a Saturation-Height Function (SHF) - a Short Review of a Few Issues Relating to Sw Estimation, QCing, and Modelling</title>
+    <author>Christian Halvorsen, Statoil</author>
+    <file>archive/2011/Mar11.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2011-02-02</date>
+    <title>Applications of Gamma Ray Spectroscopy – From Inner Earth to Outer Space</title>
+    <author>Richard Leech, Schlumberger</author>
+    <file>archive/2011/Feb11.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2011-01-05</date>
+    <title>From Monte Carlo to Bayes Theory: The Role of Uncertainty in Petrophysics</title>
+    <author>Simon Stromberg, Senergy</author>
+    <file>archive/2011/Jan11.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2010-12-01</date>
+    <title>Evaluation of Residual Oil Saturation in a Large Carbonate Field</title>
+    <author>Patrick Hogarty, Principal Petrophysicist, Dong energy Norge AS </author>
+    <file>archive/2010/Dec10.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2010-09-01</date>
+    <title>Determining the Oil-Water Contact While Drilling above the Transition Zone in Long Horizontal Wells: Combining 4D Seismic and Advanced Resistivity Geosteering for Improved Wellbore Placement</title>
+    <author>Alf E. Berle, Baker Hughes </author>
+    <file>archive/2010/Sep10.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2010-06-02</date>
+    <title>Bed Boundary Mapping Tools</title>
+    <author>Matthew Spotkaeff, Schlumberger </author>
+    <file>archive/2010/Jun10.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2010-05-05</date>
+    <title>NMR status in ConocoPhillips and Review of an LWD-NMR log run in OBM</title>
+    <author>Mehmet Fidan, ConocoPhillips Norge</author>
+    <file>archive/2010/May10.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2010-04-07</date>
+    <title>Directional Resistivity Measurements - Experience from Statoil</title>
+    <author>Per Atle Olsen, Statoil</author>
+    <file>archive/2010/Apr10.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2010-05-03</date>
+    <title>Stress estimation using shear radial profiles: North Sea Case Study</title>
+    <author>Adam Donald, Schlumberger</author>
+    <file>archive/2010/Mar10.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2010-02-03</date>
+    <title>Carbonate/Fractured Reservoirs: Highlighting Draining Features (Pipe-Layers &amp; Pipe-Channels) Based on Borehole Image Analyses</title>
+    <author>Dr Abdelkader SAADALLAH, SaadGeo</author>
+    <file>archive/2010/Feb10.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2010-01-06</date>
+    <title>Abstract measurement of formation permeability using stoneley waves from an LWD acoustic tool</title>
+    <author>Tor Eiane, Baker Hughes</author>
+    <file>archive/2010/Jan10.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2009-12-02</date>
+    <title>Real-time Integration of Reservoir Modeling and Formation Testing</title>
+    <author>Adriaan Gisolf, Schlumberger</author>
+    <file>archive/2009/Dec09.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2009-10-07</date>
+    <title>Petrophysical Evaluation in the Countries of the Former Soviet Union</title>
+    <author>Alan Sibbit, Schlumberger</author>
+    <file>archive/2009/Oct09.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2009-09-02</date>
+    <title>Rapid mineral analysis using the SpecCam imaging spectrometer</title>
+    <author>Dr Gavin Hunt, Spectra-Map</author>
+    <file>archive/2009/Sep09.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2009-05-06</date>
+    <title>Application of semi-permeable membrane gas extraction to surface logging formation evaluation</title>
+    <author>Douglas Law, Product Line Manager, Weatherford</author>
+    <file>archive/2009/May09.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2009-04-01</date>
+    <title>The Value Added from Proper Core Analysis</title>
+    <author>Odd Hjelmeland, Reservoir Laboratories AS</author>
+    <file>archive/2009/Apr09.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2009-03-04</date>
+    <title>The Accurate Evaluation of 3-Phase Fluid Saturations in Cased Wellbores: A New Methodology Applied To the Algyo Field, Hungary</title>
+    <author>Saloua Tiar (Baker Atlas) – (presenter), Veronica Pipics, Ilona Vegane (MOL), Roberto Nardiello, Fabio Brambilla</author>
+    <file>archive/2009/Mar09.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2009-02-04</date>
+    <title>Rock Physics in Complex Mineralogy: A Comparison of Shear Wave Prediction Models for Rock Physics</title>
+    <author>Erik Alvarez and Jonathan Hall of Senergy Ltd.</author>
+    <file>archive/2009/Feb09.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2009-01-07</date>
+    <title>Pore Pressure Profile Modelling - for exploration prospectivity and well planning. (Skulduggery or Science ?)</title>
+    <author>Ray Pratt – Nexen (presenter), Tim Herrett – Rose Trent, Peter Stone – Rose Trent.</author>
+    <file>archive/2009/Jan09.aspx</file>
+  </presentation>
+  <presentation>
+    <title>Geo-Mechanics (Petrophysicists Under Stress)</title>
+    <date>2008-11-05</date>
+    <file>archive/2008/Seminar.asp</file>
+  </presentation>
+  <presentation>
+    <date>2008-10-01</date>
+    <title>The Use of LWD Magnetic Resonance and Image Logs for Reservoir Characterisation and Geosteering in Deepwater West of Shetland</title>
+    <author>John Fletcher, BP Exploration, Aberdeen, Graham Eaton, BP Exploration, Aberdeen, Roy Greig, INTEQ, Aberdeen</author>
+    <file>archive/2008/Oct08.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2008-09-03</date>
+    <title>Identification and Qualification of Shale Annular Barriers using Wireline Logs during Plug and Abandon Operations</title>
+    <author>Stephen Mark Williams, StatoilHydro AS</author>
+    <file>archive/2008/Sep08.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2008-05-07</date>
+    <title>Dance me through the end of the pore</title>
+    <author>Rune M Holt, NTNU &amp; SINTEF and Pål-Eric Øren, Numerical Rocks</author>
+    <file>archive/2008/May08.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2008-04-02</date>
+    <title>The Importance of Compaction Logging</title>
+    <author>Neal Nagel (CoP), Marc Hettema (StatoilHydro), Tron Kristiansen (BP), and Ian Stockden (BP) *</author>
+    <file>archive/2008/Apr08.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2008-03-05</date>
+    <title>LWD Azimuthal Density Logging in Liverpool Bay, UK as an aid to completion planning via fault and fracture detection</title>
+    <author>Dr. Giancarlo Rizzi, Task Geoscience Ltd.</author>
+    <file>archive/2008/Rizzi_Lennox resubmit.pdf</file>
+  </presentation>
+  <presentation>
+    <date>2008-02-06</date>
+    <title>QC and Interpretation of LWD Density Logs</title>
+    <author>Rob Askew, Halliburton, Sperry Drilling Services</author>
+    <file>archive/2008/Feb08.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2008-01-09</date>
+    <title>Use of Direct Measurements of Minimum Horizontal Stress for Field Development</title>
+    <author>Vladislav Achourov, Schlumberger</author>
+    <file>archive/2008/Jan08.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2007-12-05</date>
+    <title>Use of Pressure Data in Reservoir Characterization with Examples from Fields in Production</title>
+    <author>Torunn Svindland, EnVision</author>
+    <file>archive/2007/Dec07.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2007-11-07</date>
+    <title>A Geoscience Tool for Rapid, Automated Analysis of Ditch Cuttings</title>
+    <author>Wendy Kitson and Matthew Power, Intellection U.K. Ltd.</author>
+    <file>archive/2007/Nov07.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2007-10-03</date>
+    <title>Correlation and Sedimentary Steering to maximize well placement certainty in mature reservoirs while drilling</title>
+    <author>Dr Jeremy (Jez) Lofts, 2007 SPWLA distinguished speaker</author>
+    <file>archive/2007/Oct07.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2007-09-05</date>
+    <title>Data Acquisition and Log Evaluation in High Density Cesium Formate Fluids</title>
+    <author>Erik S. Pedersen, Statoil</author>
+    <file>archive/2007/Sep07.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2007-06-06</date>
+    <title>Ula Field-life after the Flood: Core and Log Experience from behind a Maturing WAG Front</title>
+    <author>Simon Thomas, Jonathan Duncan, BP Norway</author>
+    <file>archive/2007/Jun07.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2007-05-02</date>
+    <title>Reservoir Drill-in Fluids Qualification and Selection</title>
+    <author>Ole Iacob Prebensen, M-I SWACO</author>
+    <file>archive/2007/May07.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2007-03-28</date>
+    <title>Roles and Responsibilities in Oil Data Acquisition and Interpretation</title>
+    <author>Philippe Theys, consultant</author>
+    <file>archive/2007/Apr07.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2007-03-07</date>
+    <title>Borehole Acoustic Reflection Survey for High Resolution Imaging</title>
+    <author>Rune Thorsen, Schlumberger Data and Consulting Services</author>
+    <file>archive/2007/Mar07.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2007-02-07</date>
+    <title>Overcoming Changing Multiphase Flow Behaviour along Horizontal Sections</title>
+    <author>Synnøve Eriksen (*) and Øyvind Midttveit, Hydro Oil and Energy</author>
+    <file>archive/2007/Feb07.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2007-01-03</date>
+    <title>Operational Procedures and Methodology for Improving LWD and WL Depth Control, Kristin Field</title>
+    <author>Bengt K. Pedersen and Monica Vik Constable, Statoil</author>
+    <file>archive/2007/Jan07.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2006-12-06</date>
+    <title>The Role of Formation Evaluation in Modern Well Stimulation Design</title>
+    <author>Mark Norris, Schlumberger</author>
+    <file>archive/2006/Dec06.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2006-11-01</date>
+    <title>BEACON – Remote operations and enhanced real time wellbore placement through evolving LWD technologies.</title>
+    <author>Arve K. Thorsen, Baker Hughes INTEQ </author>
+    <file>archive/2006/Nov06.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2006-10-04</date>
+    <title>Petrophysical re-evaluation of the Statfjord and Lunde formations on the Snorre field. Determination of net reservoir.</title>
+    <author>Christian Erik Halvorsen, Statoil </author>
+    <file>archive/2006/Oct06.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2006-09-06</date>
+    <title>Seismics While Drilling - Field Test Results</title>
+    <author>Morten H. Dethloff, Halliburton</author>
+    <file>archive/2006/Sep06.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2006-06-14</date>
+    <title>Petrophysics for Field Development and Production Monitoring</title>
+    <file>archive/2006/Jun06.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2006-05-03</date>
+    <title>FPWD Results and Comparison to Wireline Formation Pressures</title>
+    <author>Alan McHardy,Petrophysical Eng., Norske Shell AS</author>
+    <file>archive/2006/May06.aspx</file>
+  </presentation>
+  <presentation>
+    <date>2006-04-05</date>
+    <title>Vilje, a little sandstone reservoir in the North Sea –from discovery to well planning </title>
+    <author>Ingrid Piene, Advisor, Petrophysics, Norsk Hydro ASA</author>
+    <file>archive/2006/Apr06.aspx</file>
+  </presentation>
+</Archive>
