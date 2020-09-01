@@ -13,3 +13,5 @@ article_header:
 # I can write a simple post
 
 And it's visible and all...
+
+![](/uploads/dsc09541.JPG)
