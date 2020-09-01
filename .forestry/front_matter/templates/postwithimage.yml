@@ -31,3 +31,5 @@ fields:
     - type: file
       name: src
       label: src
+pages:
+- _posts/my-first-forestification-post.md
