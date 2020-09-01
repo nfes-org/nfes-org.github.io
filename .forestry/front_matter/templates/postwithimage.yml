@@ -1,0 +1,33 @@
+---
+label: PostWithImage
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: category
+  label: category
+- type: boolean
+  name: featured
+  label: featured
+- type: file
+  name: cover
+  label: cover
+- type: field_group
+  name: article_header
+  label: article_header
+  fields:
+  - type: text
+    name: type
+    label: type
+  - type: field_group
+    name: image
+    label: image
+    fields:
+    - type: file
+      name: src
+      label: src
