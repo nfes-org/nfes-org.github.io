@@ -1,4 +1,5 @@
 from xml.dom import minidom
+import regex
 
 
 def add_recursively_to_string(s, xml_input):
@@ -14,6 +15,8 @@ def add_recursively_to_string(s, xml_input):
             new_str = new_str + "\n" + add_recursively_to_string(s, child)
         return new_str
 
+posts_prefix = '../_posts/'
+assets_prefix = '../assets/archive/'
 
 class PastPresentation:
     def __init__(self, xml_input):
@@ -71,6 +74,33 @@ class PastPresentation:
             self.attachment = a_filename.nodeValue
             self.attachment_description = a_description.nodeValue
 
+    def make_post(self):
+        """
+
+        :return:
+        """
+        # ---
+        # title: Post with Header Image
+        # tags: [TeXt, blbla, featured]
+        # category: test_ctegory
+        # featured: true
+        # cover: /screenshot.jpg
+        # article_header:
+        #   type: cover
+        #   image:
+        #     src: /screenshot.jpg
+        # ---
+        clean_title: str = self.title
+        clean_title = clean_title.strip()
+        letters_only: str = regex.sub(r'[^\p{Latin}]', u'', clean_title)
+        letters_only = letters_only[0:30]
+        file_name = self.date + '-' + letters_only
+        with open(posts_prefix + file_name, 'w') as file:
+            file.write('---\n')
+            # preamble
+            file.write('title: ' + clean_title + '\n')
+            file.write('---\n')
+            # main part
 
 
 
@@ -89,4 +119,6 @@ p_list = []
 for p in presentations:
     p_list.append(PastPresentation(p))
 
-print(p_list)
+for p in p_list:
+    p.make_post()
+
