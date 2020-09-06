@@ -25,9 +25,9 @@ class MyHTMLParser(HTMLParser):
             return
         if self.started_content:
             self.my_text += '<'
-            self.my_text += tag + ' '
+            self.my_text += tag
             for attr in attrs:
-                self.my_text += attr[0] + '=\"{}\"'.format(attr[1])
+                self.my_text += ' ' + attr[0] + '=\"{}\"'.format(attr[1])
             self.my_text += '>\n'
         else:
             return
@@ -39,13 +39,13 @@ class MyHTMLParser(HTMLParser):
         if self.started_content:
             self.my_text += '</'
             self.my_text += tag
-            self.my_text += '>\n'
+            self.my_text += '>\n\n'
         else:
             return
 
     def handle_data(self, data):
         if self.started_content:
-            self.my_text += data
+            self.my_text += data + '\n'
 
     def handle_comment(self, data):
         print("Comment  :", data)
@@ -127,11 +127,12 @@ class PastPresentation:
                         parsed = parser.my_text
 
                         # soup = BeautifulSoup(all_html, features="lxml")
-                        print(parsed)
+                        self.original_html = parsed
                         # main_part = soup.find("asp:Content")
                         # print(main_part)
                 except:
                     pass
+
 
         # Abstract
         abstracts = xml_input.getElementsByTagName('Abstract')
@@ -182,7 +183,7 @@ class PastPresentation:
         letters_only: str = regex.sub(r'[^\p{Latin}]', u'', clean_title)
         letters_only = letters_only[0:30]
         file_name = self.date + '-' + letters_only
-        with open(posts_prefix + file_name, 'w') as file:
+        with open(posts_prefix + file_name + '.md', 'w') as file:
 
             # preamble
             file.write('---\n')
@@ -190,6 +191,11 @@ class PastPresentation:
             file.write('tags: presentation \n')
             file.write('---\n')
             # main part
+
+            if self.original_html is not None:
+                file.write(self.original_html)
+
+
 
 
 
