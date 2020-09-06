@@ -1,5 +1,5 @@
 ---
-title: Formation Fluid Characterisation for Geosteering Application Using Advanced Mud Logging Gas Detection Tools
+title: "Formation Fluid Characterisation for Geosteering Application Using Advanced Mud Logging Gas Detection Tools"
 tags: presentation 
 ---
 

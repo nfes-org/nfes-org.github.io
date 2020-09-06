@@ -1,5 +1,5 @@
 ---
-title: Geosteering and Mapping of Complex Reservoir Boundaries Using an Integrated Data Approach
+title: "Geosteering and Mapping of Complex Reservoir Boundaries Using an Integrated Data Approach"
 tags: presentation 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Resistivity Anisotropy and Formation Dip Evaluation in Vertical and Low Angle Wells Using LWD Directional Electromagnetic Measurements
+title: "Resistivity Anisotropy and Formation Dip Evaluation in Vertical and Low Angle Wells Using LWD Directional Electromagnetic Measurements"
 tags: presentation 
 ---
 

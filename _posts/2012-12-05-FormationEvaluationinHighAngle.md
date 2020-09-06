@@ -1,5 +1,5 @@
 ---
-title: Formation Evaluation in High Angle and Horizontal Wells – A New and Practical Workflow
+title: "Formation Evaluation in High Angle and Horizontal Wells – A New and Practical Workflow"
 tags: presentation 
 ---
 

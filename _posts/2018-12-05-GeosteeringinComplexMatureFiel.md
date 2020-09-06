@@ -1,5 +1,5 @@
 ---
-title: Geosteering in Complex Mature Fields Through Integration of 3D Multi-Scale LWD-Data, Geomodels, Surface and Time-Lapse Seismic
+title: "Geosteering in Complex Mature Fields Through Integration of 3D Multi-Scale LWD-Data, Geomodels, Surface and Time-Lapse Seismic"
 tags: presentation 
 ---
 

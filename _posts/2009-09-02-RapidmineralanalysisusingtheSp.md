@@ -1,4 +1,4 @@
 ---
-title: Rapid mineral analysis using the SpecCam imaging spectrometer
+title: "Rapid mineral analysis using the SpecCam imaging spectrometer"
 tags: presentation 
 ---

@@ -1,5 +1,5 @@
 ---
-title: In the realm of resistivity based Water Saturation equations and introduction to log based Saturation uncertainty analysis
+title: "In the realm of resistivity based Water Saturation equations and introduction to log based Saturation uncertainty analysis"
 tags: presentation 
 ---
 

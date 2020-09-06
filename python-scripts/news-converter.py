@@ -187,7 +187,7 @@ class PastPresentation:
 
             # preamble
             file.write('---\n')
-            file.write('title: ' + clean_title + '\n')
+            file.write('title: \"' + clean_title + '\"\n')
             file.write('tags: presentation \n')
             file.write('---\n')
             # main part

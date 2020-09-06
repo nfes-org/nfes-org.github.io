@@ -1,5 +1,5 @@
 ---
-title: “Diamonds in the Noise” – Treasures Lurking in Acoustic Data
+title: "“Diamonds in the Noise” – Treasures Lurking in Acoustic Data"
 tags: presentation 
 ---
 

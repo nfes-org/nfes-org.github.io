@@ -1,4 +1,4 @@
 ---
-title: Bed Boundary Mapping Tools
+title: "Bed Boundary Mapping Tools"
 tags: presentation 
 ---

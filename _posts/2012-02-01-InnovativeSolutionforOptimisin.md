@@ -1,5 +1,5 @@
 ---
-title: Innovative Solution for Optimising Drilling Performance and Wellbore Stability: Western Desert, Egypt
+title: "Innovative Solution for Optimising Drilling Performance and Wellbore Stability: Western Desert, Egypt"
 tags: presentation 
 ---
 

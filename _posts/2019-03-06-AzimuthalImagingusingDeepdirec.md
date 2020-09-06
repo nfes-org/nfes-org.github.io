@@ -1,5 +1,5 @@
 ---
-title: Azimuthal Imaging using Deep-directional Resistivity Measurements reveals 3D Reservoir Structure
+title: "Azimuthal Imaging using Deep-directional Resistivity Measurements reveals 3D Reservoir Structure"
 tags: presentation 
 ---
 

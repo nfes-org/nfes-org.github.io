@@ -1,5 +1,5 @@
 ---
-title: An approach to evaluating carbonate successions that helps to mitigate the uncertainly associated with up-scaling environmental interpretations while forging better links with electrofacies and geomodelling
+title: "An approach to evaluating carbonate successions that helps to mitigate the uncertainly associated with up-scaling environmental interpretations while forging better links with electrofacies and geomodelling"
 tags: presentation 
 ---
 

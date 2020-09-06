@@ -1,5 +1,5 @@
 ---
-title: Advances in Deep Directional Resistivity
+title: "Advances in Deep Directional Resistivity"
 tags: presentation 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Evolving Petrophysics of the Overburden: A Spectroscopy Approach
+title: "Evolving Petrophysics of the Overburden: A Spectroscopy Approach"
 tags: presentation 
 ---
 

@@ -1,4 +1,4 @@
 ---
-title: QC and Interpretation of LWD Density Logs
+title: "QC and Interpretation of LWD Density Logs"
 tags: presentation 
 ---

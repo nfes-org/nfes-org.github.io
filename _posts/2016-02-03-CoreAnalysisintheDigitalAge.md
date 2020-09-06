@@ -1,5 +1,5 @@
 ---
-title: Core Analysis in the Digital Age
+title: "Core Analysis in the Digital Age"
 tags: presentation 
 ---
 

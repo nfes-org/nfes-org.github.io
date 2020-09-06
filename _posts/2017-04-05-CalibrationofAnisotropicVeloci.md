@@ -1,5 +1,5 @@
 ---
-title: Calibration of Anisotropic Velocity Models using Innovative Borehole Geophysical Measurements
+title: "Calibration of Anisotropic Velocity Models using Innovative Borehole Geophysical Measurements"
 tags: presentation 
 ---
 

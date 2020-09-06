@@ -1,5 +1,5 @@
 ---
-title: Look Ahead Geosteering via Real Time Integration of Logging While Drilling Measurements with Surface Seismic
+title: "Look Ahead Geosteering via Real Time Integration of Logging While Drilling Measurements with Surface Seismic"
 tags: presentation 
 ---
 

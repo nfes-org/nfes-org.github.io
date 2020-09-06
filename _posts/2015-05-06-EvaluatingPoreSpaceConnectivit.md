@@ -1,5 +1,5 @@
 ---
-title: Evaluating Pore Space Connectivity by NMR Diffusive Coupling
+title: "Evaluating Pore Space Connectivity by NMR Diffusive Coupling"
 tags: presentation 
 ---
 

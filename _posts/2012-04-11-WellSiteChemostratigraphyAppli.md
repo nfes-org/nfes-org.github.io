@@ -1,5 +1,5 @@
 ---
-title: Well-Site Chemostratigraphy - Applications of inorganic element geochemistry while drilling
+title: "Well-Site Chemostratigraphy - Applications of inorganic element geochemistry while drilling"
 tags: presentation 
 ---
 

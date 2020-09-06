@@ -1,5 +1,5 @@
 ---
-title: Lifting the Fog of Confusion Surrounding Clay and Shale in Petrophysics
+title: "Lifting the Fog of Confusion Surrounding Clay and Shale in Petrophysics"
 tags: presentation 
 ---
 

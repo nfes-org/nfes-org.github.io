@@ -1,5 +1,5 @@
 ---
-title: The impact of biased LWD data propagated through nonbiased WL models
+title: "The impact of biased LWD data propagated through nonbiased WL models"
 tags: presentation 
 ---
 

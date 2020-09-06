@@ -1,5 +1,5 @@
 ---
-title: Net pay Optimization and Improved Reservoir Mapping From Ultra-Deep Look Around LWD Measurements
+title: "Net pay Optimization and Improved Reservoir Mapping From Ultra-Deep Look Around LWD Measurements"
 tags: presentation 
 ---
 

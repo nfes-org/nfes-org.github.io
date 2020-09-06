@@ -1,5 +1,5 @@
 ---
-title: The use of new LWD High Resolution Ultrasonic Imaging Tool to Unlock the Reservoir Potential
+title: "The use of new LWD High Resolution Ultrasonic Imaging Tool to Unlock the Reservoir Potential"
 tags: presentation 
 ---
 

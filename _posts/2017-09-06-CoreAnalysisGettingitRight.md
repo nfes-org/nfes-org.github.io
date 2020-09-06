@@ -1,4 +1,4 @@
 ---
-title: Core Analysis: Getting it Right
+title: "Core Analysis: Getting it Right"
 tags: presentation 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Extra-deep Azimuthal Resistivity Technology
+title: "Extra-deep Azimuthal Resistivity Technology"
 tags: presentation 
 ---
 

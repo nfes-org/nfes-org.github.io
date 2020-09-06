@@ -1,4 +1,4 @@
 ---
-title: The Importance of Compaction Logging
+title: "The Importance of Compaction Logging"
 tags: presentation 
 ---

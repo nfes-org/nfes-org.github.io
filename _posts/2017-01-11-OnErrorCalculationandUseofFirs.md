@@ -1,5 +1,5 @@
 ---
-title: On Error Calculation and Use of First Order Error Propagation as Integral Part of Petrophysical Calculation
+title: "On Error Calculation and Use of First Order Error Propagation as Integral Part of Petrophysical Calculation"
 tags: presentation 
 ---
 

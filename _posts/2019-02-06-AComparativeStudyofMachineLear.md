@@ -1,5 +1,5 @@
 ---
-title: A Comparative Study of Machine Learning Techniques for Facies Characterization
+title: "A Comparative Study of Machine Learning Techniques for Facies Characterization"
 tags: presentation 
 ---
 

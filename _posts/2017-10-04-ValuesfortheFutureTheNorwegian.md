@@ -1,5 +1,5 @@
 ---
-title: Values for the Future - The Norwegian Petroleum Directorate’s Resource Report and Outlook
+title: "Values for the Future - The Norwegian Petroleum Directorate’s Resource Report and Outlook"
 tags: presentation 
 ---
 

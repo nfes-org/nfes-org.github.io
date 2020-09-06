@@ -1,5 +1,5 @@
 ---
-title: A Petrophysical Potpourri
+title: "A Petrophysical Potpourri"
 tags: presentation 
 ---
 
