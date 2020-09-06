@@ -1,5 +1,68 @@
 from xml.dom import minidom
 import regex
+from bs4 import BeautifulSoup
+
+import requests
+import lxml
+
+from html.parser import HTMLParser
+from html.entities import name2codepoint
+
+
+class MyHTMLParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.my_text = ''
+        self.started_content = False
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'asp:content':
+            for attr in attrs:
+                (id, value) = attr
+                if value == 'MainContent':
+                    self.started_content = True
+                    return
+            return
+        if self.started_content:
+            self.my_text += '<'
+            self.my_text += tag + ' '
+            for attr in attrs:
+                self.my_text += attr[0] + '=\"{}\"'.format(attr[1])
+            self.my_text += '>\n'
+        else:
+            return
+
+    def handle_endtag(self, tag):
+        if tag == 'asp:content':
+            self.started_content = False
+            return
+        if self.started_content:
+            self.my_text += '</'
+            self.my_text += tag
+            self.my_text += '>\n'
+        else:
+            return
+
+    def handle_data(self, data):
+        if self.started_content:
+            self.my_text += data
+
+    def handle_comment(self, data):
+        print("Comment  :", data)
+
+    def handle_entityref(self, name):
+        c = chr(name2codepoint[name])
+        print("Named ent:", c)
+
+    def handle_charref(self, name):
+        if name.startswith('x'):
+            c = chr(int(name[1:], 16))
+        else:
+            c = chr(int(name))
+        print("Num ent  :", c)
+
+    def handle_decl(self, data):
+        print("Decl     :", data)
 
 
 def add_recursively_to_string(s, xml_input):
@@ -17,9 +80,11 @@ def add_recursively_to_string(s, xml_input):
 
 posts_prefix = '../_posts/'
 assets_prefix = '../assets/archive/'
+old_site_archive_prefix = '../old-site/WWWRoot/'
 
 class PastPresentation:
     def __init__(self, xml_input):
+
         # date
         dates = xml_input.getElementsByTagName('date')
         assert len(dates) == 1
@@ -43,8 +108,30 @@ class PastPresentation:
         self.original_file = None
         self.original_html = None
         if len(files) > 0:
-            self.original_file = files[0].childNodes[0].nodeValue
-            # TODO get original html from file
+            self.original_file :str = files[0].childNodes[0].nodeValue
+            if self.original_file.endswith('aspx'):
+                print('processing {}'.format(self.original_file))
+                try:
+                    with open(old_site_archive_prefix + self.original_file) as html_file:
+                        html_lines = html_file.readlines()
+                        # all_html = ''
+                        parser = MyHTMLParser()
+                        for i in range(1, len(html_lines)):
+                            # all_html = all_html + html_lines[i]
+                            parser.feed(html_lines[i])
+
+                        # mydoc = minidom.parse(old_site_archive_prefix + self.original_file)
+                        # xmlstr = ElementTree.tostring(mydoc, encoding='utf8', method='xml')
+                        # print(xmlstr)
+
+                        parsed = parser.my_text
+
+                        # soup = BeautifulSoup(all_html, features="lxml")
+                        print(parsed)
+                        # main_part = soup.find("asp:Content")
+                        # print(main_part)
+                except:
+                    pass
 
         # Abstract
         abstracts = xml_input.getElementsByTagName('Abstract')
@@ -96,9 +183,11 @@ class PastPresentation:
         letters_only = letters_only[0:30]
         file_name = self.date + '-' + letters_only
         with open(posts_prefix + file_name, 'w') as file:
-            file.write('---\n')
+
             # preamble
+            file.write('---\n')
             file.write('title: ' + clean_title + '\n')
+            file.write('tags: presentation \n')
             file.write('---\n')
             # main part
 
