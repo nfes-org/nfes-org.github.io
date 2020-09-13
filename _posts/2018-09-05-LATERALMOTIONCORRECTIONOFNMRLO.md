@@ -1,6 +1,6 @@
 ---
 title: "LATERAL-MOTION CORRECTION OF NMR LOGGING-WHILE-DRILLING DATA (Radu Coman, Baker Hughes)"
-tags: presentation 
+tags: presentation has_attachment
 ---
 
 
@@ -130,3 +130,6 @@ Radu Coman received a Dr.rer.nat. degree from the University of Hamburg in 2004 
 
 
 
+
+
+<a class="button button--primary button--pill" href="/assets/archive/NFES_20180905.pdf">Download Presentation as PDF</a>

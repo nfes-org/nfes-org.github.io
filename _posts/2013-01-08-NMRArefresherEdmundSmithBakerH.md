@@ -1,6 +1,6 @@
 ---
 title: "NMR:  A refresher! (Edmund Smith, Baker Hughes)"
-tags: presentation 
+tags: presentation has_attachment
 ---
 
 
@@ -83,3 +83,6 @@ Edmund Smith graduated with an MSc In sedimentology from the University of Readi
 
 
 
+
+
+<a class="button button--primary button--pill" href="/assets/archive/Jan13.pdf">Download Presentation as PDF</a>

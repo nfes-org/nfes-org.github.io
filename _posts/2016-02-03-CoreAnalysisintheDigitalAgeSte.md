@@ -1,6 +1,6 @@
 ---
 title: "Core Analysis in the Digital Age (Stefano Pruno, Weatherford Laboratories)"
-tags: presentation 
+tags: presentation
 ---
 
 

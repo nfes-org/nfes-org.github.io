@@ -1,6 +1,6 @@
 ---
 title: "“Diamonds in the Noise” – Treasures Lurking in Acoustic Data (Jennifer Market, Senergy)"
-tags: presentation 
+tags: presentation has_attachment
 ---
 
 
@@ -79,3 +79,6 @@ Jennifer Market is the borehole acoustics manager for Senergy, an international 
 
 	
 
+
+
+<a class="button button--primary button--pill" href="/assets/archive/Apr13.pdf">Download Presentation as PDF</a>

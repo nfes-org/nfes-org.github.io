@@ -1,6 +1,6 @@
 ---
 title: "FROM THE BOREHOLE WALL INTO THE FORMATION – COMBINING BOREHOLE IMAGES WITH DEEP SHEAR WAVE IMAGING TECHNOLOGY (Stefan Schimschal, Baker Hughes, a GE company)"
-tags: presentation 
+tags: presentation
 ---
 
 

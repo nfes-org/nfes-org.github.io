@@ -1,6 +1,6 @@
 ---
 title: "Net pay Optimization and Improved Reservoir Mapping From Ultra-Deep Look Around LWD Measurements (Frank Antonsen, Statoil)"
-tags: presentation 
+tags: presentation
 ---
 
 

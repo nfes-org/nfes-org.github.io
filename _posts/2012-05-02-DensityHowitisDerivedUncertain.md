@@ -1,6 +1,6 @@
 ---
 title: "Density; How it is Derived , Uncertainties and Influence on Porosity Evaluation (Arve K. Thorsen, Baker Hughes )"
-tags: presentation 
+tags: presentation
 ---
 
 

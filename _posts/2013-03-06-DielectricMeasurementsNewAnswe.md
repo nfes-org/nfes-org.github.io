@@ -1,6 +1,6 @@
 ---
 title: "Dielectric Measurements - New Answers to the Table (Amitabha Chatterjee, Schlumberger)"
-tags: presentation 
+tags: presentation
 ---
 
 

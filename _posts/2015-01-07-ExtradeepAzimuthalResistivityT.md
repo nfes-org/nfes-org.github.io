@@ -1,6 +1,6 @@
 ---
 title: "Extra-deep Azimuthal Resistivity Technology (David Selvåg Larsen, Baker Hughes)"
-tags: presentation 
+tags: presentation
 ---
 
 

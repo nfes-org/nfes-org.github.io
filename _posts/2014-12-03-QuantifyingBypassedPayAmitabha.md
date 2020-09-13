@@ -1,6 +1,6 @@
 ---
 title: "Quantifying Bypassed Pay (Amitabha Chatterjee, Schlumberger)"
-tags: presentation 
+tags: presentation
 ---
 
 

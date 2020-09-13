@@ -1,6 +1,6 @@
 ---
 title: "Laminated reservoirs – what can you do with pesky LWD data? (David Maggs, Schlumberger)"
-tags: presentation 
+tags: presentation
 ---
 
 

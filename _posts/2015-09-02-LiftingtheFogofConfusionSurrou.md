@@ -1,6 +1,6 @@
 ---
 title: "Lifting the Fog of Confusion Surrounding Clay and Shale in Petrophysics (Paul Spooner, LR Senergy)"
-tags: presentation 
+tags: presentation
 ---
 
 

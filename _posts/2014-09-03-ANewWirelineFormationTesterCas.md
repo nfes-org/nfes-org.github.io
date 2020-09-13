@@ -1,6 +1,6 @@
 ---
 title: "A New Wireline Formation Tester – Case Studies from the Norwegian Continental Shelf (Thomas Pfeiffer, Schlumberger)"
-tags: presentation 
+tags: presentation
 ---
 
 

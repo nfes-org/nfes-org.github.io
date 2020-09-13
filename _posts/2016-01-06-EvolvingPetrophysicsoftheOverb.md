@@ -1,6 +1,6 @@
 ---
 title: "Evolving Petrophysics of the Overburden: A Spectroscopy Approach (Harish B. Datir, Schlumberger)"
-tags: presentation 
+tags: presentation has_attachment
 ---
 
 
@@ -85,4 +85,4 @@ Harish B. Datir is a Senior Petrophysicist currently working for Schlumberger SI
 
 
 
-<a class="btn btn-info" href="/assets/archive/EvolvingPetrophysics.pdf">Download Presentation as PDF</a>
+<a class="button button--primary button--pill" href="/assets/archive/EvolvingPetrophysics.pdf">Download Presentation as PDF</a>

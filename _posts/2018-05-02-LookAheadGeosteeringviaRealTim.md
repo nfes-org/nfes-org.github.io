@@ -1,6 +1,6 @@
 ---
 title: "Look Ahead Geosteering via Real Time Integration of Logging While Drilling Measurements with Surface Seismic (Sergey Alyaev, IRIS)"
-tags: presentation 
+tags: presentation has_attachment
 ---
 
 
@@ -126,3 +126,6 @@ Sergey Alyaev, CV
 
 
 
+
+
+<a class="button button--primary button--pill" href="/assets/archive/presentationNFES.pdf">Download Presentation as PDF</a>

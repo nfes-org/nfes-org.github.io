@@ -1,6 +1,6 @@
 ---
 title: "Resistivity Anisotropy and Formation Dip Evaluation in Vertical and Low Angle Wells Using LWD Directional Electromagnetic Measurements (Mathias Horstmann (Schlumberger))"
-tags: presentation 
+tags: presentation
 ---
 
 

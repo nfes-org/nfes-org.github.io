@@ -148,7 +148,8 @@ class PastPresentation:
         files = xml_input.getElementsByTagName('file')
         assert 0 <= len(files) <= 1
         self.original_file = None
-        self.original_html = None
+        self.original_html = ''
+        self.copied_files = []
         if len(files) > 0:
             self.original_file: str = files[0].childNodes[0].nodeValue
             if self.original_file.endswith('aspx'):
@@ -171,24 +172,44 @@ class PastPresentation:
 
                         # soup = BeautifulSoup(all_html, features="lxml")
                         self.original_html = parsed
+                        self.copied_files = parser.copied_files
 
-                        if self.attachment is not None:
-                            my_attachment = old_site_archive_prefix + self.attachment
-                            if my_attachment not in parser.copied_files:
-                                file_only = self.attachment.split('/')[-1]
-                                old_path: str = my_attachment
-                                new_path = assets_prefix + file_only
-                                shutil.copy(old_path, new_path)
-                                # self.copied_files.append(old_path)
-                                self.original_html += '\n\n<a class=\"btn btn-info\" href=\"{}\">' \
-                                                      'Download {}' \
-                                                      '</a>'.format(assets_prefix_for_site+file_only, self.attachment_description)
-                                # ''<a href' + '=\"{}\"'.format(assets_prefix_for_site + file_only)
 
                         # main_part = soup.find("asp:Content")
                         # print(main_part)
                 except:
-                    pass
+                    print('failed {}'.format(self.original_file))
+
+        if self.original_html == '':
+            if self.date is not None:
+                self.original_html += '#### was presented {} \n\n'.format(self.date)
+            if self.abstract is not None:
+                self.original_html += '## Abstract \n\n'
+                self.original_html += self.abstract + '\n\n'
+            if self.cv is not None:
+                self.original_html += '## CV \n\n'
+                self.original_html += self.cv + '\n\n'
+
+        if len(self.copied_files) > 0 or self.attachment is not None:
+            if self.attachment is not None:
+                my_attachment = old_site_archive_prefix + self.attachment
+                self.copied_files.append(my_attachment)
+                file_only = self.attachment.split('/')[-1]
+                if my_attachment not in self.copied_files:
+                    old_path: str = my_attachment
+                    new_path = assets_prefix + file_only
+                    shutil.copy(old_path, new_path)
+                    # self.copied_files.append(old_path)
+            else:
+                my_attachment = self.copied_files[0]
+                file_only = my_attachment.split('/')[-1]
+                self.attachment_description = 'file'
+
+            self.original_html += '\n\n<a class=\"button button--primary button--pill\" href=\"{}\">' \
+                                  'Download {}' \
+                                  '</a>'.format(assets_prefix_for_site + file_only, self.attachment_description)
+                # print(self.original_html)
+                # ''<a href' + '=\"{}\"'.format(assets_prefix_for_site + file_only)
 
     def make_post(self):
         """
@@ -218,7 +239,10 @@ class PastPresentation:
             # preamble
             file.write('---\n')
             file.write('title: \"' + clean_title + '\"\n')
-            file.write('tags: presentation \n')
+            file.write('tags: presentation')
+            if len(self.copied_files) > 0:
+                file.write(' has_attachment')
+            file.write('\n')
             file.write('---\n')
             # main part
 

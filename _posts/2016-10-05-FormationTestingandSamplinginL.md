@@ -1,6 +1,6 @@
 ---
 title: "Formation Testing and Sampling in Low-Mobility formations, an example of new technology Solutions (Gavin JG Sibbald, Baker)"
-tags: presentation 
+tags: presentation has_attachment
 ---
 
 
@@ -71,3 +71,6 @@ Gavin JG Sibbald is the regional reservoir engineering advisor for Baker Hughes 
 
 
 
+
+
+<a class="button button--primary button--pill" href="/assets/archive/2016_D.pdf">Download Presentation as PDF</a>

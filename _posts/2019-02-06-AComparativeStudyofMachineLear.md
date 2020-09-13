@@ -1,6 +1,6 @@
 ---
 title: "A Comparative Study of Machine Learning Techniques for Facies Characterization (Subhadeep Sarkar, Schlumberger)"
-tags: presentation 
+tags: presentation
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Data acquisition and interpretation challenges on the Johan Sverdrup Field (Sven Erik Foyn, Lundin)"
-tags: presentation 
+tags: presentation
 ---
 
 

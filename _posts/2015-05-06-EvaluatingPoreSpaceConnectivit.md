@@ -1,6 +1,6 @@
 ---
 title: "Evaluating Pore Space Connectivity by NMR Diffusive Coupling (Giovanna  Carneiro (Schlumberger-Doll Research), SPWLA Distinguished Lecturer)"
-tags: presentation 
+tags: presentation
 ---
 
 

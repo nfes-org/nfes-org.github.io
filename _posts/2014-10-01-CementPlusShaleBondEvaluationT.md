@@ -1,6 +1,6 @@
 ---
 title: "Cement Plus Shale Bond Evaluation: The Draugen Well Abandonment Story (Vanessa Mendoza Barrón, Snr. Petrophysicist, Norske Shell)"
-tags: presentation 
+tags: presentation
 ---
 
 

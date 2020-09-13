@@ -1,6 +1,6 @@
 ---
 title: "Heterogeneous Carbonate Reservoirs: Ensuring Consistency of Subsurface Models by Maximizing the Use of Saturation Height Models and Dynamic Data (Iulian N Hulea, Shell,  SPWLA Distinguished Speaker)"
-tags: presentation 
+tags: presentation
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Azimuthal Imaging using Deep-directional Resistivity Measurements reveals 3D Reservoir Structure (Michael Thiel, Schlumberger)"
-tags: presentation 
+tags: presentation
 ---
 
 

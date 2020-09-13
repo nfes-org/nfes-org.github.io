@@ -1,6 +1,6 @@
 ---
 title: "Attenuation-Based Quantitative Cement Bond Index with LWD Sonic: A Novel Approach Applicable to all Casing and Cement Cases (Marcelo Cecena, Acoustic Domain Champion, Schlumberger)"
-tags: presentation 
+tags: presentation
 ---
 
 

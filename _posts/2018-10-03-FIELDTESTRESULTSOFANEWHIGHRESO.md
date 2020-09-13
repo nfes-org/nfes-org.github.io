@@ -1,6 +1,6 @@
 ---
 title: "FIELD TEST RESULTS OF A NEW HIGH-RESOLUTION, DUALPHYSICS LOGGING-WHILE-DRILLING IMAGING TOOL IN OILBASE MUD (Mathias Horstman, Schlumberger)"
-tags: presentation 
+tags: presentation
 ---
 
 

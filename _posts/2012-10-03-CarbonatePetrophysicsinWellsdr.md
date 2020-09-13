@@ -1,6 +1,6 @@
 ---
 title: "Carbonate Petrophysics in Wells drilled with Oil Base Mud (Austin Boyd, Schlumberger, SPWLA Distinguished Lecturer)"
-tags: presentation 
+tags: presentation has_attachment
 ---
 
 
@@ -89,3 +89,6 @@ Austin Boyd is the Petrophysics Program manager at Schlumberger Brazil Research 
 
 		
 
+
+
+<a class="button button--primary button--pill" href="/assets/archive/SPWLA_LPS_DPS_SVG.pdf">Download file</a>

@@ -1,6 +1,6 @@
 ---
 title: "The impact of biased LWD data propagated through nonbiased WL models (Yngve Johansen, Statoil)"
-tags: presentation 
+tags: presentation
 ---
 
 

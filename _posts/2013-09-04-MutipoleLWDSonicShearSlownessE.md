@@ -1,6 +1,6 @@
 ---
 title: "Mutipole LWD Sonic – Shear Slowness Estimation by Inversion of Borehole Quadrupole Mode (Michiko Hamada, Senior Petrophysicist, Schlumberger)"
-tags: presentation 
+tags: presentation
 ---
 
 

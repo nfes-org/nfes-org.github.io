@@ -1,6 +1,6 @@
 ---
 title: "Geosteering and Mapping of Complex Reservoir Boundaries Using an Integrated Data Approach (Nils Birger Selheim, Baker Hughes)"
-tags: presentation 
+tags: presentation
 ---
 
 

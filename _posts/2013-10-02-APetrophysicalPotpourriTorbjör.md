@@ -1,6 +1,6 @@
 ---
 title: "A Petrophysical Potpourri (Torbjörn Carlson, A/S Norske Shell)"
-tags: presentation 
+tags: presentation
 ---
 
 

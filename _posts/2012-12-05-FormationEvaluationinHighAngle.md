@@ -1,6 +1,6 @@
 ---
 title: "Formation Evaluation in High Angle and Horizontal Wells – A New and Practical Workflow (David Maggs, Schlumberger )"
-tags: presentation 
+tags: presentation
 ---
 
 

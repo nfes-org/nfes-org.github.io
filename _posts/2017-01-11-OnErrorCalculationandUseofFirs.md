@@ -1,6 +1,6 @@
 ---
 title: "On Error Calculation and Use of First Order Error Propagation as Integral Part of Petrophysical Calculation (Stein Ottar Stalheim, Statoil)"
-tags: presentation 
+tags: presentation
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Geosteering in Complex Mature Fields Through Integration of 3D Multi-Scale LWD-Data, Geomodels, Surface and Time-Lapse Seismic (Frank Antonsen, Equinor)"
-tags: presentation 
+tags: presentation
 ---
 
 

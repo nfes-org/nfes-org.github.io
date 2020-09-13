@@ -1,6 +1,6 @@
 ---
 title: "The use of new LWD High Resolution Ultrasonic Imaging Tool to Unlock the Reservoir Potential (Davide, Weatherford)"
-tags: presentation 
+tags: presentation
 ---
 
 

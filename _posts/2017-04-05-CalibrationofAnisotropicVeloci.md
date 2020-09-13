@@ -1,6 +1,6 @@
 ---
 title: "Calibration of Anisotropic Velocity Models using Innovative Borehole Geophysical Measurements (Rafael Guerra, Schlumberger)"
-tags: presentation 
+tags: presentation has_attachment
 ---
 
 
@@ -104,3 +104,6 @@ Rafael is currently based in Stavanger, and he is responsible for Schlumbergerâ€
 
      
 
+
+
+<a class="button button--primary button--pill" href="/assets/archive/NFES_05Apr2017.pdf">Download Presentation as PDF</a>

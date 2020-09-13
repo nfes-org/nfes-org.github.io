@@ -1,6 +1,6 @@
 ---
 title: "LOOKING AHEAD OF THE BIT WHILE DRILLING: FROM VISION TO REALITY (Monica Vik Constable, Statoil)"
-tags: presentation 
+tags: presentation
 ---
 
 

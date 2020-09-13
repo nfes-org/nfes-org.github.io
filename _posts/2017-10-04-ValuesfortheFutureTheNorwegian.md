@@ -1,6 +1,6 @@
 ---
 title: "Values for the Future - The Norwegian Petroleum Directorate’s Resource Report and Outlook (Alexey Deryabin, NPD)"
-tags: presentation 
+tags: presentation has_attachment
 ---
 
 
@@ -120,3 +120,6 @@ Alexey Deryabin holds MSc. in Marine Geology from University of Tromsø and has 
 
      
 
+
+
+<a class="button button--primary button--pill" href="/assets/archive/NFES_04Oct2017.pdf">Download Presentation as PDF</a>

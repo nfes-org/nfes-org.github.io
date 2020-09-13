@@ -1,6 +1,6 @@
 ---
 title: "Advances in Deep Directional Resistivity (Christophe Dupuis, Schlumberger)"
-tags: presentation 
+tags: presentation
 ---
 
 

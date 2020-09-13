@@ -1,4 +1,6 @@
 ---
 title: "Bed Boundary Mapping Tools (Matthew Spotkaeff, Schlumberger )"
-tags: presentation 
+tags: presentation
 ---
+#### was presented 2010-06-02 
+
