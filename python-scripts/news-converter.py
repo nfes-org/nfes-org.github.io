@@ -31,7 +31,7 @@ class MyHTMLParser(HTMLParser):
             self.my_text += '<'
             self.my_text += tag
             for attr in attrs:
-                if attr[0] == 'href':
+                if attr[0] == 'href' or attr[0] == 'src':
                     old_path: str = self.path_to_file + '/' + attr[1]
                     if os.path.isfile(old_path):
                         new_path = assets_prefix + attr[1]

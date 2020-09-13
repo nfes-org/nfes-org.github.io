@@ -1,6 +1,6 @@
 ---
 title: "LOOKING AHEAD OF THE BIT WHILE DRILLING: FROM VISION TO REALITY (Monica Vik Constable, Statoil)"
-tags: presentation
+tags: presentation has_attachment
 ---
 
 
@@ -208,7 +208,7 @@ Monica Vik Constable, CV
 
 
     
-<img src="Monica.jpg" style="float:left; margin-right:10px;">
+<img src="/assets/archive/Monica.jpg" style="float:left; margin-right:10px;">
 </img>
 
 
@@ -220,3 +220,6 @@ Monica Vik Constable started working in the oil industry in 1997 as a wireline f
 
 
 
+
+
+<a class="button button--primary button--pill" href="/assets/archive/Monica.jpg">Download file</a>
