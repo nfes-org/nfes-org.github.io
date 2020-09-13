@@ -111,7 +111,7 @@ Radu Coman, CV
 <p>
               
 <img src="/assets/archive/RaduComan.jpg" style="margin:2px 20px 2px 2px;" class="rounded pull-left">
-</img>
+
 
 
 

@@ -209,7 +209,7 @@ Monica Vik Constable, CV
 
     
 <img src="/assets/archive/Monica.jpg" style="float:left; margin-right:10px;">
-</img>
+
 
 
 

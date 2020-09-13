@@ -152,49 +152,49 @@ Relevant Job Experience:
 <td>
 35 years of oilfield experience  - to date Stavanger, Norway Snr. Petrophysicist
 <br>
-</br>
+
 
 
 
 Apr-2007 – June 2015 Stavanger, Norway Sr.GeoScientist
 <br>
-</br>
+
 
 
 
 	Nov-2004 - Apr-2007 Baku, Azerbaijan Snr.Petrophysicist
 <br>
-</br>
+
 
 
 
 	Jan-2002 - Nov-2004 Stavanger, Norway S.Log Analyst
 <br>
-</br>
+
 
 
 
 	May-1998 - Jan-2002 AbuDhabi, UAE Snr. Log Analyst
 <br>
-</br>
+
 
 
 
 	Feb-1995 - May-1998 Khobar, Saudi Arabia Sales Engineer
 <br>
-</br>
+
 
 
 
 	Jun-1994 - Feb-1995 Kuwait Log Analyst
 <br>
-</br>
+
 
 
 
 	Mar-1988 - Jun-1994 Aberdeen, Log Analyst
 <br>
-</br>
+
 
 
 

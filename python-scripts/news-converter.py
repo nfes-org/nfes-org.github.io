@@ -170,6 +170,10 @@ class PastPresentation:
 
                         parsed = parser.my_text
 
+                        for_removal = ['</br>', '</img>']
+                        for substr in for_removal:
+                            parsed = parsed.replace(substr, '')
+
                         # soup = BeautifulSoup(all_html, features="lxml")
                         self.original_html = parsed
                         self.copied_files = parser.copied_files
