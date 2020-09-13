@@ -1,5 +1,7 @@
 from xml.dom import minidom
 import regex
+import os
+import shutil
 from bs4 import BeautifulSoup
 
 import requests
@@ -10,10 +12,12 @@ from html.entities import name2codepoint
 
 
 class MyHTMLParser(HTMLParser):
-    def __init__(self):
+    def __init__(self, path_to_file):
         super().__init__()
         self.my_text = ''
         self.started_content = False
+        self.path_to_file = path_to_file
+        self.copied_files = []
 
     def handle_starttag(self, tag, attrs):
         if tag == 'asp:content':
@@ -27,6 +31,14 @@ class MyHTMLParser(HTMLParser):
             self.my_text += '<'
             self.my_text += tag
             for attr in attrs:
+                if attr[0] == 'href':
+                    old_path: str = self.path_to_file + '/' + attr[1]
+                    if os.path.isfile(old_path):
+                        new_path = assets_prefix + attr[1]
+                        shutil.copy(old_path, new_path)
+                        self.copied_files.append(old_path)
+                        self.my_text += ' ' + attr[0] + '=\"{}\"'.format(assets_prefix_for_site + attr[1])
+                        continue
                 self.my_text += ' ' + attr[0] + '=\"{}\"'.format(attr[1])
             self.my_text += '>\n'
         else:
@@ -78,9 +90,12 @@ def add_recursively_to_string(s, xml_input):
             new_str = new_str + "\n" + add_recursively_to_string(s, child)
         return new_str
 
+
 posts_prefix = '../_posts/'
 assets_prefix = '../assets/archive/'
+assets_prefix_for_site = '/assets/archive/'
 old_site_archive_prefix = '../old-site/WWWRoot/'
+
 
 class PastPresentation:
     def __init__(self, xml_input):
@@ -101,39 +116,6 @@ class PastPresentation:
         self.author = None
         if len(authors) > 0:
             self.author = authors[0].childNodes[0].nodeValue
-
-        # file
-        files = xml_input.getElementsByTagName('file')
-        assert 0 <= len(files) <= 1
-        self.original_file = None
-        self.original_html = None
-        if len(files) > 0:
-            self.original_file :str = files[0].childNodes[0].nodeValue
-            if self.original_file.endswith('aspx'):
-                print('processing {}'.format(self.original_file))
-                try:
-                    with open(old_site_archive_prefix + self.original_file) as html_file:
-                        html_lines = html_file.readlines()
-                        # all_html = ''
-                        parser = MyHTMLParser()
-                        for i in range(1, len(html_lines)):
-                            # all_html = all_html + html_lines[i]
-                            parser.feed(html_lines[i])
-
-                        # mydoc = minidom.parse(old_site_archive_prefix + self.original_file)
-                        # xmlstr = ElementTree.tostring(mydoc, encoding='utf8', method='xml')
-                        # print(xmlstr)
-
-                        parsed = parser.my_text
-
-                        # soup = BeautifulSoup(all_html, features="lxml")
-                        self.original_html = parsed
-                        # main_part = soup.find("asp:Content")
-                        # print(main_part)
-                except:
-                    pass
-
-
         # Abstract
         abstracts = xml_input.getElementsByTagName('Abstract')
         assert 0 <= len(abstracts) <= 1
@@ -162,6 +144,52 @@ class PastPresentation:
             self.attachment = a_filename.nodeValue
             self.attachment_description = a_description.nodeValue
 
+        # file
+        files = xml_input.getElementsByTagName('file')
+        assert 0 <= len(files) <= 1
+        self.original_file = None
+        self.original_html = None
+        if len(files) > 0:
+            self.original_file: str = files[0].childNodes[0].nodeValue
+            if self.original_file.endswith('aspx'):
+                print('processing {}'.format(self.original_file))
+                try:
+                    with open(old_site_archive_prefix + self.original_file) as html_file:
+                        html_lines = html_file.readlines()
+                        # all_html = ''
+                        path_part = '/'.join(self.original_file.split('/')[0:-1])
+                        parser = MyHTMLParser(old_site_archive_prefix + path_part)
+                        for i in range(1, len(html_lines)):
+                            # all_html = all_html + html_lines[i]
+                            parser.feed(html_lines[i])
+
+                        # mydoc = minidom.parse(old_site_archive_prefix + self.original_file)
+                        # xmlstr = ElementTree.tostring(mydoc, encoding='utf8', method='xml')
+                        # print(xmlstr)
+
+                        parsed = parser.my_text
+
+                        # soup = BeautifulSoup(all_html, features="lxml")
+                        self.original_html = parsed
+
+                        if self.attachment is not None:
+                            my_attachment = old_site_archive_prefix + self.attachment
+                            if my_attachment not in parser.copied_files:
+                                file_only = self.attachment.split('/')[-1]
+                                old_path: str = my_attachment
+                                new_path = assets_prefix + file_only
+                                shutil.copy(old_path, new_path)
+                                # self.copied_files.append(old_path)
+                                self.original_html += '\n\n<a class=\"btn btn-info\" href=\"{}\">' \
+                                                      'Download {}' \
+                                                      '</a>'.format(assets_prefix_for_site+file_only, self.attachment_description)
+                                # ''<a href' + '=\"{}\"'.format(assets_prefix_for_site + file_only)
+
+                        # main_part = soup.find("asp:Content")
+                        # print(main_part)
+                except:
+                    pass
+
     def make_post(self):
         """
 
@@ -180,6 +208,8 @@ class PastPresentation:
         # ---
         clean_title: str = self.title
         clean_title = clean_title.strip()
+        if isinstance(self.author, str):
+            clean_title += ' (' + self.author + ')'
         letters_only: str = regex.sub(r'[^\p{Latin}]', u'', clean_title)
         letters_only = letters_only[0:30]
         file_name = self.date + '-' + letters_only
@@ -194,10 +224,6 @@ class PastPresentation:
 
             if self.original_html is not None:
                 file.write(self.original_html)
-
-
-
-
 
 
 # parse an xml file by name
@@ -216,4 +242,3 @@ for p in presentations:
 
 for p in p_list:
     p.make_post()
-

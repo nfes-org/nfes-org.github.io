@@ -1,5 +1,5 @@
 ---
-title: "Cement evaluation during new well construction or PnA – Do we trust?"
+title: "Cement evaluation during new well construction or PnA – Do we trust? (Amit Govil, Schlumberger)"
 tags: presentation 
 ---
 

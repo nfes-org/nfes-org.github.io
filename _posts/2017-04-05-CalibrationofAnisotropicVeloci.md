@@ -1,5 +1,5 @@
 ---
-title: "Calibration of Anisotropic Velocity Models using Innovative Borehole Geophysical Measurements"
+title: "Calibration of Anisotropic Velocity Models using Innovative Borehole Geophysical Measurements (Rafael Guerra, Schlumberger)"
 tags: presentation 
 ---
 
@@ -72,7 +72,7 @@ The presentation can be downloaded as a PDF
 
 
      
-<a class="btn btn-info" href="NFES_05Apr2017.pdf">
+<a class="btn btn-info" href="/assets/archive/NFES_05Apr2017.pdf">
 Download as PDF
 </a>
 

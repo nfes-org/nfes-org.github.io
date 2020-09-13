@@ -1,5 +1,5 @@
 ---
-title: "Optimizing data acquisition program and well preparation for logging HTHP wells"
+title: "Optimizing data acquisition program and well preparation for logging HTHP wells (Arne Holvik, Statoil )"
 tags: presentation 
 ---
 

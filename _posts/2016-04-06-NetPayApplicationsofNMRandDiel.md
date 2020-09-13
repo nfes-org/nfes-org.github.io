@@ -1,5 +1,5 @@
 ---
-title: "Net Pay – Applications of NMR and Dielectric Dispersion"
+title: "Net Pay – Applications of NMR and Dielectric Dispersion (Michel Claverie, Schlumberger )"
 tags: presentation 
 ---
 

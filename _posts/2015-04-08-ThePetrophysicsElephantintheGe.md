@@ -1,5 +1,5 @@
 ---
-title: "The Petrophysics Elephant in the Geomechanics Room"
+title: "The Petrophysics Elephant in the Geomechanics Room (Colin McPhee, Senergy Energy Services)"
 tags: presentation 
 ---
 

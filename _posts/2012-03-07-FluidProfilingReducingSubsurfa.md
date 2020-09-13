@@ -1,5 +1,5 @@
 ---
-title: "Fluid Profiling – Reducing Subsurface Uncertainties"
+title: "Fluid Profiling – Reducing Subsurface Uncertainties (Thomas Pfeiffer, Schlumberger)"
 tags: presentation 
 ---
 

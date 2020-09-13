@@ -1,5 +1,5 @@
 ---
-title: "Petrophysical examples from the Gjøa Field"
+title: "Petrophysical examples from the Gjøa Field (Matthew G. Reppert, GDF)"
 tags: presentation 
 ---
 

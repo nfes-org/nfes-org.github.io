@@ -75,7 +75,7 @@ Edmund Smith graduated with an MSc In sedimentology from the University of Readi
 
 
 		       
-<a href="Jan13.pdf">
+<a href="../assets/archive/Jan13.pdf">
 [Presentation as PDF]
 </a>
 

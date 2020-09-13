@@ -1,5 +1,5 @@
 ---
-title: "Formation Testing and Sampling in Low-Mobility formations, an example of new technology Solutions"
+title: "Formation Testing and Sampling in Low-Mobility formations, an example of new technology Solutions (Gavin JG Sibbald, Baker)"
 tags: presentation 
 ---
 
@@ -48,7 +48,7 @@ The paper was presented at the 2016 SPWLA Symposum in Reykjavik. The paper can b
 
 
      
-<a class="btn btn-info" href="2016_D.pdf">
+<a class="btn btn-info" href="/assets/archive/2016_D.pdf">
 Download as PDF
 </a>
 

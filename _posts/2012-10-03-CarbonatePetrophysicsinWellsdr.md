@@ -1,5 +1,5 @@
 ---
-title: "Carbonate Petrophysics in Wells drilled with Oil Base Mud"
+title: "Carbonate Petrophysics in Wells drilled with Oil Base Mud (Austin Boyd, Schlumberger, SPWLA Distinguished Lecturer)"
 tags: presentation 
 ---
 
@@ -30,7 +30,7 @@ rd
 </sup>
 
  of October. A PDF of the presentation is 
-<a href="SPWLA_LPS_DPS_SVG.pdf">
+<a href="/assets/archive/SPWLA_LPS_DPS_SVG.pdf">
 here
 </a>
 

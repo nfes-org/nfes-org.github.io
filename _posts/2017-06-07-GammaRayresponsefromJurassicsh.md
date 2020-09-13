@@ -1,5 +1,5 @@
 ---
-title: "Gamma Ray response from Jurassic shale offshore Norway. Can the Th/K ratio indicate Provenance, or do we need mineral analysis?"
+title: "Gamma Ray response from Jurassic shale offshore Norway. Can the Th/K ratio indicate Provenance, or do we need mineral analysis? (Dr. Carl F. Gyllenhammar, CaMa GeoScience)"
 tags: presentation 
 ---
 

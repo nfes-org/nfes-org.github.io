@@ -1,4 +1,4 @@
 ---
-title: "FPWD Results and Comparison to Wireline Formation Pressures"
+title: "FPWD Results and Comparison to Wireline Formation Pressures (Alan McHardy,Petrophysical Eng., Norske Shell AS)"
 tags: presentation 
 ---

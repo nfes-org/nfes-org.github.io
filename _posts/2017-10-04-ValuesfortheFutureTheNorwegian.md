@@ -1,5 +1,5 @@
 ---
-title: "Values for the Future - The Norwegian Petroleum Directorate’s Resource Report and Outlook"
+title: "Values for the Future - The Norwegian Petroleum Directorate’s Resource Report and Outlook (Alexey Deryabin, NPD)"
 tags: presentation 
 ---
 
@@ -98,7 +98,7 @@ The presentation can be downloaded as a PDF
 
 
      
-<a class="btn btn-info" href="NFES_04Oct2017.pdf">
+<a class="btn btn-info" href="/assets/archive/NFES_04Oct2017.pdf">
 Download as PDF
 </a>
 

@@ -1,5 +1,5 @@
 ---
-title: "Neutron-Gamma Density (NGD): Principles, Field Test Results And Log Quality Control Of A Radioisotope-Free Bulk Density Measurement"
+title: "Neutron-Gamma Density (NGD): Principles, Field Test Results And Log Quality Control Of A Radioisotope-Free Bulk Density Measurement (Nicole Reichel, Schlumberger, 2013 SPWLA Europe-based distinguished speaker)"
 tags: presentation 
 ---
 

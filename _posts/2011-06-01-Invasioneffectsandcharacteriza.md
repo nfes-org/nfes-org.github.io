@@ -1,4 +1,4 @@
 ---
-title: "Invasion effects and characterization of LWD technology in CsK drilling fluids"
+title: "Invasion effects and characterization of LWD technology in CsK drilling fluids (Arve K. Thorsen, Baker Hughes)"
 tags: presentation 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "In-Situ Stress Testing with use of Wireline Formation Tester. Update on the Latest Developments"
+title: "In-Situ Stress Testing with use of Wireline Formation Tester. Update on the Latest Developments (Vladislav Achourov, Schlumberger)"
 tags: presentation 
 ---
 

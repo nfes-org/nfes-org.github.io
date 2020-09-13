@@ -1,5 +1,5 @@
 ---
-title: "LATERAL-MOTION CORRECTION OF NMR LOGGING-WHILE-DRILLING DATA"
+title: "LATERAL-MOTION CORRECTION OF NMR LOGGING-WHILE-DRILLING DATA (Radu Coman, Baker Hughes)"
 tags: presentation 
 ---
 
@@ -93,7 +93,7 @@ The presentation can be downloaded as a PDF
 
 
      
-<a class="btn btn-info" href="NFES_20180905.pdf">
+<a class="btn btn-info" href="/assets/archive/NFES_20180905.pdf">
 Download as PDF
 </a>
 

@@ -1,5 +1,5 @@
 ---
-title: "Well-Site Chemostratigraphy - Applications of inorganic element geochemistry while drilling"
+title: "Well-Site Chemostratigraphy - Applications of inorganic element geochemistry while drilling (Christian Scheibe, Halliburton - Sperry Drilling)"
 tags: presentation 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Deep Shear Wave Imaging thru Casing"
+title: "Deep Shear Wave Imaging thru Casing (Roman Mirzwinski, Baker)"
 tags: presentation 
 ---
 
@@ -215,3 +215,6 @@ Apr-2007 – June 2015 Stavanger, Norway Sr.GeoScientist
 
 	
 
+
+
+<a class="btn btn-info" href="/assets/archive/Jun15.pdf">Download Presentation as PDF</a>

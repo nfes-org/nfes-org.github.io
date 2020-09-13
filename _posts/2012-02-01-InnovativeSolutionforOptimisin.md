@@ -1,5 +1,5 @@
 ---
-title: "Innovative Solution for Optimising Drilling Performance and Wellbore Stability: Western Desert, Egypt"
+title: "Innovative Solution for Optimising Drilling Performance and Wellbore Stability: Western Desert, Egypt (Philip McCurdy, Senergy)"
 tags: presentation 
 ---
 
@@ -120,7 +120,7 @@ Reference:
 
 
 
-<a href="On the physical and chemical stability of shales.pdf">
+<a href="/assets/archive/On the physical and chemical stability of shales.pdf">
 [reference as PDF]
 </a>
 

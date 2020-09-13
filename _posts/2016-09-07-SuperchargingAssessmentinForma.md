@@ -1,5 +1,5 @@
 ---
-title: "Supercharging Assessment in Formation Pressure Measurements Made While Drilling by Deliberately Pulsed Circulation"
+title: "Supercharging Assessment in Formation Pressure Measurements Made While Drilling by Deliberately Pulsed Circulation (Maria Cecilia Bravo, Schlumberger)"
 tags: presentation 
 ---
 

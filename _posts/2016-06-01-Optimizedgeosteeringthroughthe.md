@@ -1,5 +1,5 @@
 ---
-title: "Optimized geosteering through the use of Extra Deep Resistivity and Broadband Seismic"
+title: "Optimized geosteering through the use of Extra Deep Resistivity and Broadband Seismic (Mats Bjorndal Skaug, Total)"
 tags: presentation 
 ---
 

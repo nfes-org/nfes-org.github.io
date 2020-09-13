@@ -1,5 +1,5 @@
 ---
-title: "Integrated Approach to Diagnose Well Productivity Problem"
+title: "Integrated Approach to Diagnose Well Productivity Problem (Colin Cranfield, Baker Hughes)"
 tags: presentation 
 ---
 

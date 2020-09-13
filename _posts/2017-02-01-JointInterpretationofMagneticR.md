@@ -1,5 +1,5 @@
 ---
-title: "Joint Interpretation of Magnetic Resonance and Resisitivity Based Fluid Volumetrics - A Framework for Petrophysical Evaluation"
+title: "Joint Interpretation of Magnetic Resonance and Resisitivity Based Fluid Volumetrics - A Framework for Petrophysical Evaluation (Geoffrey Page, Baker Hughes - SPWLA Distinguished Speaker)"
 tags: presentation 
 ---
 
