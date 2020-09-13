@@ -1,6 +1,6 @@
 ---
 title: Post with Header Image
-tags: [TeXt, blbla, featured]
+tags: [TeXt, featured]
 category: test_ctegory
 featured: true
 cover: /screenshot.jpg
