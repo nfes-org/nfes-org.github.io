@@ -1,0 +1,105 @@
+---
+layout: article
+titles: Sign-up for membership
+# @start locale config
+en : &EN About
+en-GB : *EN
+en-US : *EN
+en-CA : *EN
+en-AU : *EN
+# @end locale config
+key: page-about
+---
+<div>
+
+
+  <p>
+    <strong>NFES</strong> - Norwegian Formation Evaluation Society - is your local Norwegian
+    chapter of the SPWLA.
+  </p>
+  <p>
+    Our annual membership fee is NOK 600, and NOK 300 for students.</p>
+  <p>
+
+
+    The membership dues (standard membership NOK 600, students NOK 300) should be paid to</p>
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          NFES
+        </td>
+      </tr>
+      <tr>
+        <td>
+          P. O. Box 561 Madla
+        </td>
+      </tr>
+      <tr>
+        <td>
+          4090 HAFRSFJORD
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Account No. 3206.17.03119
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <p>Please mark your payment with your name thus ensuring a rapid registration.</p>
+
+
+  <form action="https://formspree.io/mzbkpeer" method="POST">
+
+
+    <!-- your other form fields go here -->
+
+
+
+    <div class="grid">
+      <div class="cell cell--4">Name</div>
+      <div class="cell cell--auto"><input type="text" name="name" required></div>
+    </div>
+    <div class="grid">
+      <div class="cell cell--4">Title</div>
+      <div class="cell cell--auto"><input type="text" name="title"></div>
+    </div>
+    <div class="grid">
+      <div class="cell cell--4">Company</div>
+      <div class="cell cell--auto"><input type="text" name="title"></div>
+    </div>
+    <div class="grid">
+      <div class="cell cell--4">E-mail</div>
+      <div class="cell cell--auto"><input type="email" name="email" required></div>
+    </div>
+    <div class="grid">
+      <div class="cell cell--4">Address</div>
+      <div class="cell cell--auto"><input type="text" name="post_adress" required></div>
+    </div>
+    <div class="grid">
+      <div class="cell cell--4">Type of memebership</div>
+      <div class="cell cell--auto"><input type="radio" name="type" id="standard" checked>Standard</div>
+    </div>
+    <div class="grid">
+      <div class="cell cell--4"></div>
+      <div class="cell cell--auto"><input type="radio" name="type" id="student">Student</div>
+    </div>
+    <div class="grid">
+      <div class="cell cell--4"><input type="checkbox" name="payed" id="payed">Confirm payment, date:</div>
+      <div class="cell cell--auto"><input type="date" name="pay_day"></div>
+    </div>
+    
+    <button type="submit" class="button button--primary button--pill">
+      Send
+    </button>
+
+  </form>
+
+
+
+
+
+
+</div>
