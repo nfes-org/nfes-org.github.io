@@ -40,7 +40,7 @@ author:
   avatar    : # path or url of avatar image (square)
   bio       : # I am an amazing person.
   email     :
-  facebook  : # https://www.facebook.com/user_name #"user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  facebook  : NFES-165609093585225 # https://www.facebook.com/user_name #"user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
