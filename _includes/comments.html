@@ -5,6 +5,8 @@
     {%- include comments-providers/gitalk.html -%}
   {%- elsif site.comments.provider == 'valine' -%}
     {%- include comments-providers/valine.html -%}
+  {%- elsif site.comments.provider == 'facebook' -%}
+    {%- include comments-providers/facebook.html -%}
   {%- elsif site.comments.provider == 'custom' -%}
     {%- include comments-providers/custom.html -%}
   {%- endif -%}
