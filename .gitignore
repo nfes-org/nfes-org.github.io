@@ -28,3 +28,7 @@ _site/
 .jekyll-cache/
 
 test/.bundle/
+
+old-site/WWWRoot/
+
+authenticate.html
