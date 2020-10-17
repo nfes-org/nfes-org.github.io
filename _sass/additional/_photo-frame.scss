@@ -14,4 +14,9 @@
   img.circle, .circle > img {
     border-radius: 50%;
   }
+
+  img.center{
+    display: block;
+    margin: 0 auto;
+  }
 }
