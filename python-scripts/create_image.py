@@ -10,11 +10,11 @@ t = "The Next Stavanger Monthly Technical Meeting will be at 11:00 on Wednesday,
 # plt.text(4, 1, t, ha='left', rotation=15, wrap=True)
 # plt.text(6, 5, t, ha='left', rotation=15, wrap=True)
 # plt.text(5, 5, t, ha='right', rotation=-15, wrap=True)
-plt.text(5, 10, t, fontsize=25, style='normal',
+plt.text(5, 5, t, fontsize=25, style='normal',
          weight = 'bold',
          # weight='light',
          ha='center',
-         va='top', wrap=True, linespacing=2,
+         va='center', wrap=True, linespacing=1.5,
          # backgroundcolor='purple',
          color='purple')
 # plt.text(3, 4, t, family='serif', style='italic', ha='right', wrap=True)
