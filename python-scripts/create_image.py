@@ -5,13 +5,13 @@ fig.patch.set_facecolor('xkcd:mint green')
 plt.axis([0, 10, 0, 10])
 plt.axis('off')
 
-t = ("This is a really long string that I'd rather have wrapped so that it "
-     "doesn't go outside of the figure, but if it's long enough it will go "
-     "off the top or bottom!")
+t = "The Next Stavanger Monthly Technical Meeting will be at 11:00 on Wednesday, November 4, 2020 at the Solastranden Gård. "
+     # "Title: EVALUATING PETROPHYSICAL PROPERTIES AND VOLUMETRICS UNCERTAINTIES OF SAND INJECTITE RESERVOIRS – NORWEGIAN NORTH SEA (Artur Kotwicki, Aker BP)"
 # plt.text(4, 1, t, ha='left', rotation=15, wrap=True)
 # plt.text(6, 5, t, ha='left', rotation=15, wrap=True)
 # plt.text(5, 5, t, ha='right', rotation=-15, wrap=True)
 plt.text(5, 10, t, fontsize=25, style='normal',
+         weight = 'bold',
          # weight='light',
          ha='center',
          va='top', wrap=True, linespacing=2,
@@ -23,4 +23,5 @@ ax = plt.gca()
 ax.set_facecolor('xkcd:salmon')
 ax.set_facecolor((1.0, 0.47, 0.42))
 
-plt.show()
+plt.savefig("next.png", dpi=600)
+# plt.show()
