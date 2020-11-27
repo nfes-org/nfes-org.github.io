@@ -29,8 +29,12 @@ layout: home
 <div class="hero hero--light hero-example--linear-gradient" >
     <div class="hero__content">
       <h3 id="next-meeting">The Next Stavanger Monthly Technical Meeting</h3>
-      <p><span id="will-be">will be</span> at 11:00 on {{site.tags["presentation"][0].presentation_date | date: "%A, %B %-d, %Y"}} at the 
-        <a href=https://www.solastrandengaard.no>Solastranden Gård</a>.
+      <p><span id="will-be">will be</span> at 11:00 on {{site.tags["presentation"][0].presentation_date | date: "%A, %B %-d, %Y"}} 
+        {% if site.tags["presentation"][0].place %}
+          {{site.tags["presentation"][0].place}}.
+        {% else %}
+          at the <a href=https://www.solastrandengaard.no>Solastranden Gård</a>.
+        {% endif %}
       </p>
       <p><b>Title:</b> {{site.tags["presentation"][0].title}}</p>
       <a class="button button--primary button--pill" href="{{site.tags["presentation"][0].url}}">Read the abstract!</a>
