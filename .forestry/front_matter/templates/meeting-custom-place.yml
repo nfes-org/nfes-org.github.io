@@ -8,9 +8,11 @@ fields:
 - type: text
   name: tags
   label: tags
+  default: presentation
 - type: datetime
   name: presentation_date
   label: presentation_date
 - type: text
   name: place
   label: place
+  default: Online
