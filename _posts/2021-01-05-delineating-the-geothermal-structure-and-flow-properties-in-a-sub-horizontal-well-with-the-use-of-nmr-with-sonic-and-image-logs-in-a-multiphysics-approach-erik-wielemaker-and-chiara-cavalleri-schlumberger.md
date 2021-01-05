@@ -4,7 +4,7 @@ place: Online in MS Teams
 title: Delineating The Geothermal Structure and Flow Properties in a Sub-Horizontal
   Well With the use of NMR with Sonic and Image Logs in a Multiphysics Approach (Erik
   Wielemaker and Chiara Cavalleri, Schlumberger)
-presentation_date: 
+presentation_date: 2021-01-05 23:00:00 +0000
 
 ---
 The presentation **”Delineating The Geothermal Structure and Flow Properties in a Sub-Horizontal Well With the use of NMR with Sonic and Image Logs in a Multiphysics Approach”** will be given by **Erik Wielemaker and Chiara Cavalleri, from Schlumberger, SPWLA 2020/21 distinguished speakers**.
