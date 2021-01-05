@@ -16,3 +16,5 @@ fields:
   name: place
   label: place
   default: Online
+pages:
+- _posts/2021-01-05-delineating-the-geothermal-structure-and-flow-properties-in-a-sub-horizontal-well-with-the-use-of-nmr-with-sonic-and-image-logs-in-a-multiphysics-approach-erik-wielemaker-and-chiara-cavalleri-schlumberger.md
