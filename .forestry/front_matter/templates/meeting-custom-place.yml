@@ -9,14 +9,15 @@ fields:
   name: tags
   label: tags
   default: presentation
-- type: datetime
-  name: presentation_date
-  label: presentation_date
-  config:
-    export_format: YYYY-MM-DD
 - type: text
   name: place
   label: place
   default: Online
+- name: presentation_date
+  type: text
+  config:
+    required: false
+  label: presentation_date
+  description: YYYY-MM-DD
 pages:
 - _posts/2021-01-05-delineating-the-geothermal-structure-and-flow-properties-in-a-sub-horizontal-well-with-the-use-of-nmr-with-sonic-and-image-logs-in-a-multiphysics-approach-erik-wielemaker-and-chiara-cavalleri-schlumberger.md
