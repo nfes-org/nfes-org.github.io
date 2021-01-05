@@ -9,6 +9,9 @@ fields:
   name: tags
   label: tags
   default: presentation
-- type: datetime
-  name: presentation_date
+- name: presentation_date
+  type: text
+  config:
+    required: false
   label: presentation_date
+  description: YYYY-MM-DD
