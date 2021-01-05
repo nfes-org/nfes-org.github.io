@@ -12,6 +12,8 @@ fields:
 - type: datetime
   name: presentation_date
   label: presentation_date
+  config:
+    export_format: YYYY-MM-DD
 - type: text
   name: place
   label: place
