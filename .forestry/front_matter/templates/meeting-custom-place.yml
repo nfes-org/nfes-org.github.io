@@ -1,0 +1,16 @@
+---
+label: Meeting custom place
+hide_body: false
+fields:
+- type: textarea
+  name: title
+  label: title
+- type: text
+  name: tags
+  label: tags
+- type: datetime
+  name: presentation_date
+  label: presentation_date
+- type: text
+  name: place
+  label: place
