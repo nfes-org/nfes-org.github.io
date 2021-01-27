@@ -29,7 +29,15 @@ layout: home
 <div class="hero hero--light hero-example--linear-gradient" >
     <div class="hero__content">
       <h3 id="next-meeting">The Next Stavanger Monthly Technical Meeting</h3>
-      <p><span id="will-be">will be</span> at 11:00 on {{site.tags["presentation"][0].presentation_date | date: "%A, %B %-d, %Y"}} 
+      <p><span id="will-be">will be</span> at 
+        <span id="time-presnted">
+        {% if site.tags["presentation"][0].presentation_time %}
+          {{site.tags["presentation"][0].presentation_time}}.
+        {% else %}
+          11:00.
+        {% endif %}
+        </span>
+        on {{site.tags["presentation"][0].presentation_date | date: "%A, %B %-d, %Y"}} 
         {% if site.tags["presentation"][0].place %}
           {{site.tags["presentation"][0].place}}.
         {% else %}
