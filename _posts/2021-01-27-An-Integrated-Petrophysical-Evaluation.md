@@ -3,7 +3,7 @@ tags: presentation
 place: Online in MS Teams
 title: An Integrated Petrophysical Evaluation for Reservoir Characterization and Modeling of Field Development (Muhammad A Gibrata, Dragon Oil (ENOC))
 presentation_date: 2021-02-03
-presentation_time: 13:30
+presentation_time: "13:30"
 ---
 The presentation **"An Integrated Petrophysical Evaluation for Reservoir Characterization and Modeling of Field Development"** will be given by **Muhammad A Gibrata, from Dragon Oil (ENOC). SPWLA 2020/21 distinguished speaker**.
  
