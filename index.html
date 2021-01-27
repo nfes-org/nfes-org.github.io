@@ -32,9 +32,9 @@ layout: home
       <p><span id="will-be">will be</span> at 
         <span id="time-presnted">
         {% if site.tags["presentation"][0].presentation_time %}
-          {{site.tags["presentation"][0].presentation_time}}.
+          {{site.tags["presentation"][0].presentation_time}}
         {% else %}
-          11:00.
+          11:00
         {% endif %}
         </span>
         on {{site.tags["presentation"][0].presentation_date | date: "%A, %B %-d, %Y"}} 
