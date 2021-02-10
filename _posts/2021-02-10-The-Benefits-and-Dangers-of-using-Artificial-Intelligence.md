@@ -20,13 +20,22 @@ AI programs currently being developed include ones where their machine code evol
  
 
 
- <div class="card">
-  <div class="card__image">
-    <img class="image" src="/assets/archive/Cuddy.jpg" alt="Steve Cuddy"/>
-  </div>
-</div>
+
 
 ## Biography:
+
+<div class="grid">
+  <div class="cell cell--shrink">
+   <div class="card">
+        <div class="card__image">
+            <img class="image" src="/assets/archive/Cuddy.jpg" alt="Steve Cuddy"/>
+        </div>
+    </div>
+  </div>
+  <div class="cell cell--auto">
+    <b>Steve Cuddy</b> holds a PhD in petrophysics from Aberdeen University. He also holds a BSc in physics and a BSc in astrophysics and philosophy. He writes AI software and has 45 years industry experience in petrophysics working with Schlumberger, BP and Baker Hughes. He is the inventor of the Fractal FOIL Function that describes the distribution of fluids in the reservoir model. In recognition of outstanding service to the SPWLA, Steve was awarded the Distinguished Service Award in 2018. He is a SPWLA Distinguished Lecturer for the current 2020-21 season. 
+  </div>
+</div>
  
-**Steve Cuddy** holds a PhD in petrophysics from Aberdeen University. He also holds a BSc in physics and a BSc in astrophysics and philosophy. He writes AI software and has 45 years industry experience in petrophysics working with Schlumberger, BP and Baker Hughes. He is the inventor of the Fractal FOIL Function that describes the distribution of fluids in the reservoir model. In recognition of outstanding service to the SPWLA, Steve was awarded the Distinguished Service Award in 2018. He is a SPWLA Distinguished Lecturer for the current 2020-21 season. 
+
 
