@@ -24,7 +24,7 @@ AI programs currently being developed include ones where their machine code evol
 
 ## Biography:
 
-<div class="grid">
+<div class="grid grid--p-3">
   <div class="cell cell--shrink">
    <div class="card">
         <div class="card__image">
