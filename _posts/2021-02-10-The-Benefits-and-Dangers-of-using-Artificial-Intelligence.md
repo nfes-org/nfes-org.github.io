@@ -2,7 +2,7 @@
 tags: presentation 
 place: Online in MS Teams
 title: The Benefits and Dangers of using Artificial Intelligence in Petrophysics (Steve Cuddy)
-presentation_date: 2021-03-03
+presentation_date: 2021-03-10
 ---
 The presentation **"The Benefits and Dangers of using Artificial Intelligence in Petrophysics"** will be given by **Steve Cuddy**.
  
