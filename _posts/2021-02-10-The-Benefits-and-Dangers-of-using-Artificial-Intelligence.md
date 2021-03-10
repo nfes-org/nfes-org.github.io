@@ -1,5 +1,5 @@
 ---
-tags: presentation 
+tags: presentation has_attachment
 place: Online in MS Teams
 title: The Benefits and Dangers of using Artificial Intelligence in Petrophysics (Steve Cuddy)
 presentation_date: 2021-03-10
@@ -18,9 +18,7 @@ AI doesn’t require prior knowledge of the petrophysical response equations and
 
 AI programs currently being developed include ones where their machine code evolves using similar rules used by life’s DNA code. These AI programs pose considerable dangers far beyond the oil industry as described in this presentation. A ‘risk assessment’ is essential on all AI programs so that all hazards and risk factors, that could cause harm, are identified and mitigated.
  
-
-
-
+<a class="button button--primary button--pill" href="/assets/archive/NFES-AI-Steve-Cuddy.pdf">Download Presentation as PDF</a>
 
 ## Biography:
 
