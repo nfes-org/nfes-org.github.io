@@ -8,7 +8,7 @@ presentation_date: 2021-04-07
 <style>
   .hero-example--linear-gradient {
     height: 200px;
-    background-image: linear-gradient(135deg, rgba(255, 255, 255, .7), rgba(255, 255, 255, .4)), url("/assets/archive/kristian-fossum-sergey-alyaev-hero.jpg");
+    background-image: linear-gradient(135deg, rgba(255, 255, 255, .9), rgba(255, 255, 255, .7)), url("/assets/archive/kristian-fossum-sergey-alyaev-hero.jpg");
   }
 </style>
 
@@ -34,7 +34,7 @@ Our forward deep neural network (FDNN) model (b) approximates the responses of a
  
 <!-- <a class="button button--primary button--pill" href="/assets/archive/NFES-AI-Steve-Cuddy.pdf">Download Presentation as PDF</a> -->
 
-<!-- <img class="image image--xl" src="/assets/archive/kristian-fossum-sergey-alyaev-crop.jpg" alt="Two researchers near two boards"/> -->
+<img class="image image--xl" src="/assets/archive/kristian-fossum-sergey-alyaev-crop.jpg" style="display: none;" alt="Two researchers near two boards"/>
 
 ## Biography:
 
