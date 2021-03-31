@@ -4,7 +4,23 @@ place: Online in MS Teams
 title: Probabilistic Geological Predictions and EM-Log Modelling using Deep Neural Networks (Sergey Alyaev and Kristian Fossum, NORCE)
 presentation_date: 2021-04-07
 ---
-The presentation **"Probabilistic Geological Predictions and EM-Log Modelling using Deep Neural Networks"** will be given by **Sergey Alyaev and Kristian Fossum, from NORCE**.
+
+<style>
+  .hero-example--linear-gradient {
+    height: 200px;
+    background-image: linear-gradient(135deg, rgba(255, 255, 255, .7), rgba(255, 255, 255, .4)), url("/assets/archive/kristian-fossum-sergey-alyaev-hero.jpg");
+  }
+</style>
+
+<!-- <div class="hero" style='height: 500px; background-image: url("/assets/archive/kristian-fossum-sergey-alyaev-crop.jpg");'> -->
+
+<div class="hero hero-example--linear-gradient">
+  <div class="hero__content">
+    <!-- <h3> -->
+    The presentation <b>"Probabilistic Geological Predictions and EM-Log Modelling using Deep Neural Networks"</b> will be given by <b>Sergey Alyaev and Kristian Fossum, from NORCE</b>.
+    <!-- </h3> -->
+  </div>
+</div>
  
 ## Abstract:
 
@@ -18,7 +34,7 @@ Our forward deep neural network (FDNN) model (b) approximates the responses of a
  
 <!-- <a class="button button--primary button--pill" href="/assets/archive/NFES-AI-Steve-Cuddy.pdf">Download Presentation as PDF</a> -->
 
-<!-- <img class="image image--md" src="/assets/archive/sergey-alyaev-rl.jpg" alt="Sergey Alyaev"/> -->
+<!-- <img class="image image--xl" src="/assets/archive/kristian-fossum-sergey-alyaev-crop.jpg" alt="Two researchers near two boards"/> -->
 
 ## Biography:
 
