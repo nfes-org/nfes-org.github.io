@@ -34,7 +34,7 @@ Our forward deep neural network (FDNN) model (b) approximates the responses of a
  
 <!-- <a class="button button--primary button--pill" href="/assets/archive/NFES-AI-Steve-Cuddy.pdf">Download Presentation as PDF</a> -->
 
-<img class="image image--xl" src="/assets/archive/kristian-fossum-sergey-alyaev-crop.jpg" style="display: none;" alt="Two researchers near two boards"/>
+<img class="image image--xl" src="/assets/archive/kristian-fossum-sergey-alyaev-hero.jpg" style="display: none;" alt="Two researchers near two boards"/>
 
 ## Biography:
 
