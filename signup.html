@@ -80,11 +80,12 @@ key: page-about
     </div>
     <div class="grid">
       <div class="cell cell--4">Memebership</div>
-      <div class="cell cell--auto"><input type="radio" name="memeber_type" id="standard_member" checked>Standard</div>
+      <div class="cell cell--auto">
+        <select id="membership" name="membership type">
+          <option value="standard">Standard</option>
+          <option value="student">Student</option>
+        </select>
     </div>
-    <div class="grid">
-      <div class="cell cell--4"></div>
-      <div class="cell cell--auto"><input type="radio" name="member_type" id="student_member">Student</div>
     </div>
     <div class="grid">
       <div class="cell cell--4"><input type="checkbox" name="payed" id="payed">Confirm payment, date:</div>
@@ -95,6 +96,8 @@ key: page-about
       Send
     </button>
 
+    
+    
   </form>
 
 
