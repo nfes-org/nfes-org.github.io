@@ -1,0 +1,21 @@
+---
+tags: presentation 
+place: Online in MS Teams
+title: "DECIPHERING LOW RESISTIVITY PAY TO DERISK A COMMERCIAL DISCOVERY: CASE STUDY FROM THE NORWEGIAN SEA (Harish Datir, 
+ Schlumberger)"
+presentation_date: 2021-06-02
+---
+The presentation **”DECIPHERING LOW RESISTIVITY PAY TO DERISK A COMMERCIAL DISCOVERY: CASE STUDY FROM THE NORWEGIAN SEA”** will be given by **Harish Datir, from Schlumberger**.
+ 
+## Abstract:
+
+he Cretaceous Cape Vulture prospect (Norwegian Sea, Norway) consisted of three Cretaceous sand levels: Cape Vulture Lower, Main, and Upper. The prospect was drilled in 2017, targeting seismic amplitude anomalies that represented a combination of reservoir facies and hydrocarbons. As the first well (6608/10-17S) proved hydrocarbons down to base reservoir in Cape Vulture Main and Upper, an appraisal well with two sidetracks were planned and drilled to determine the reservoir development, pressure communication and oil-water contact. A good understanding of the lateral variation within the reservoir was of importance to the technical economical evaluation of the discovery. The appraisal wells planned for a comprehensive coring and logging program. The main objectives were to reduce the uncertainty of estimated in place volumes by establishing the depth of the hydrocarbon-water contact, prove lateral pressure communication within each reservoir level, reduce the uncertainty of lateral and vertical reservoir distribution and quality, reduce the uncertainty of hydrocarbon saturation and understand the relationship between seismic amplitude anomalies and subsurface properties / fluids. The logging program included triaxial resistivity, nuclear spectroscopy, electrical images, nuclear magnetic resonance (NMR) complementing triple combo, followed by formation pressure measurements, and fluid sampling. The presence of clay minerals in varying amounts within the reservoirs depresses the resistivity measurement and leads to underestimation of the hydrocarbon saturation when using conventional Archie’s equation - a common petrophysical challenge in such conditions. The hydrocarbon saturation is an important parameter when calculating reserves and estimating whether a discovery is of commercial value. Hence, reducing the uncertainty span on hydrocarbon saturation (total and effective) and estimating the net pay thickness is critical. Using core data and advanced down-hole measurements to optimize a resistivity-based saturation model can reduce the uncertainty of the saturation estimates. Here we document the petrophysical evaluation of the data acquired, assessing heterolithic low resistivity pay with wireline log measurements combined with core data. Focus on the coring strategy, recommendations on sampling intervals for the core analysis, and key logging measurement requirements. The results show substantial improvements in the understanding of the hydrocarbon saturation, ultimately increasing in-place volume estimates. The integrated analysis, including NMR measurements, helps to delineate the fluid contacts, further reducing the uncertainty on the recoverable net pay thickness. The core data validate the independent log-based laminated sand analysis. This illustrates how an integrated approach combining core measurements, logs, and formation testing provide an accurate evaluation of low resistivity pay reservoirs, reducing the uncertainty in the technical economical evaluation.
+ 
+
+## Biography:
+
+<b>Harish B. Datir</b> is a Domain Champion for RPE (formerly known as Wireline), based in Stavanger, Norway. He joined Schlumberger in 2007 as a Wireline Field Engineer in Saudi Arabia. Since then, he has taken roles in different locations before taking on his current position as Petrophysics and Geology Domain Champion. He has worked in the Middle East for four years, and for the past ten years, he has been working in Scandinavia, covering mainly Norway and Denmark operation.
+He has a bachelor’s degree in applied geology and master’s degree in applied geophysics. His work focuses on developing integrated answer products and improving the existing ones in support to better utilization of Schlumberger log measurements. Harish is co-author of 22+ papers and inventor/co-inventor in several patents in the oilfield industry.
+ 
+
+
