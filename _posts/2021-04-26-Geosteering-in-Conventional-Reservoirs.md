@@ -1,5 +1,5 @@
 ---
-tags: presentation 
+tags: presentation has_attachment
 place: Online in MS Teams
 title: "Geosteering in Conventional Reservoirs: what can we learn from US unconventional experience? (Igor Kuvaev, ROGII)"
 presentation_date: 2021-05-05
@@ -10,7 +10,7 @@ The presentation **”Geosteering in Conventional Reservoirs: what can we learn 
 
 Modern geosteering happens in a data-rich environment. The geosteerer needs to integrate LWD, mud, gas, and drilling data in real-time to develop an accurate geosteering model for directional drilling recommendations. New approaches in data interpretation have allowed US operators to squeeze more information out of existing data. We will review a number of case studies from US, Australian, and Middle Eastern plays to discuss how we can utilize these new approaches while drilling horizontal wells through conventional carbonate and clastic reservoirs.
  
-<!-- <a class="button button--primary button--pill" href="/assets/archive/NFES-AI-Steve-Cuddy.pdf">Download Presentation as PDF</a> -->
+<a class="button button--primary button--pill" href="/assets/archive/Strat-based-approach-and-multilayer-stochastic-inversion.pdf">Download Presentation as PDF</a> 
 
 ## Biography:
 
