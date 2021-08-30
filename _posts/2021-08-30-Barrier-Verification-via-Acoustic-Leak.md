@@ -1,6 +1,6 @@
 ---
 tags: presentation 
-title: "Barrier Verification via Acoustic Leak Off Test - Rigless P&A (emke Ellis, TGT)"
+title: "Barrier Verification via Acoustic Leak Off Test - Rigless P&A (Remke Ellis, TGT)"
 presentation_date: 2021-09-08
 ---
 The presentation **”Barrier Verification via Acoustic Leak Off Test - Rigless P&A”** will be given by **Remke Ellis, from TGT.**
