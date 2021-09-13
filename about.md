@@ -25,18 +25,32 @@ key: page-about
             of Formation Evaluation. So, if you want to take part in all this, renew your membership,
             or <a href="/signup.html">apply for membership</a> already today.</p>
         <table class="table">
-            <tbody><tr>
+            <tbody>
+            <tr>
+                <th>
+                    Contact e-mail:
+                </th>
+                <td>
+                    <a itemprop="email" href="mailto:vp_pr@nfes.org" target="_blank">
+                        vp_pr@nfes.org
+                    </a>
+                    <a class="button button--circle mail-button" itemprop="email" href="mailto:vp_pr@nfes.org" target="_blank">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                </td>
+            </tr>
+            <tr>
                 <th>
                     Our Address:
                 </th>
-                <th>
-                    Our Account Number
-                </th>
-            </tr>
-            <tr>
                 <td>
                     POSTBOKS 561, MADLA, N-4090 HAFRSFJORD, NORWAY
                 </td>
+            </tr>
+            <tr>
+                <th>
+                    Our Account Number
+                </th>
                 <td>
                     3206.17.03119
                 </td>
