@@ -1,7 +1,7 @@
 ---
-title: "Sergey Alyaev, VP PR & Acasemia"
+title: "Sergey Alyaev, VP PR & Academia"
 tags: Board VP
-role: "VP PR & Acasemia"
+role: "VP PR & Academia"
 cover: assets/board/alyaev.jpg
 cover_size: md
 pageview: true
