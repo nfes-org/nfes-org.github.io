@@ -1,7 +1,7 @@
 ---
-title: "Sergey Alyaev, VP Public / Acasemia Relations"
+title: "Sergey Alyaev, VP PR & Acasemia"
 tags: Board VP
-role: "VP Public/Acasemia Relations"
+role: "VP PR & Acasemia"
 cover: assets/board/alyaev.jpg
 cover_size: md
 pageview: true
