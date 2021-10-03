@@ -31,22 +31,22 @@ key: page-about
                     Contact e-mail:
                 </th>
                 <td>
-                    <a itemprop="email" href="mailto:vp_pr@nfes.org" target="_blank">
-                        vp_pr@nfes.org
+                    <a itemprop="email" href="mailto:vp_member@nfes.org" target="_blank">
+                        vp_member@nfes.org
                     </a>
-                    <a class="button button--circle mail-button" itemprop="email" href="mailto:vp_pr@nfes.org" target="_blank">
+                    <a class="button button--circle mail-button" itemprop="email" href="mailto:vp_member@nfes.org" target="_blank">
                         <i class="fas fa-envelope"></i>
                     </a>
                 </td>
             </tr>
-            <tr>
+            <!-- <tr>
                 <th>
                     Our Address:
                 </th>
                 <td>
                     POSTBOKS 561, MADLA, N-4090 HAFRSFJORD, NORWAY
                 </td>
-            </tr>
+            </tr> -->
             <tr>
                 <th>
                     Our Account Number
