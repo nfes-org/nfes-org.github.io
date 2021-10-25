@@ -24,6 +24,10 @@ header:
       # @end locale config
     url: /archive.html
   - titles:
+      en      : &EN       Events
+    url: /events.html
+    key: events
+  - titles:
       en      : &EN       Board
     url: /board.html
     key: board
