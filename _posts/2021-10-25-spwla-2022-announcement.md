@@ -1,5 +1,5 @@
 ---
-title: SPWLA 63rd Annual Symposium hosted by NFES
+title: SPWLA 63rd Annual Symposium
 tags: Event
 cover: /assets/events/spwla-svg-logo2.png
 cover_size: lg
