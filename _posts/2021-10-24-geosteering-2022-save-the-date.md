@@ -27,7 +27,7 @@ Save the date for the **2nd Geosteering Workshop by NORCE and NFES**
 
 ### 1-3 November, 2022 <br> Stavanger, Norway
 
-The call for abstarcts will be open in Februraty 2022 and the deadline will be in August 2022.
+The call for abstracts will be open in February 2022 and the deadline will be in August 2022.
 
 <!-- <img class="image image--xl" src="/assets/events/geosteering-2019-all.jpg" alt="Participants of the 1st Geosteering Workshop by NORCE and NFES, Novmber 2019"/> -->
 
@@ -38,3 +38,9 @@ The call for abstarcts will be open in Februraty 2022 and the deadline will be i
   </h3>
   </div>
 </div>
+
+
+### Organizing committee
+* Sergey Alyaev (NORCE, DigiWells, NFES)
+* David Selvåg Larsen (Vår Energi)
+* Mathias Horstman (Shlumberger, NFES)
