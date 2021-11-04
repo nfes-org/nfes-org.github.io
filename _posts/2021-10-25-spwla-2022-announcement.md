@@ -1,7 +1,7 @@
 ---
 title: SPWLA 63rd Annual Symposium
 tags: Event
-cover: /assets/events/spwla-svg-logo2.png
+cover: assets/events/spwla-svg-logo2.png
 cover_size: lg
 pageview: true
 excerpt: "We are excited to host all our members and friends of SPWLA in Scandinavia June 10th – 15th 2022, bringing our global technical community close together in the friendly Norwegian energy capital."
