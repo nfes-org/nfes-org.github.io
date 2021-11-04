@@ -27,6 +27,8 @@ presentation_date: 2022-06-11
 
 ### Come down from the cloud in 2022!
 
+<img class="image image--md center" src="/assets/events/spwla-svg-logo2.png"/>
+
 We are excited to host all our members and friends of [SPWLA in Scandinavia June 10th – 15th 2022](https://www.spwlaworld.org/), bringing our global technical community close together in the friendly Norwegian energy capital. Very much needed after these recent challenging years!
 
 Norway and Stavanger is home to numerous national and international operators and service companies, leading academia and research institutes as well the National Petroleum Directorate.
