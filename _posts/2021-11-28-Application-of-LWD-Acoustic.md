@@ -2,7 +2,7 @@
 tags: presentation 
 title: "Application of LWD Acoustic Dispersive Data Processing for High-Quality Shear Slowness Logs in Slow Formations (Taher Kortam, 
 Halliburton)"
-presentation_date: 2021-12-02
+presentation_date: 2021-12-01
 sharing: true 
 ---
 The presentation **”Application of LWD Acoustic Dispersive Data Processing for High-Quality Shear Slowness Logs in Slow Formations”** will be given by **Taher Kortam, from Halliburton**.
