@@ -2,7 +2,7 @@
 tags: presentation 
 title: "SONIC IMAGING: RECENT AND FUTURE DEVELOPMENTS (Nicholas Bennett, Schlumberger)"
 presentation_date: 2022-01-12
-presentation_time: 15:00
+presentation_time: "15:00"
 place: online
 sharing: true 
 ---
