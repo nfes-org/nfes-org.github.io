@@ -21,7 +21,7 @@ Having vast quantities of data does not mean it can all be passed into a machine
   <div class="cell cell--shrink">
    <div class="card">
         <div class="card__image">
-            <img class="image" src="/assets/archive/andy.png.png" alt="Andy McDonald"/>
+            <img class="image" src="/assets/archive/andy.png" alt="Andy McDonald"/>
         </div>
     </div>
   </div>
