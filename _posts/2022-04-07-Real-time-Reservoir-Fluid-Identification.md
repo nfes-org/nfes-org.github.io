@@ -26,7 +26,6 @@ challenge in the oil industry. The in-expensive mud gas data provide accurate an
   </div>
   <div class="cell cell--auto">
         <b>Dr. Tao Yang</b> is a reservoir technology specialist at Equinor and a member of the Norwegian Academy of Technological Sciences (NTVA). He has worked extensively on PVT, gas-based improved oil recovery, and advanced data analytics. Due to his innovation on real-time fluid identification, Dr. Yang received the OG21 Technology Champion Award from the Norwegian Ministry of Petroleum and Energy in 2021.
-        <br>
         Dr. Yang was selected as an SPE Distinguished Lecturer for the 2017-2018 season. He received the SPE North Sea Technical Award for Reservoir Description and Dynamic in 2011 and the SPE Distinguished Membership Award in 2019.
   </div>
 </div>
