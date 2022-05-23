@@ -41,6 +41,6 @@ The call for abstracts and the preliminary program will be available in June 202
 
 
 ### Organizing committee
-* Sergey Alyaev (Senior Research Scientist, NORCE; VP Academia, NFES)
-* Alexandra Zaputlyaeva (Business Development Manager, ROGII Inc)
-* Dler Mirza (Lead Petrophysicist, Aker BP; VP Member, NFES)
+* Sergey Alyaev (Senior Research Scientist, NORCE; VP Academia, NFES) [saly@norceresearch.no](mailto:saly@norceresearch.no)
+* Alexandra Zaputlyaeva (Business Development Manager, ROGII Inc) [a.zaputlyaeva@rogii.com](mailto:a.zaputlyaeva@rogii.com)
+* Dler Mirza (Lead Petrophysicist, Aker BP; VP Member, NFES) [vp_member@nfes.org](mailto:vp_member@nfes.org)
