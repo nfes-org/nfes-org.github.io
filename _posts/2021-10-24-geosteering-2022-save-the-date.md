@@ -25,6 +25,8 @@ presentation_date: 2022-11-01
 
 Save the date for the **2nd Geosteering and Formation Evaluation Workshop by NORCE and NFES**
 
+Visit [the event page at DigiWells (NORCE)](https://digiwells.no/events/geosteering-2022) for signing up, submissions, and/or sponsorship.
+
 ### 1-2 November, 2022 <br> Stavanger, Norway
 
 The call for abstracts and the preliminary program will be available in June 2022 and the deadline for submission will be in September 2022.
