@@ -29,7 +29,7 @@ Visit [the event page at DigiWells (NORCE)](https://digiwells.no/events/geosteer
 
 ### 1-2 November, 2022 <br> Stavanger, Norway
 
-The call for abstracts and the preliminary program will be available in June 2022 and the deadline for submission will be in September 2022.
+[Call for abstracts and sponsorship ooportunities are available.](https://digiwells.no/events/geosteering-2022)
 
 <!-- <img class="image image--xl" src="/assets/events/geosteering-2019-all.jpg" alt="Participants of the 1st Geosteering Workshop by NORCE and NFES, Novmber 2019"/> -->
 
