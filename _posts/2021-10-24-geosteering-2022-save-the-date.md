@@ -1,10 +1,10 @@
 ---
-title: 2nd Geosteering and Formation Evaluation Workshop by NORCE and NFES
+title: Geosteering and Formation Evaluation Workshop by NORCE and NFES
 tags: Event
 cover: assets/events/save-new-dates-geosteering-2022.jpg
 cover_size: lg
 pageview: true
-excerpt: "Save the date for the 2nd Geosteering Workshop by NORCE and NFES: 1-3 November, 2022. Stavanger, Norway."
+excerpt: "Submit abstracts to the Geosteering Workshop by NORCE and NFES: 1-2 November, 2022. Stavanger, Norway."
 presentation_date: 2022-11-01
 ---
 <style>
@@ -46,3 +46,5 @@ Visit [the event page at DigiWells (NORCE)](https://digiwells.no/events/geosteer
 * Sergey Alyaev (Senior Research Scientist, NORCE; VP Academia, NFES) [saly@norceresearch.no](mailto:saly@norceresearch.no)
 * Alexandra Zaputlyaeva (Business Development Manager, ROGII Inc) [a.zaputlyaeva@rogii.com](mailto:a.zaputlyaeva@rogii.com)
 * Dler Mirza (Lead Petrophysicist, Aker BP; VP Member, NFES) [vp_member@nfes.org](mailto:vp_member@nfes.org)
+
+
