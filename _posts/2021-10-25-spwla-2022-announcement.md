@@ -1,6 +1,6 @@
 ---
 title: SPWLA 63rd Annual Symposium
-tags: Event
+tags: PastEvent
 cover: assets/events/spwla-svg-logo2.png
 cover_size: lg
 pageview: true
