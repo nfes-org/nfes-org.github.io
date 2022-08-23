@@ -9,7 +9,7 @@ layout: home
   function myFunction() {
     let myElement = document.getElementById("next-meeting");
     let element2 = document.getElementById("will-be");
-    let presentationDate = new Date("{{site.tags["presentation"][0].presentation_date}}");
+    let presentationDate = new Date("{{site.tags['presentation'][0].presentation_date}}");
     let now = Date.now()-14*60*60*1000;
     if (presentationDate<=now){
       myElement.textContent = "The Previous Stavanger Monthly Technical Meeting";
