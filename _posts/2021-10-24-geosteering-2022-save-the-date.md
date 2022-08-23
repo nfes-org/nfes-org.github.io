@@ -1,5 +1,5 @@
 ---
-title: Geosteering and Formation Evaluation Workshop by NORCE and NFES
+title: Save the date for Geosteering and Formation Evaluation Workshop by NORCE and NFES
 tags: News
 cover: assets/events/save-new-dates-geosteering-2022.jpg
 cover_size: lg
