@@ -63,7 +63,7 @@ layout: home
         {% endif %}
       </p>
       <p><b>Title:</b> {{site.tags["presentation"][0].title}}</p>
-      <a class="button button--primary button--pill" href="{{site.tags["presentation"][0].url}}">Read the abstract!</a>
+      <a class="button button--primary button--pill" href="{{site.tags['presentation'][0].url}}">Read the abstract!</a>
     </div>
 </div>
 
@@ -79,10 +79,10 @@ layout: home
   <div class="hero__content">
     <h4 id="next-conference-proed">NFES is proud to host</h4>
     <h3 id="next-conference">
-      {{site.tags["Event"][0].title}}
+      {{site.tags["UpcomingEvent"][0].title}}
     </h3>
     <p>which starts on {{site.tags["Event"][0].presentation_date | date: "%A, %B %-d, %Y"}}</p>
-    <a class="button button--primary button--pill" href="{{site.tags["Event"][0].url}}">To the announcement!</a>
+    <a class="button button--primary button--pill" href="{{site.tags['UpcomingEvent'][0].url}}">To the announcement!</a>
     </div>
 </div>
 
