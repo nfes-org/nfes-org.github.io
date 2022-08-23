@@ -1,11 +1,10 @@
 ---
 title: Geosteering and Formation Evaluation Workshop by NORCE and NFES
-tags: Event
+tags: News
 cover: assets/events/save-new-dates-geosteering-2022.jpg
 cover_size: lg
 pageview: true
 excerpt: "Submit abstracts to the Geosteering Workshop by NORCE and NFES: 1-2 November, 2022. Stavanger, Norway."
-presentation_date: 2022-11-01
 ---
 <style>
   .hero-example--linear-gradient {
