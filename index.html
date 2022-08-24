@@ -55,7 +55,7 @@ layout: home
           11:00
         {% endif %}
         </span>
-        on {{site.tags["presentation"][0].presentation_date | date: "%A, %B %-d, %Y"}} 
+        on {{site.tags["presentation"][0].presentation_date | date: "%A, %B %-d"}} 
         {% if site.tags["presentation"][0].place %}
           {{site.tags["presentation"][0].place}}.
         {% else %}
