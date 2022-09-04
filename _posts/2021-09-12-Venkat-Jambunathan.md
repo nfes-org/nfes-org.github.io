@@ -1,6 +1,6 @@
 ---
 title: "Venkat Jambunathan, VP Program"
-tags: Board21/22 VP
+tags: Board21/22 VP Board
 role: "VP Program"
 cover: assets/board/Venkat_Jambunathan2.JPG
 cover_size: md

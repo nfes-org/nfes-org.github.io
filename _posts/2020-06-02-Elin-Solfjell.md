@@ -1,6 +1,6 @@
 ---
 title: "Elin Solfjell, VP Sponsorship"
-tags: Board21/22 VP
+tags: Board21/22 VP Board
 role: "VP Sponsorship"
 cover: assets/board/elin.jpeg
 cover_size: md

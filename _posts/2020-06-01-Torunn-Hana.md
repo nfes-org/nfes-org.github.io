@@ -1,6 +1,6 @@
 ---
 title: "Torunn Hana, VP Finance"
-tags: Board21/22 VP
+tags: Board21/22 VP Board
 role: "VP Finance"
 cover: assets/board/torunn.png
 cover_size: md

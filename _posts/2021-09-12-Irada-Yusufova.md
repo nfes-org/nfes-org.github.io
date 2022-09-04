@@ -1,6 +1,6 @@
 ---
 title: "Irada Yusufova, VP Technology"
-tags: Board21/22 VP
+tags: Board21/22 VP Board
 role: "VP Technology"
 cover: assets/board/irada.jpg
 cover_size: md

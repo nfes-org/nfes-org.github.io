@@ -1,6 +1,6 @@
 ---
 title: "Dler Mirza, VP Membership"
-tags: Board21/22 VP
+tags: Board21/22 VP Board
 role: "VP Membership"
 cover: assets/board/dler.jpg
 cover_size: md
