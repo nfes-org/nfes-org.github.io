@@ -13,6 +13,8 @@ Geosteering has become an integral service while drilling horizontal sections an
 
 
 
-## Biography:
+## Biography
+
+<img class="image image--lg" src="/assets/archive/danil.jpg"/>
 
 **Danil Nemuschenko**, is Head of the geosteering department in ROGII. Danil holds an MSc degree in Geology from the Novosibirsk State University. He has over 9 years’ experience in well placement in conventional and unconventional plays in Russia, United States, United Arab Emirates, Venezuela, and Australia. Prior to joining ROGII he has worked with major service companies such as Schlumberger and Baker Hughes. Danil has worked with almost all types of MWD & LWD tools including high-tier deep azimuthal resistivity tools.
