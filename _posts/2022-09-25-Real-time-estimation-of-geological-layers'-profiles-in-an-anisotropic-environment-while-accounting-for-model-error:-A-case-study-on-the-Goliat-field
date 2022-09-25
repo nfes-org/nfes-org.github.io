@@ -1,0 +1,13 @@
+---
+tags: workshop2022abstract
+title: "Real-time estimation of geological layers' profiles in an anisotropic environment while accounting for model-error: A case study on the Goliat field (Muzammil Hussain Rammay, University of Stavanger)"
+presentation_date: 2022-11-01
+---
+### Presenter
+**Muzammil Hussain Rammay** from University of Stavanger
+### Co-authors
+Sergey Alyaev, NORCE. Reidar Brumer Bratvold, University of Stavanger. David Selvåg Larsen, Vår Energi. Craig Saint, Baker Hughes.
+## Abstract
+The real-time interpretation of the logging while drilling (LWD) data allows us to estimate the positions and properties of the geological layers in an anisotropic subsurface environment. Robust real-time estimations capturing uncertainty can be very useful for efficient geosteering operations. However, the model errors in the prior conceptual geological models and forward simulation of the measurements can be a significant factor in the unreliable estimations of the profiles of the geological layers. The model errors are specifically pronounced when using a deep neural network (DNN) approximation which we use to accelerate and parallelize the simulation of the measurements. In this paper, we present a practical workflow consisting of an offline and an online phases. The offline phase includes DNN training and building of an uncertain prior near-well geo-model. The online phase uses the flexible iterative ensemble smoother (FlexIES) to perform real-time assimilation of extra-deep EM data accounting for the model errors in the approximate DNN model. We demonstrate the proposed workflow on a case study for a historical well in the Goliat Field (Barents Sea). The median of our probabilistic estimation is on-par with proprietary inversion despite the approximate DNN model and regardless of the number of layers in the chosen prior. Additionally, by estimating the model errors, FlexIES automatically quantifies the uncertainty in the layers' boundaries and resistivities, which is not standard for the proprietary inversion.
+## Biography
+Muzammil Hussain Rammay is a postdoc researcher in the decision and data analytics group at the Department of Energy Resources of University of Stavanger. He completed his PhD from Heriot-Watt university UK in 2020. He has entensive work experience related to the academia/industry collaborative projects ranging from Reservoir simulation, Inverse modeling, Reservoir characterization, Machine learning, Stochastic optimization, Uncertainty Quantification, and prediction Improvement. Furthermore, he has more than 15 technical publications.
