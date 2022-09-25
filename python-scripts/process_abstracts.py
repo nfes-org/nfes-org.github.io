@@ -21,7 +21,7 @@ def create_file(row):
     company = row[company_col]
     # str = str.replace(/\s+/g, '-')
     title_for_display = re.sub('\s', '-', title)
-    file_name = target_folder + publish_date + '-' + title_for_display
+    file_name = target_folder + publish_date + '-' + title_for_display + '.md'
     with open(file_name, 'w') as md_file:
         # header
         md_file.write('---\n')
