@@ -20,8 +20,12 @@ def create_file(row):
     author = row[author_col]
     company = row[company_col]
     # str = str.replace(/\s+/g, '-')
-    title_for_display = re.sub('\s', '-', title)
+    # title = title.strip(' .')
+    title_for_display = re.sub('\s|:|/|\?|&|\.|[^\x00-\x7F]|,|\(|\)|\'', '-', title)
     file_name = target_folder + publish_date + '-' + title_for_display + '.md'
+    print(file_name)
+    # todo remove
+    return
     with open(file_name, 'w') as md_file:
         # header
         md_file.write('---\n')
@@ -30,9 +34,9 @@ def create_file(row):
         md_file.write(f'presentation_date: {presentation_date}\n')
         md_file.write('---\n')
         # body
-        md_file.write('### Presenter\n')
+        md_file.write('#### Presenter\n')
         md_file.write(f'**{author}** from {company}\n')
-        md_file.write('### Co-authors\n')
+        md_file.write('#### Co-authors\n')
         md_file.write(f'{row[co_auth_col]}\n')
         md_file.write('## Abstract\n')
         #abstract
