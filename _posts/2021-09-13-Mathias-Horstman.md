@@ -1,6 +1,6 @@
 ---
 title: "Mathias Horstmann, President"
-tags: Board21/22 President Board
+tags: Board21/22 Board22/23 President Board
 role: "President"
 cover: assets/board/mathias.jpg
 cover_size: md

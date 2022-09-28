@@ -1,6 +1,6 @@
 ---
-title: "Dler Mirza, VP Membership"
-tags: Board21/22 VP Board
+title: "Dler Mirza, VP Membership, President Elect"
+tags: Board21/22 Board22/23 VP Board
 role: "VP Membership"
 cover: assets/board/dler.jpg
 cover_size: md
