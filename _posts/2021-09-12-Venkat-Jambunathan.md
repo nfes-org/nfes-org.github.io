@@ -6,7 +6,7 @@ cover: assets/board/Venkat_Jambunathan2.JPG
 cover_size: md
 pageview: true
 ---
-<img class="image image--md circle shadow center" src="/assets/board/Venkat_Jambunathan2.JPG"/>
+<img class="image image--md shadow center" src="/assets/board/Venkat_Jambunathan2.JPG"/>
 
 
 **Venkat Jambunathan** is a petrophysicist with Halliburton and is based in Stavanger, Norway. 

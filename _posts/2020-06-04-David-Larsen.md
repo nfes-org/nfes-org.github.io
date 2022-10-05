@@ -6,7 +6,7 @@ cover: assets/board/larsen.jpg
 cover_size: md
 pageview: true
 ---
-<img class="image image--md circle shadow center" src="/assets/board/larsen.jpg"/>
+<img class="image image--md shadow center" src="/assets/board/larsen.jpg"/>
 
 
 David Larsen graduated with a Master in Marine G&G and has ten years experience from the oil and gas industry. 

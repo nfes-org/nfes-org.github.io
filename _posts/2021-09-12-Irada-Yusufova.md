@@ -6,7 +6,7 @@ cover: assets/board/irada.jpg
 cover_size: md
 pageview: true
 ---
-<img class="image image--md circle shadow center" src="/assets/board/irada.jpg"/>
+<img class="image image--md shadow center" src="/assets/board/irada.jpg"/>
 
 **Irada Yusufova**, Equinor, Leading Advisor Petrophysical Methods and Modelling.
 Member of SPE and SPWLA. 

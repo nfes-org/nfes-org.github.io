@@ -6,7 +6,7 @@ cover: assets/board/elin.jpeg
 cover_size: md
 pageview: true
 ---
-<img class="image image--md circle shadow center" src="/assets/board/elin.jpeg"/>
+<img class="image image--md shadow center" src="/assets/board/elin.jpeg"/>
 
 
 **Elin Solfjell** is a Senior Petrophysicist at INEOS E&P Norger.

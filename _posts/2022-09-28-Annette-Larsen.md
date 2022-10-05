@@ -6,7 +6,7 @@ cover: assets/board/Annette.jpg
 cover_size: md
 pageview: true
 ---
-<img class="image image--md circle shadow center" src="/assets/board/Annette.jpg"/>
+<img class="image image--md shadow center" src="/assets/board/Annette.jpg"/>
 
 
 **Annette Larsen** is General Manager in Logtek AS, based in Stavanger.

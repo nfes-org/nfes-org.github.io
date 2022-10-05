@@ -6,7 +6,7 @@ cover: assets/board/mathias.jpg
 cover_size: md
 pageview: true
 ---
-<img class="image image--md circle shadow center" src="/assets/board/mathias.jpg"/>
+<img class="image image--md shadow center" src="/assets/board/mathias.jpg"/>
 
 
 **Mathias Horstmann**, Schlumberger, is Principal Domain Petrophysicist for Scandinavia, based in Stavanger. 

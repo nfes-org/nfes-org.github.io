@@ -6,7 +6,7 @@ cover: assets/board/torunn.png
 cover_size: md
 pageview: true
 ---
-<img class="image image--md circle shadow center" src="/assets/board/torunn.png"/>
+<img class="image image--md shadow center" src="/assets/board/torunn.png"/>
 
 
 **Torunn Hana**, Repsol, M.Sc. Petr.Eng. - Reservoir Technology,
