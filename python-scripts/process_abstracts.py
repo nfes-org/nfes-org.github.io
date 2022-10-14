@@ -2,13 +2,13 @@ import pandas as pd
 import re
 
 
-publish_date = "2022-09-25"
+publish_date = "2022-10-14"
 presentation_date = "2022-11-01"
 tags = "workshop2022abstract"
 target_folder = "../_posts/"
 
 
-def create_file(row):
+def create_file(row, id):
     title_col = "Presentation title"
     author_col = "Presenter name"
     company_col = "Presenter affiliation"
@@ -21,11 +21,11 @@ def create_file(row):
     company = row[company_col]
     # str = str.replace(/\s+/g, '-')
     # title = title.strip(' .')
-    title_for_display = re.sub('\s|:|/|\?|&|\.|[^\x00-\x7F]|,|\(|\)|\'', '-', title)
-    file_name = target_folder + publish_date + '-' + title_for_display + '.md'
+    # title_for_display = re.sub('\s|:|/|\?|&|\.|[^\x00-\x7F]|,|\(|\)|\'', '-', title)
+    # file_name = target_folder + publish_date + '-' + title_for_display + '.md'
+    file_name = target_folder + publish_date + '-workshop-abstract-' + str(id) + '.md'
     print(file_name)
     # todo remove
-    return
     with open(file_name, 'w') as md_file:
         # header
         md_file.write('---\n')
@@ -51,9 +51,9 @@ def create_file(row):
 
 
 if __name__ == "__main__":
-    abstracts_data = pd.read_csv('~/Downloads/Abstract submission geosteering (Responses) - Form responses 1.csv')
+    abstracts_data = pd.read_csv('~/Downloads/Abstract submission geosteering (Responses) - Form responses 1 (1).csv')
     print(abstracts_data)
     for index, row in abstracts_data.iterrows():
-        create_file(row)
+        create_file(row, index+1)
 
 
