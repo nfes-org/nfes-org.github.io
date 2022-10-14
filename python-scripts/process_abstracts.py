@@ -23,7 +23,8 @@ def create_file(row, id):
     # title = title.strip(' .')
     # title_for_display = re.sub('\s|:|/|\?|&|\.|[^\x00-\x7F]|,|\(|\)|\'', '-', title)
     # file_name = target_folder + publish_date + '-' + title_for_display + '.md'
-    file_name = target_folder + publish_date + '-workshop-abstract-' + str(id) + '.md'
+    short_title = title.split(' ')[0].lower()
+    file_name = target_folder + publish_date + '-' + short_title + '-workshop-abstract-' + str(id) + '.md'
     print(file_name)
     # todo remove
     with open(file_name, 'w') as md_file:
