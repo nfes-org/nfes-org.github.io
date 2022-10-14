@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+from os.path import exists
 
 
 publish_date = "2022-10-14"
@@ -27,6 +28,9 @@ def create_file(row, id):
     file_name = target_folder + publish_date + '-' + short_title + '-workshop-abstract-' + str(id) + '.md'
     print(file_name)
     # todo remove
+    file_exists = exists(file_name)
+    if file_exists:
+        return 
     with open(file_name, 'w') as md_file:
         # header
         md_file.write('---\n')
