@@ -174,3 +174,17 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td colspan="2"><b>Closing</b></td>
 </tr>
 </table>
+
+### Contributed sessions
+* **GW** Geosteering workflows and their applications: pre-job, real-time, post-job (Session chairs: David Holbrough, Alexandra Zaputlyaeva)
+* **DA opt** Optimization and decision-making in geosteering (Session chairs: Supriya Sinha, Sergey Alyaev)
+* **FE UQ** Advanced formation evaluation for reduction of subsurface uncertainty (Session chairs: Maurizio Mele, Nils Andre Aarseth)
+* **EM+** Resistivity inversion 1,2,3D and data fusion/integration (Session chairs: Jean-Michel Denichou, Frank Antonsen)
+* **GT+** Applications of geosteering in geothermal and civil wells
+* **Posters** Posters session (Session chairs: Igor Kuvaev, Dler Mirza)
+
+### Sponsors
+
+| Research Council of Norway | ROGII       | Aker BP     | Equinor     | Logtek      |
+|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| <img class="image" alt="Logo of the Research Council of Norway" src="/assets/logos/rcnlogo.png"/> | <img class="image" alt="ROGII Inc. logo" src="/assets/logos/rogii_logo_index-1.png"/>  | <img class="image" alt="Aker BP logo" src="/assets/logos/akerbplogo.png"/> | <img class="image" alt="Equinor logo" src="/assets/logos/equinorlogo.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> | 
