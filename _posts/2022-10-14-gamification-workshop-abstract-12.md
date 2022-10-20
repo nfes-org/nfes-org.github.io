@@ -5,15 +5,11 @@ presentation_date: 2022-11-01
 ---
 #### Presenter
 **Sergey Alyaev** from NORCE Norwegian Research Centre
-#### Co-authors
-nan
+
 ## Abstract
 Horizontal directional drilling (HDD) is a go-to method for installing subsurface pipelines, telecommunication cables, power lines, and sewers without digging trenches. 
-
 The traditional methodology follows a pre-defined path to drill a horizontal well under surface obstacles such as rivers or inhabited areas. 
-
 In the last few years, logging-while-drilling (LWD) measurements developed for oil and gas drilling have become more affordable and made their way to civil drilling. 
-
 They enable geosteering of shallow wells: intensional real-time trajectory adjustment to adapt to the observed subsurface environment as the uncertainty gets reduced with new measurements.
 
 
