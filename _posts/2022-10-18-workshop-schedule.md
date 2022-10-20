@@ -2,6 +2,9 @@
 tags: news
 title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and NFES"
 ---
+
+[To the event announcement](https://nfes.org/2022/08/23/geosteering-2022.html).
+
 <table class="nice-table" id="table"><tr>
 <th colspan="3"><b>Day 0</b></th>
 </tr>
