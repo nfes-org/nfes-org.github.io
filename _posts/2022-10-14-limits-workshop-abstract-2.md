@@ -1,0 +1,21 @@
+---
+tags: workshop2022abstract
+title: "Limits of detectability and resolution of deep-sensing borehole electromagnetic measurements from numerical modeling. (Nazanin Jahani, NORCE Norwegian Research Centre)"
+presentation_date: 2022-11-01
+---
+#### Presenter
+**Nazanin Jahani** from NORCE Norwegian Research Centre
+#### Co-authors
+Carlos Torres-Verdin, Junsheng Hau, the university of Texas at Austin (UT Austin)
+## Abstract
+Hydrocarbons are often found in three-dimensional (3D) and non-spatially continuous rock formations that exhibit electrical anisotropy. Deep-sensing tri-axial borehole electromagnetic (EM) measurements can detect 3D hydrocarbon-bearing formations reliably, but borehole environmental, geometrical, and instrument-design factors together with measurement noise constrain their practical range of spatial resolution and definition. By understanding the interplay of the above factors on the detectability of borehole deep EM measurements, one can potentially quantify the uncertainty of both target spatial location (relative to the well trajectory) and electrical resistivity contrast, thereby improving the certainty of 3D well navigation in real time. We quantified the maximum radial distance of detection away from the well trajectory and the resolution of a commercially available deep-sensing EM tool with respect to salient environmental factors and measurement acquisition parameters, i.e., frequency of operation, transmitter-receiver spacing, target and embedding background resistivity, electrical anisotropy of the embedding background and target formations, and target position relative to the well trajectory. Furthermore, to determine the spatial limit of detectability of the various tri-axial transmitter-receiver combinations, we assumed zero-mean, 2% Gaussian measurement noise.
+
+
+
+A finite-volume method was implemented to numerically solve the scalar-vector potential representation of Maxwell's equations for 3D electrically anisotropic heterogeneous rock formations. Results show that commercially-available tri-axial deep-sensing borehole EM instruments can achieve maximum detection distances between a quarter and a full transmitter-receiver spacing. In addition, we show that radial detection distances vary from 0.2-1 skin depth depending on the geological environment: the detectability of deep-EM borehole instruments increases with the target's conductivity contrast with respect to the embedding background. Three-dimensional targets are also better detected in the presence of high electrical anisotropy with respect to the embedding background. Near the wellbore, resistive targets can be better detected than conductive targets, while farther away, conductive targets can be detected more easily than resistive ones. High-frequency instruments (48 kHz) can detect and define resistive targets better than conductive targets at distances of one transmitter-receiver spacing, whereas low-frequency measurements (less than 24 kHz) can detect conductive targets with better resolution than resistive targets at distances of half to one transmitter-receiver spacing. Distance of detection of both resistive and conductive targets decreases when increasing the measurement acquisition frequency above 48 kHz. The above considerations are not only important for instrument design and job planning, but also for the effective implementation of real-time inversion procedures.
+## Biography
+Nazanin Jahani Ph.D. is a Senior Research Scientist at NORCE.
+She received her Ph.D. in mechanical engineering from the Norwegian University of Science and Technology (NTNU) in Trondheim.
+Her current research interests include fast forward modeling and inversion of deep-sensing electromagnetics measurements for  geosteeing.
+In 2021, she received Fulbright scholar grants and was visiting research fellow at the University of Texas at Austin, the formation evaluation research consortium.
+Since 2021 she has been a  researcher at the Center for Research-Based Innovation DigiWells . She is leading the DigiWells' spin-off project "3D geological interpretation for geosteering of wells", which is part of the RCN Petromaks 2 program.
