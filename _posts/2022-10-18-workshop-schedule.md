@@ -102,7 +102,7 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td>08:30: David Pardo (University of the Basque Country): <b>Machine learning for modeling and interpreting geophysical borehole measurements</b> <a href="https://nfes.org/2022/10/14/machine-workshop-abstract-20.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>09:05: Carlos Torres-Verdin (The University of Texas at Austin) et al.: <b>Rapid 3D Modeling and Inversion of Deep-Sensing Borehole Electromagnetic Measurements Using Adaptive Tensorial Spatial Sensitivity Functions</b> <a href="https://nfes.org/2022/10/14/rapid-workshop-abstract-9.html">(abstract)</a></td>
+<td>09:05: Frank Antonsen (Equinor ASA) et al.: <b>Standardization of LWD Deep Azimuthal Resistivity (SDAR) Workgroup Update</b> <a href="https://nfes.org/2022/10/14/standardization-workshop-abstract-24.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>09:30 - 09:50</td>
@@ -121,8 +121,8 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td colspan="2"><b>Break</b></td>
 </tr>
 <tr>
-<td rowspan="5">11:00 - 12:00</td>
-<td rowspan="5">Posters / Exhibition</td>
+<td rowspan="6">11:00 - 12:00</td>
+<td rowspan="6">Posters / Exhibition</td>
 <td>Sergey Alyaev (NORCE Norwegian Research Centre): <b>Gamification of shallow geosteering</b> <a href="https://nfes.org/2022/10/14/gamification-workshop-abstract-12.html">(abstract)</a></td>
 </tr>
 <tr>
@@ -133,6 +133,9 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 </tr>
 <tr>
 <td>Adrian Ambrus (NORCE Norwegian Research Centre) et al.: <b>AI-based multi-modal interpretation of logs for ahead-of-bit probabilistic ROP prediction</b> <a href="https://nfes.org/2022/10/14/ai-based-workshop-abstract-22.html">(abstract)</a></td>
+</tr>
+<tr>
+<td>Durra Handri Saputera (University of Bergen) et al.: <b>GPU-accelerated integral equation method for 3D modelling of induction logs</b> <a href="https://nfes.org/2022/10/14/gpu-accelerated-workshop-abstract-23.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>: <b></b> (Waiting for confirmation)</td>
@@ -166,7 +169,7 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td>15:00: Nazanin Jahani (NORCE Norwegian Research Centre) et al.: <b>Limits of detectability and resolution of deep-sensing borehole electromagnetic measurements from numerical modeling.</b> <a href="https://nfes.org/2022/10/14/limits-workshop-abstract-2.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>15:25: Rosamary Ameneiro Paredes (Halliburton) et al.: <b>Mapping Complex Geological Surface Morphology During Landing Operations Using 3-D Inversion of Ultra-Deep Electromagnetic LWD Data</b> <a href="https://nfes.org/2022/10/14/mapping-workshop-abstract-13.html">(abstract)</a></td>
+<td>15:25: Rosamary Ameneiro Paredes (Halliburton ) et al.: <b>Mapping Complex Geological Surface Morphology During Landing Operations Using 3-D Inversion of Ultra-Deep Electromagnetic LWD Data</b> <a href="https://nfes.org/2022/10/14/mapping-workshop-abstract-13.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>15:50 - 16:05</td>
