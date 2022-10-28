@@ -1,5 +1,5 @@
 ---
-tags: news
+tags: Program
 title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and NFES"
 ---
 
