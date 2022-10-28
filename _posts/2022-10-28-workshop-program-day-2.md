@@ -97,7 +97,7 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 * **GW** Geosteering workflows and their applications: pre-job, real-time, post-job (Session chairs: David Holbrough, Alexandra Zaputlyaeva)
 * **FE UQ** Advanced formation evaluation for reduction of subsurface uncertainty (Session chairs: Maurizio Mele, Nils Andre Aarseth)
 * **EM+** Resistivity inversion 1,2,3D and data fusion/integration (Session chairs: Jean-Michel Denichou, Frank Antonsen)
-* **Posters** Posters session (Session chairs: Igor Kuvaev, Dler Mirza)
+* **Posters** Poster session (Session chairs: Igor Kuvaev, Dler Mirza)
 
 ### Sponsors
 
