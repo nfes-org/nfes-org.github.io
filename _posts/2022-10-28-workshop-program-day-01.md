@@ -14,7 +14,7 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <th colspan="3"><b>November 1</b></th>
 </tr>
 <tr>
-<td>08:00-></td>
+<td>08:00-</td>
 <td colspan="2"><b>Registration</b></td>
 </tr>
 <tr>
