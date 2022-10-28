@@ -8,10 +8,6 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <th colspan="3"><b>November 2</b></th>
 </tr>
 <tr>
-<td>08:00 - 08:30</td>
-<td colspan="2"><b>Registraion</b></td>
-</tr>
-<tr>
 <td rowspan="2">08:30 - 09:30</td>
 <td rowspan="2">EM+</td>
 <td>08:30: David Pardo (University of the Basque Country): <b>Machine learning for modeling and interpreting geophysical borehole measurements</b> </td>
@@ -20,7 +16,7 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td>09:05: Frank Antonsen (Equinor ASA) et al.: <b>Standardization of LWD Deep Azimuthal Resistivity (SDAR) Workgroup Update</b> </td>
 </tr>
 <tr>
-<td>09:30 - 09:50</td>
+<td>09:30</td>
 <td colspan="2"><b>Break</b></td>
 </tr>
 <tr>
@@ -32,7 +28,7 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td>10:15: Carl Fredrik Gyllenhammar (CaMa GeoScience AS): <b>Calculating volume of clay to be used in seismic inversion</b> </td>
 </tr>
 <tr>
-<td>10:40 - 11:00</td>
+<td>10:40</td>
 <td colspan="2"><b>Break</b></td>
 </tr>
 <tr>
@@ -57,7 +53,7 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td colspan="2"><b>Lunch</b></td>
 </tr>
 <tr>
-<td>13:00 - 13:15</td>
+<td>13:00</td>
 <td colspan="2"><b>Kahoot!</b></td>
 </tr>
 <tr>
@@ -69,7 +65,7 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td>13:50: Egil Romsås Fjeldberg (Aker BP) et al.: <b>Innovative methods to integrate advanced LWD data set into the field development operations: Experiences and lessons learned from the Ivar Aasen field</b> </td>
 </tr>
 <tr>
-<td>14:15 - 14:35</td>
+<td>14:15</td>
 <td colspan="2"><b>Break</b></td>
 </tr>
 <tr>
@@ -81,15 +77,15 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td>15:00: Nazanin Jahani (NORCE Norwegian Research Centre) et al.: <b>Limits of detectability and resolution of deep-sensing borehole electromagnetic measurements from numerical modeling.</b> </td>
 </tr>
 <tr>
-<td>15:25: Rosamary Ameneiro Paredes (Halliburton ) et al.: <b>Mapping Complex Geological Surface Morphology During Landing Operations Using 3-D Inversion of Ultra-Deep Electromagnetic LWD Data</b> </td>
+<td>15:25: Rosamary Ameneiro Paredes (Halliburton) et al.: <b>Mapping Complex Geological Surface Morphology During Landing Operations Using 3-D Inversion of Ultra-Deep Electromagnetic LWD Data</b> </td>
 </tr>
 <tr>
-<td>15:50 - 16:05</td>
-<td colspan="2"><b>Evaluation</b></td>
+<td>15:50</td>
+<td colspan="2"><b>Evaluation and closing</b></td>
 </tr>
 <tr>
-<td>16:05 - 16:20</td>
-<td colspan="2"><b>Closing</b></td>
+<td>16:20</td>
+<td colspan="2"><b>Adjourn</b></td>
 </tr>
 </table>
 

@@ -14,11 +14,11 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <th colspan="3"><b>November 1</b></th>
 </tr>
 <tr>
-<td>08:00 - 08:45</td>
+<td>08:00-></td>
 <td colspan="2"><b>Registration</b></td>
 </tr>
 <tr>
-<td>08:45 - 09:00</td>
+<td>08:45</td>
 <td colspan="2"><b>Opening</b></td>
 </tr>
 <tr>
@@ -30,7 +30,7 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td>09:35: David Selvåg Larsen (Vår Energi): <b>Advanced geosteering workflows on the Norwegian Continental Shelf</b> </td>
 </tr>
 <tr>
-<td>10:10 - 10:30</td>
+<td>10:10</td>
 <td colspan="2"><b>Break</b></td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td>13:20: Yasaman Cheraghi (University of Stavanger) et al.: <b>What can we learn after 10000 geosteering decisions?</b> </td>
 </tr>
 <tr>
-<td>13:45 - 14:05</td>
+<td>13:45</td>
 <td colspan="2"><b>Break</b></td>
 </tr>
 <tr>
@@ -72,19 +72,15 @@ title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and 
 <td>14:55: Danil Nemuschenko (ROGII) et al.: <b>Enhanced geosteering workflows using vendor-independent stochastic resistivity inversion module.</b> </td>
 </tr>
 <tr>
-<td>15:20 - 15:35</td>
+<td>15:20</td>
 <td colspan="2"><b>End of technical program</b></td>
 </tr>
 <tr>
-<td>15:35 - 17:30</td>
+<td>15:35</td>
 <td colspan="2"><b>Geosteering Cup (sponsored)</b></td>
 </tr>
 <tr>
-<td>17:30 - 17:35</td>
-<td colspan="2"><b>End of day 1</b></td>
-</tr>
-<tr>
-<td>19:00 - 22:00</td>
+<td>19:00</td>
 <td colspan="2"><b>Dinner</b></td>
 </tr>
 </table>
