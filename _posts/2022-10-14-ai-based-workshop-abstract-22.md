@@ -1,5 +1,5 @@
 ---
-tags: workshop2022abstract
+tags: workshop2022abstract has_attachment
 title: "AI-based multi-modal interpretation of logs for ahead-of-bit probabilistic ROP prediction (Adrian Ambrus, NORCE Norwegian Research Centre)"
 presentation_date: 2022-11-01
 ---
@@ -17,3 +17,5 @@ We verify the method's performance on realistic well logs and stratigraphic data
 
 ## Biography
 Adrian Ambrus is a senior researcher in the drilling and well modelling group at NORCE Norwegian Research Centre. Ambrus holds B.Sc and M.Sc degrees in mechanical engineering from Drexel University, U.S.A, and a Ph.D. in mechanical engineering from the University of Texas at Austin. His current research interests include modeling and optimization of drilling processes, application of statistical processing and machine learning techniques to drilling operations, and development of automated control algorithms for control of drill-string vibrations.
+
+<a class="button button--primary button--pill" href="/assets/workshop2022/ambrus_sequential_multi_mode_inversion_poster.pdf">Download poster</a>
