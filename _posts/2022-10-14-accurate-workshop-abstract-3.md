@@ -27,3 +27,5 @@ Our method is Bayesian and uses kriging for the interpolation. The conditioning 
 Using real data, we show how surfaces change as different kinds of data are included in the gridding, and how the uncertainties of these data affect the result. We also show that a consistent handling of the well depth uncertainty may be crucial for a correct description of the reservoir. This has consequences for well planning, well landing as well as volume uncertainty studies. Eventually, we do a simulated well drilling that illustrates how this stochastic approach can be used for geosteering.
 ## Biography
 Pål works as  is a Senior Researcher at the Norwegian Computing Center. He holds a PhD in Quantum Chemistry from the University of Oslo, and has been working with uncertainty modelling in the gas and oil industry over the last 20 years. The main focus has been on stochastic methods, in particular in relation with seismic inversion and structural modelling.
+
+<a class="button button--primary button--pill" href="/assets/workshop2022/COHIBA-Stavanger-2021-11-01.pdf">Download slides</a>
