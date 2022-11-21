@@ -1,7 +1,7 @@
 ---
 tags: news
 title: "Schedule for Geosteering and Formation Evaluation Workshop by NORCE and NFES"
-presentation_date: 2022-11-01
+presentation_date: 2022-11-02
 ---
 
 [To the event announcement](https://nfes.org/2022/08/23/geosteering-2022.html).
