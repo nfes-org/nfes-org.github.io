@@ -1,5 +1,5 @@
 ---
-tags: workshop2022abstract
+tags: workshop2022abstract has_attachment
 title: "Ultradeep Resistivity inversions integrated to near-wellbore azimuthal LWD measurements for the successful delivery of geosteering objectives, a case from the Norwegian Continental Shelf. (Luis Chacin, Halliburton)"
 presentation_date: 2022-11-01
 ---
@@ -29,3 +29,5 @@ The results presented in this paper illustrate how the imaging provided by UDAR 
 
 ## Biography
 Currently working as Geosteering Technical Advisor for Halliburton Norway with 15 years of experience in Geosteering operations in various locations in South-North America and Europe. Background in Geophysics, log analysis and operations geology. 
+
+<a class="button button--primary button--pill" href="/assets/archive/workshop2022/LChacin-et-al_Halliburton-WDNO_NFES2022.pdf">Download slides</a>
