@@ -19,3 +19,5 @@ On this poster, we present a recently created  open source web simulation game t
 
 ## Biography
 Sergey Alyaev holds MSc and PhD degrees in applied and computational mathematics from the University of Bergen. He works as a senior researcher at NORCE, where he develops mathematical methods for problems in flow-modeling drilling and geosteering. His research interests include forward and inverse modeling, uncertainty quantification, data-driven methods, and decision theory; and their real-time applications.
+
+<a class="button button--primary button--pill" href="/assets/workshop2022/alyaev_gamification_geosteering_poster.pdf">Download poster</a>
