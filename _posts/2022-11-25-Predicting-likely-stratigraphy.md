@@ -17,6 +17,8 @@ This presentation is based on the work produced in the Center for Research-based
 
 2.      Alyaev, S., Ambrus, A., Jahani, N., & Elsheikh, A. H. (2022). Sequential Multi-Realization Probabilistic Interpretation of Well Logs and Geological Prediction by a Deep-Learning Method. In SPWLA 63rd Annual Logging Symposium. [OnePetro](https://onepetro.org/SPWLAALS/proceedings-abstract/SPWLA22/5-SPWLA22/D051S022R001/487879)
 
+3.      Rassenfoss, S. (2022) A Study Suggests Geosteers Often Miss the Target. [Journal of Petroleum Technology](https://jpt.spe.org/a-study-suggests-geosteers-often-are-missing-the-target)
+
  
 
 ## Biography
