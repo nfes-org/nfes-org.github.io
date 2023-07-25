@@ -14,7 +14,7 @@ key: page-about
         <img src="assets/images/TITTEL_NFES.jpg" alt="NFES">
         <p>
             The Norwegian Formation Evaluation Society (NFES) is your local Norwegian chapter
-            of the <a target="_blank" href="http://www.spwla.org/">SPWLA</a>. The purpose of
+            of the <a target="_blank" href="http://www.spwla.org/">SPWLA (Society of Petrophysicists and Well Log Analysts)</a>. The purpose of
             the society is to contribute to the development of the science of Formation Evaluation
             in Norway. This is mainly achieved through the arrangement of monthly technical
             meetings (including lunch) and organising seminars on selected subjects. These arrangements
@@ -56,4 +56,8 @@ key: page-about
                 </td>
             </tr>
         </tbody></table>
+        <h2>History</h2>
+        <p>
+            The Norwegian Formation Evaluation Society (NFES) was founded on March 23, 1981, with the primary goal of sharing knowledge about formation evaluation to support oil and gas operations on the Norwegian Continental Shelf. Simultaneously, NFES aimed to connect with the global Society of Petrophysicists and Well Log Analysts (SPWLA) to facilitate knowledge sharing beyond borders and take an active role in global events.
+        </p>
     </div>
