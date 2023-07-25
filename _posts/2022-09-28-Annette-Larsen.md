@@ -1,6 +1,6 @@
 ---
 title: "Annette Larsen, VP Sponsorship"
-tags: Board22/23 VP Board
+tags: Board22/23 Board23/24 VP Board
 role: "VP Sponsorship"
 cover: assets/board/Annette.jpg
 cover_size: md

@@ -1,6 +1,6 @@
 ---
 title: "Sergey Alyaev, VP PR & Academia"
-tags: Board21/22 Board22/23 VP Board
+tags: Board21/22 Board22/23 Board23/24 VP Board
 role: "VP PR & Academia"
 cover: assets/board/alyaev.jpg
 cover_size: md
@@ -16,5 +16,5 @@ article_header:
 <!-- <img class="image image--md" src="/assets/board/alyaev.jpg"/> -->
 Sergey Alyaev
 is a senior researcher in applied mathematics at NORCE with interests including forward and inverse modeling, data-driven methods, and decision theory. <!--more-->
-Sergey has MSc and PhD degrees in applied mathematics from the University of Bergen. The main focuses of his research are the real-time applications of these methods and integrated workflows in the field of drilling and geosteering.
-From 2018 he took responsibility for leading the project “Geosteering for IOR” where the team is developing advanced quantitative and statistical methods and applying them for real-time formation evaluation and decision making. 
+Sergey has MSc and PhD degrees in applied mathematics from the University of Bergen. His research mainly focuses on the real-time applications of these methods and integrated workflows in drilling and geosteering.
+In 2018 he started leading the geosteering initiatives at NORCE where the team is developing advanced quantitative and statistical methods and applying them for real-time formation evaluation and decision-making. 
