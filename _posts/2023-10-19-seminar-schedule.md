@@ -4,16 +4,16 @@ title: "Schedule for NFES Full-Day Seminar, November 1, 2023"
 presentation_date: 2023-11-01
 ---
 
+[To the event announcement](https://nfes.org/2023/09/12/nfes-full-day-2023.html)
+
 The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to invite you to **a non-commercial NFES Full-Day Seminar held at Solastranden Gård**. 
 
-
-[To the event announcement](https://nfes.org/2023/09/12/nfes-full-day-2023.html).
 
 <table class="nice-table" id="table"><tr>
 <th colspan="3"><b>NFES Full-Day Seminar, November 1</b></th>
 </tr>
 <tr>
-<td>08:30 - 09:00</td>
+<td>08:30</td>
 <td colspan="2"><b>Doors open, Registration</b></td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 <td>10:10: Mathias Horstmann (SLB) et al.: <b>Consistent Real-time Geological Borehole Imaging along with Multi-scale LWD Reservoir Characterization enables Informed Operational Decisions</b> </td>
 </tr>
 <tr>
-<td>10:40 - 11:00</td>
+<td>10:40</td>
 <td colspan="2"><b>Break</b></td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 <td>11:30: Peter von Schultzendorff (Universitetet i Bergen) et al.: <b>A machine learned near-well model in OPM</b> </td>
 </tr>
 <tr>
-<td>12:00 - 13:00</td>
+<td>12:00</td>
 <td colspan="2"><b>Lunch</b></td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 <td>14:00: Alvaro Munnoz-Beltran (Stratum Reservoir) et al.: <b>X-Ray CT 3D virtual plugging</b> </td>
 </tr>
 <tr>
-<td>14:30 - 14:50</td>
+<td>14:30</td>
 <td colspan="2"><b>Break</b></td>
 </tr>
 <tr>
@@ -71,26 +71,21 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 <td>15:20: Frode Ungar (Equinor ASA) et al.: <b>Improved Reservoir Fluid Estimation for Prospect Evaluation Using Mud Gas Data</b> </td>
 </tr>
 <tr>
-<td>15:50 - 16:00</td>
+<td>15:50</td>
 <td colspan="2"><b>Closing</b></td>
 </tr>
 <tr>
-<td>16:00 - </td>
+<td>16:00</td>
 <td colspan="2"><b>End of Seminar</b></td>
 </tr>
 </table>
 
 
 ## Registration and sponsorship
-[Register](https://forms.gle/A6RVTrgZHC6GBdx67) to join the seminar and get NFES membership!**
 
-### Event sponsorship
+**[Register](https://forms.gle/A6RVTrgZHC6GBdx67) to join the seminar** and get NFES membership!**
 
-Claim unique sponsor benefits with a 15,000 NOK package. 
-
-For more details, please contact:
-- Annette Larsen: [alarsen@logtek.no](mailto:alarsen@logtek.no)
-- Torunn Hanna,  [thana@repsol.com](mailto:thana@repsol.com)
+**Claim unique sponsor benefits** with a 15,000 NOK package. Please, **contact [Annette Larsen](mailto:alarsen@logtek.no)**
 
 ### NFES Sponsors
 
