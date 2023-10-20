@@ -8,6 +8,7 @@ presentation_date: 2023-11-01
 
 The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to invite you to **a non-commercial NFES Full-Day Seminar held at Solastranden Gård**. 
 
+### Solastranden Gård, November 1, 2023
 
 <table class="nice-table" id="table">
 <tr>
