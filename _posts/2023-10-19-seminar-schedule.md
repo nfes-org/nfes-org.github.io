@@ -9,9 +9,7 @@ presentation_date: 2023-11-01
 The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to invite you to **a non-commercial NFES Full-Day Seminar held at Solastranden Gård**. 
 
 
-<table class="nice-table" id="table"><tr>
-<th colspan="3"><b>NFES Full-Day Seminar, November 1</b></th>
-</tr>
+<table class="nice-table" id="table">
 <tr>
 <td>08:30</td>
 <td colspan="2"><b>Doors open, Registration</b></td>
@@ -29,7 +27,7 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 <td>09:40: Karol Riofrio (Halliburton) et al.: <b>Successful Geostopping Using a Recently Developed LWD Look-ahead Ultra-deep EM Resistivity Tool</b> </td>
 </tr>
 <tr>
-<td>10:10: Mathias Horstmann (SLB) et al.: <b>Consistent Real-time Geological Borehole Imaging along with Multi-scale LWD Reservoir Characterization enables Informed Operational Decisions</b> </td>
+<td>10:10: Kjetil Westeng (Aker BP) et al.: <b>Tomorrow's Petrophysics: Blending Big Data,  Artificial Intelligence and Human Insight</b> </td>
 </tr>
 <tr>
 <td>10:40</td>
@@ -65,7 +63,7 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 <tr>
 <td rowspan="2">14:50 - 15:50</td>
 <td rowspan="2">Digitalization, AI</td>
-<td>14:50: Egil Boye Petersen (Norway): <b>The importance of structuring and digitizing Rock and Fluid data to improving subsurface analysis and modelling workflows</b> </td>
+<td>14:50: Egil Boye Petersen (Aker BP): <b>The importance of structuring and digitizing Rock and Fluid data to improving subsurface analysis and modelling workflows</b> </td>
 </tr>
 <tr>
 <td>15:20: Frode Ungar (Equinor ASA) et al.: <b>Improved Reservoir Fluid Estimation for Prospect Evaluation Using Mud Gas Data</b> </td>
@@ -83,11 +81,11 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 
 ## Registration and sponsorship
 
-**[Register](https://forms.gle/A6RVTrgZHC6GBdx67) to join the seminar** and get NFES membership!**
+**[Register](https://forms.gle/A6RVTrgZHC6GBdx67) to join the seminar** and get NFES membership!
 
-**Claim unique sponsor benefits** with a 15,000 NOK package. Please, **contact [Annette Larsen](mailto:alarsen@logtek.no)**
+**Claim unique sponsor benefits** with a 15,000 NOK package. Please, contact **[Annette Larsen](mailto:alarsen@logtek.no)**
 
-### NFES Sponsors
+**NFES Sponsors 2023**
 
 | ROGII       | Aker BP     | Equinor     | Logtek      | SLB    |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
