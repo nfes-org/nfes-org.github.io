@@ -28,7 +28,7 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 <td>09:40: Karol Riofrio (Halliburton) et al.: <b>Successful Geostopping Using a Recently Developed LWD Look-ahead Ultra-deep EM Resistivity Tool</b> </td>
 </tr>
 <tr>
-<td>10:10: Kjetil Westeng (Aker BP) et al.: <b>Tomorrow's Petrophysics: Blending Big Data,  Artificial Intelligence and Human Insight</b> </td>
+<td>10:10: Sven S. Gundersen (Repsol Norge) et al.: <b>Multi-scale Reservoir Characterization using LWD Technologies for Informed Operational Decisions, Yme Field, Norway</b> </td>
 </tr>
 <tr>
 <td>10:40</td>
@@ -78,7 +78,6 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 <td colspan="2"><b>End of Seminar</b></td>
 </tr>
 </table>
-
 
 ## Registration and sponsorship
 
