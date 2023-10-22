@@ -16,7 +16,7 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 <td colspan="2"><b>Doors open, Registration</b></td>
 </tr>
 <tr>
-<td>09:00 - 09:10</td>
+<td>09:00</td>
 <td colspan="2"><b>Opening</b></td>
 </tr>
 <tr>
