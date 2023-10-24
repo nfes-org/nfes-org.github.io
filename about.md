@@ -23,7 +23,8 @@ key: page-about
             the NFES Fund finances research projects, supports publications and awards members
             who publish papers or make particularly strong contributions to the development
             of Formation Evaluation. So, if you want to take part in all this, renew your membership,
-            or <a href="/signup.html">apply for membership</a> already today.</p>
+            or apply for membership already today.</p>
+            <!-- <a href="/signup.html">apply for membership</a> already today.</p> -->
         <table class="table">
             <tbody>
             <tr>
