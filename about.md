@@ -56,7 +56,7 @@ key: page-about
                 </td>
             </tr>
         </tbody></table>
-        <p>To activate your membership: 1. Pay your dues (600 NOK for year 2023/2024) to the NFES account number <b>marking the payment with your name</b>. 2. Send an email to vp_member@nfes.org stating your name, affiliation, and confirming your payemnt.</p>
+        <p>To activate your membership: 1. Pay your dues (600 NOK for year 2023/2024) to the NFES account number <b>marking the payment with your name</b>. 2. Send an email to vp_member@nfes.org stating your name, affiliation, and confirming your payment.</p>
         <h2>History</h2>
         <p>
             The Norwegian Formation Evaluation Society (NFES) was founded on March 23, 1981, with the primary goal of sharing knowledge about formation evaluation to support oil and gas operations on the Norwegian Continental Shelf. Simultaneously, NFES aimed to connect with the global Society of Petrophysicists and Well Log Analysts (SPWLA) to facilitate knowledge sharing beyond borders and take an active role in global events.
