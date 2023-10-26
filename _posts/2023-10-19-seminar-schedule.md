@@ -85,8 +85,10 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 
 **Claim unique sponsor benefits** with a 15,000 NOK package. Please, contact **[Annette Larsen](mailto:alarsen@logtek.no)**
 
-**NFES Sponsors 2023**
+**Event sponsor**
 
-| ROGII       | Aker BP     | Equinor     | Logtek      | SLB    |
-|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| <img class="image" alt="ROGII Inc. logo" src="/assets/logos/rogii_logo_index-1.png"/>  | <img class="image" alt="Aker BP logo" src="/assets/logos/akerbplogo.png"/> | <img class="image" alt="Equinor logo" src="/assets/logos/equinorlogo.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> |  <img class="image" alt="SLB logo" src="/assets/logos/SLB_Logo_2022.png"/> |
+| Logtek      |
+|:-----------:|
+| <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> |
+
+
