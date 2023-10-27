@@ -3,9 +3,9 @@ import re
 from os.path import exists
 
 
-publish_date = "2022-10-14"
-presentation_date = "2022-11-01"
-tags = "workshop2022abstract"
+publish_date = "2023-10-27"
+presentation_date = "2023-11-01"
+tags = "seminar2023abstract"
 target_folder = "../_posts/"
 
 
@@ -56,7 +56,7 @@ def create_file(row, id):
 
 
 if __name__ == "__main__":
-    abstracts_data = pd.read_csv('~/Downloads/Abstract submission geosteering (Responses) - Form responses 1 (4).csv')
+    abstracts_data = pd.read_csv('~/Downloads/Abstract submission formation evaluation (Responses) - Form responses 1.csv')
     print(abstracts_data)
     for index, row in abstracts_data.iterrows():
         create_file(row, index+1)
