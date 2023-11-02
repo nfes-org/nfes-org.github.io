@@ -47,6 +47,10 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 <td colspan="2"><b>Lunch</b></td>
 </tr>
 <tr>
+<td>12:55</td>
+<td colspan="2"><b>A few words from Mathias Horstmann, SPWLA Director Europe</b></td>
+</tr>
+<tr>
 <td rowspan="3">13:00 - 14:30</td>
 <td rowspan="3">Digitalization, AI</td>
 <td>13:00: Kjetil Westeng (Aker BP) et al.: <b>Tomorrow's Petrophysics: Blending Big Data,  Artificial Intelligence and Human Insight</b> <a href="https://nfes.org/2023/10/27/tomorrow's-workshop-abstract-16.html">(abstract)</a></td>
@@ -71,7 +75,7 @@ The Norwegian Formation Evaluation Society, a chapter of SPWLA is pleased to inv
 </tr>
 <tr>
 <td>15:50</td>
-<td colspan="2"><b>Closing</b></td>
+<td colspan="2"><b>Closing remarks (Dler Mirza, NFES President)</b></td>
 </tr>
 <tr>
 <td>16:00</td>
