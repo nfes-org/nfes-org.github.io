@@ -47,6 +47,7 @@
       </li>
       {% for company_id in site.data.sponsors %}
         {% assign company = company_id %}
+        {% assign cur_date = site.time | date: '%Y%' %}
         <li>
           <a 
           itemprop="sameAs" href="{{ company.link }}" 
@@ -54,6 +55,7 @@
           target="_blank">
           <img class="image image--sm" alt="{{ company.name }} logo" src="{{ company.logo }}">
           </a>
+          {{ cur_date }}
         </li>
       {% endfor %}
 
