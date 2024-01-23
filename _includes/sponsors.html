@@ -46,8 +46,8 @@
         </a>
       </li>
       {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
-      {%- for company in site.data.sponsors | date: "%Y-%m-%d" -%}
-      {%- assign company_timestamp = company.valid_until -%}
+      {%- for company in site.data.sponsors -%}
+      {%- assign company_timestamp = company.valid_until | date: "%Y-%m-%d" -%}
         {%- if site_timestamp < company_timestamp -%}
           <li>
             <a 
