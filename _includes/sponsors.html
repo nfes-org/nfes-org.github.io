@@ -49,10 +49,10 @@
         {% assign company = company_id %}
         <li>
           <a 
-          itemprop="sameAs" href="{{company.link}}" 
+          itemprop="sameAs" href="{{ company.link }}" 
           rel="noreferrer"
           target="_blank">
-          <img class="image image--sm" alt="{{company.name}} logo" src="{{company.logo}}">
+          <img class="image image--sm" alt="{{ company.name }} logo" src="{{ company.logo }}">
           </a>
         </li>
       {% endfor %}
