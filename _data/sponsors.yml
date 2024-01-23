@@ -1,3 +1,8 @@
 - name: ROGII
   logo: /assets/logos/rogii_logo_index-1.png
   link: https://www.rogii.com/
+  valid_until: 2024-02-01
+- name: Hydrophilic
+  logo: /assets/logos/Hydrophilic-LOGO2.png
+  link: https://www.hydrophilic.no/
+  valid_until: 2023-02-01
