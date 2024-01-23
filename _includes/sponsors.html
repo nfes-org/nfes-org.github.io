@@ -5,46 +5,6 @@
     Sponsors
   </ul>
   <ul class="menu menu--nowrap menu--inline">
-      <li>
-        <a 
-        itemprop="sameAs" href="https://akerbp.com/en/" 
-        rel="noreferrer"
-        target="_blank">
-        <img class="image image--sm" src="/assets/logos/akerbplogo.png">
-        </a>
-      </li>
-      <li>
-        <a 
-        itemprop="sameAs" href="https://www.equinor.com/" 
-        rel="noreferrer"
-        target="_blank">
-        <img class="image image--sm" src="/assets/logos/equinorlogo.png">
-        </a>
-      </li>
-      <!-- <li>
-        <a 
-        itemprop="sameAs" href="https://www.rogii.com/" 
-        rel="noreferrer"
-        target="_blank">
-        <img class="image image--sm" src="/assets/logos/rogii_logo_index-1.png">
-        </a>
-      </li> -->
-      <li>
-        <a 
-        itemprop="sameAs" href="https://www.logtek.no/" 
-        rel="noreferrer"
-        target="_blank">
-        <img class="image image--sm" src="/assets/logos/Logtek.png">
-        </a>
-      </li>
-      <li>
-        <a 
-        itemprop="sameAs" href="https://www.slb.com/" 
-        rel="noreferrer"
-        target="_blank">
-        <img class="image image--sm" src="/assets/logos/SLB_Logo_2022.png">
-        </a>
-      </li>
       {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
       {%- for company in site.data.sponsors -%}
       {%- assign company_timestamp = company.valid_until | date: "%Y-%m-%d" -%}
@@ -54,7 +14,7 @@
             itemprop="sameAs" href="{{ company.link }}" 
             rel="noreferrer"
             target="_blank">
-            <img class="image image--sm" alt="{{ company.name }} logo" src="{{ company.logo }}">
+            <img class="image image--sm" alt="{{ company.name }} logo, confirmed until {{ company_timestamp }}" src="{{ company.logo }}">
             </a>
           </li>
         {%- endif -%}
