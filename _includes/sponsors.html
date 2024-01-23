@@ -46,7 +46,7 @@
         </a>
       </li>
       {%- for company in site.data.sponsors -%}
-        {%- assign cur_date site.time | date: '%y' -%}
+        {%- assign cur_date = site.time | date: '%y' -%}
         <li>
           <a 
           itemprop="sameAs" href="{{ company.link }}" 
