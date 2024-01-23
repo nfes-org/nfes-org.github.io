@@ -21,14 +21,14 @@
         <img class="image image--sm" src="/assets/logos/equinorlogo.png">
         </a>
       </li>
-      <li>
+      <!-- <li>
         <a 
         itemprop="sameAs" href="https://www.rogii.com/" 
         rel="noreferrer"
         target="_blank">
         <img class="image image--sm" src="/assets/logos/rogii_logo_index-1.png">
         </a>
-      </li>
+      </li> -->
       <li>
         <a 
         itemprop="sameAs" href="https://www.logtek.no/" 
@@ -45,5 +45,17 @@
         <img class="image image--sm" src="/assets/logos/SLB_Logo_2022.png">
         </a>
       </li>
+      {% for company_id in site.data.sponsors %}
+        {% assign company = company_id %}
+        <li>
+          <a 
+          itemprop="sameAs" href="{{company.link}}" 
+          rel="noreferrer"
+          target="_blank">
+          <img class="image image--sm" alt="{{company.name}} logo" src="{{company.logo}}">
+          </a>
+        </li>
+      {% endfor %}
+
   </ul>
 </div>
