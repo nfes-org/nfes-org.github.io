@@ -45,7 +45,7 @@
         <img class="image image--sm" src="/assets/logos/SLB_Logo_2022.png">
         </a>
       </li>
-      {% for company in site.data.sponsors %}
+      {%- for company in site.data.sponsors -%}
         <!-- {% assign cur_date = site.time | date: '%Y%' %} -->
         <li>
           <a 
@@ -56,7 +56,7 @@
           </a>
           <!-- {{ cur_date }} -->
         </li>
-      {% endfor %}
+      {%- endfor -%}
 
   </ul>
 </div>
