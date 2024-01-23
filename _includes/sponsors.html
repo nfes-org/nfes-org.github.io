@@ -45,16 +45,19 @@
         <img class="image image--sm" src="/assets/logos/SLB_Logo_2022.png">
         </a>
       </li>
+      {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
       {%- for company in site.data.sponsors -%}
-        {%- assign cur_date = site.time | date: "%Y-%m-%d" -%}
-        <li>
-          <a 
-          itemprop="sameAs" href="{{ company.link }}" 
-          rel="noreferrer"
-          target="_blank">
-          <img class="image image--sm" alt="{{ company.name }} logo" src="{{ company.logo }}">
-          </a>
-        </li>
+      {% assign company_timestamp = company.valid_until %}
+        {% if site_timestamp < company_timestamp %}
+          <li>
+            <a 
+            itemprop="sameAs" href="{{ company.link }}" 
+            rel="noreferrer"
+            target="_blank">
+            <img class="image image--sm" alt="{{ company.name }} logo" src="{{ company.logo }}">
+            </a>
+          </li>
+        {% endif %}
       {%- endfor -%}
 
   </ul>
