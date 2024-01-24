@@ -1,12 +1,12 @@
 - name: Aker BP
   logo: /assets/logos/akerbplogo.png
   link: https://akerbp.com/en/
-  valid_until: 2024-03-01
+  valid_until: 2024-08-01
 
 - name: Equinor
   logo: /assets/logos/equinorlogo.png
   link: https://www.equinor.com/
-  valid_until: 2024-03-01
+  valid_until: 2024-08-01
 
 - name: Hydrophilic
   logo: /assets/logos/Hydrophilic-LOGO2.png
