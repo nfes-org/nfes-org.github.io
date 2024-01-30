@@ -1,0 +1,91 @@
+---
+layout: page
+---
+
+{%- include snippets/assign.html
+  target = site.data.variables.default.page.sharing
+  source0=layout.sharing source1=page.sharing -%}
+{%- assign _sharing = __return -%}
+
+<div class="layout--article">
+  {%- include article/top/custom.html -%}
+
+  <div class="article__content" itemprop="articleBody">{{ content }}</div>
+
+
+</div>
+
+
+<h3>We organise meeting about formation evaluation every month</h3>
+<div class="hero hero--light hero-example--linear-gradient" >
+    <div class="hero__content">
+      <h3 id="next-meeting">The Next Stavanger Monthly Technical Meeting</h3>
+      <p><span id="will-be">will be</span> at 
+        <span id="time-presnted">
+        {% if site.tags["presentation"][0].presentation_time %}
+          {{site.tags["presentation"][0].presentation_time}}
+        {% else %}
+          11:00
+        {% endif %}
+        </span>
+        on {{site.tags["presentation"][0].presentation_date | date: "%A, %B %-d"}} 
+        {% if site.tags["presentation"][0].place %}
+          {{site.tags["presentation"][0].place}}.
+        {% else %}
+          at <a href=https://www.solastrandengaard.no>Solastranden Gård</a>.
+        {% endif %}
+      </p>
+      <p><b>Title:</b> {{site.tags["presentation"][0].title}}</p>
+      <a class="button button--primary button--pill" href="{{site.tags['presentation'][0].url}}">Read the abstract!</a>
+    </div>
+</div>
+
+<!-- <div class="p-4"></div> -->
+<div class="padding: ($spacer * 3.5);"></div>
+
+<hr>
+
+<!-- <script src="jquery.date-filter.min.js"></script> -->
+
+<script>
+  window.onload = myFunction;
+
+  function myFunction() {
+    let myElement = document.getElementById("next-meeting");
+    let element2 = document.getElementById("will-be");
+    let presentationDate = new Date("{{site.tags['presentation'][0].presentation_date}}");
+    let now = Date.now()-14*60*60*1000;
+    if (presentationDate<=now){
+      myElement.textContent = "The Previous Stavanger Monthly Technical Meeting";
+      element2.textContent = "was";
+    }
+    // {{site.tags["presentation"][0].date}}
+  }
+</script>
+
+<style>
+    .hero-example--linear-gradient {
+      background-image: linear-gradient(180deg, 
+      rgba(94, 216, 254, 0.5), 
+      #e4ff8277), url("assets/images/near-gaard.jpg");
+    }
+</style>
+<style>
+  .hero-example--linear-gradient--sunset {
+    background-image: linear-gradient(180deg, 
+      rgba(94, 216, 254, 0.7), 
+      #e4ff82aa), url("/assets/events/Stavanger-Port-at-Dawn-cropped.jpg");
+  }
+</style>
+<style>
+  .hero-example--linear-gradient--dark {
+    background-image: 
+    linear-gradient(180deg, 
+    rgba(249,	247,	192		, 1), 
+    rgba(249,	247,	192		, .5)), url("/assets/events/Stavanger-Port-at-Dawn-cropped.jpg");
+  }
+</style>
+
+<!-- <h3>Join our annual Formation Evaluation Full-Day Seminar</h3> -->
+
+
