@@ -27,7 +27,7 @@ layout: none
       padding: 20px;
     }
     .content img {
-      max-width: 15%; /* Adjusted the width to 15% */
+      max-width: 18%; /* Adjusted the width to 18% */
       height: auto;
     }
     .meeting-info {
@@ -125,6 +125,8 @@ layout: none
           </script>
 
         <p><b>When: </b>
+            {{site.tags["presentation"][0].presentation_date | date: "%A, %B %-d"}} 
+
             at
             {% if site.tags["presentation"][0].presentation_time %}
                 {{site.tags["presentation"][0].presentation_time}}
