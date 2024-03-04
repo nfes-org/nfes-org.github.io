@@ -92,10 +92,36 @@ layout: none
     <div class="meeting-info">
         <h2>NFES Monthly Technical Meeting:</h2>
 
+        <h3> Title: <span id="processedTitle">site.tags["presentation"][0].title</span> </h3>
+
         {% if site.tags["presentation"][0].presenter %}
-        <p>TITLE</p>
-            <p>Presenter: {{site.tags["presentation"][0].presenter}}</p>
+            <p id='presenter'> Presenter: 
+                {{site.tags["presentation"][0].presenter}}
+                {% if site.tags["presentation"][0].presenter_affiliation %}
+                    from
+                    {{site.tags["presentation"][0].presenter_affiliation}}
+                {% endif %}
+            </p>
         {% endif %}
+
+        <script>
+            function removeContentInParentheses(str) {
+              return str.replace(/ *\([^)]*\) */g, "");
+            }
+        
+            function setProcessedTitle(title) {
+              var processedTitle = removeContentInParentheses(title);
+              document.getElementById('processedTitle').textContent = processedTitle;
+            }
+        
+            // Once the DOM is fully loaded, check the presenter content and call the function
+            document.addEventListener("DOMContentLoaded", function() {
+              var presenterContent = document.getElementById('presenter').textContent;
+              if (presenterContent) {
+                setProcessedTitle('{{ site.tags["presentation"][0].title | escape }}');
+              }
+            });
+          </script>
 
         <p>When: 
             at
