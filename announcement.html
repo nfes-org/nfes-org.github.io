@@ -4,6 +4,11 @@ layout: none
 
 <title>NFES Monthly Technical Meeting Announcement</title>
 <style>
+    .page-container {
+      max-width: 1280px;
+      margin: 0 auto; /* This centers the container */
+      padding: 0 20px; /* Optional: for some padding on the sides */
+    }
     body {
       font-family: Arial, sans-serif;
       margin: 0;
@@ -45,65 +50,67 @@ layout: none
       font-size: 1.5em; /* Adjust the font size as needed */
     }
     .footer ul {
-      padding: 0;
-      margin: 0;
-      list-style-type: none; /* No bullets */
-      display: flex; /* Aligns logos side-by-side */
+      display: flex;
+      flex-direction: row; /* Ensures that the logos are side by side */
       justify-content: center; /* Center the logos */
-      flex-wrap: wrap; /* Wrap logos to next line on small screens */
+      flex-wrap: wrap; /* Allows logos to wrap */
+      list-style-type: none;
+      padding: 0;
     }
-    .footer li {
-      display: inline-block; /* Inline block for side-by-side */
-      margin: 5px; /* Adds margin around each logo */
+    .footer ul li {
+      display: inline-block; /* Inline block for the list items */
+      margin: 5px; /* Space around each logo */
     }
     .footer img {
-      display: block; /* Ensure the image is block-level to respect margins */
-      max-height: 50px; /* Fixed height for uniformity */
-      width: auto; /* Maintain aspect ratio */
-      margin: 0 10px; /* Spacing between logos */
+      display: block; /* Corrects any inline behaviors and aligns with flex */
+      max-height: 50px; /* Keeps your image heights uniform */
+      width: auto; /* Maintains aspect ratio */
+      margin: 0 10px; /* Space on the sides */
     }
 </style>
 
+<div class="page-container">
+    <div class="header">
+        <img src="/assets/images/TITTEL_NFES.jpg" 
+        alt="NFES - Norwegian Formation Evaluation Society" 
+        style="max-width: 100%; height: auto;">
+    </div>
 
-<div class="header">
-    <img src="/assets/images/TITTEL_NFES.jpg" 
-    alt="NFES - Norwegian Formation Evaluation Society" 
-    style="max-width: 100%; height: auto;">
-</div>
 
-<div class="content">
-  <!-- Image of the geological layers -->
-  <img src="/assets/DALLE-2024-02-02-layers.jpg" alt="Geological Layers">
+    <div class="content">
+    <!-- Image of the geological layers -->
+    <img src="/assets/DALLE-2024-02-02-layers.jpg" alt="Geological Layers">
 
-  <!-- Information about the presentation -->
-  <div class="meeting-info">
-    <h2>NFES Monthly Technical Meeting:</h2>
-    <p>TITLE</p>
-    <p>Presenter: Him or Her</p>
-    <p>When: ...</p>
-    <!-- <p>{{ presentation_title }}</p>
-    <p>Presenter: {{ presenter_name }}</p>
-    <p>When: {{ presentation_date_and_time }}</p> -->
-    <p>Where: Solastranden Gård</p>
-  </div>
-</div>
+    <!-- Information about the presentation -->
+    <div class="meeting-info">
+        <h2>NFES Monthly Technical Meeting:</h2>
+        <p>TITLE</p>
+        <p>Presenter: Him or Her</p>
+        <p>When: ...</p>
+        <!-- <p>{{ presentation_title }}</p>
+        <p>Presenter: {{ presenter_name }}</p>
+        <p>When: {{ presentation_date_and_time }}</p> -->
+        <p>Where: Solastranden Gård</p>
+    </div>
+    </div>
 
-<div class="footer">
-  <!-- Loop through sponsors and display their logos
-  {% for sponsor in site.data.sponsors %}
-    <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}">
-  {% endfor %} -->
-  <h3>Our Sponsors</h3>
-  <ul>
-  {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
-  {%- for company in site.data.sponsors -%}
-  {%- assign company_timestamp = company.valid_until | date: "%Y-%m-%d" -%}
-    {%- if site_timestamp < company_timestamp -%}
-        <li>
-            <img src="{{ company.logo | asset_url }}" alt="{{ company.name }}">
-        </li>
-    {%- endif -%}
-  {%- endfor -%}
-  </ul>
+    <div class="footer">
+    <!-- Loop through sponsors and display their logos
+    {% for sponsor in site.data.sponsors %}
+        <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}">
+    {% endfor %} -->
+    <h3>Our Sponsors</h3>
+    <ul>
+    {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
+    {%- for company in site.data.sponsors -%}
+    {%- assign company_timestamp = company.valid_until | date: "%Y-%m-%d" -%}
+        {%- if site_timestamp < company_timestamp -%}
+            <li>
+                <img src="{{ company.logo | asset_url }}" alt="{{ company.name }}">
+            </li>
+        {%- endif -%}
+    {%- endfor -%}
+    </ul>
+    </div>
 </div>
 
