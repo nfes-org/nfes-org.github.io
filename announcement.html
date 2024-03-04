@@ -1,6 +1,7 @@
 ---
 layout: none
 ---
+
 <title>NFES Monthly Technical Meeting Announcement</title>
 <style>
   body {
@@ -32,11 +33,16 @@ layout: none
   }
   .meeting-info h2, .meeting-info p {
     margin: 5px 0;
-  }
-  .footer {
+    .footer {
     display: flex;
     justify-content: center;
     padding: 20px;
+    list-style-type: none; /* This removes the bullet points */
+  }
+  .footer ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none; /* This ensures that there are no bullet points */
   }
   .footer img {
     margin: 0 10px;
@@ -47,7 +53,9 @@ layout: none
 <body>
 
 <div class="header">
-  <h1>NFES - Norwegian Formation Evaluation Society</h1>
+    <img src="'assets/images/TITTEL_NFES.jpg'" 
+    alt="NFES - Norwegian Formation Evaluation Society" 
+    style="max-width: 100%; height: auto;">
 </div>
 
 <div class="content">
@@ -87,3 +95,4 @@ layout: none
     {%- endif -%}
   {%- endfor -%}
 </div>
+
