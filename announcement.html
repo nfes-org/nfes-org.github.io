@@ -94,6 +94,7 @@ layout: none
     <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}">
   {% endfor %} -->
   <h3>Our Sponsors</h3>
+  <ul>
   {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
   {%- for company in site.data.sponsors -%}
   {%- assign company_timestamp = company.valid_until | date: "%Y-%m-%d" -%}
@@ -103,5 +104,6 @@ layout: none
         </li>
     {%- endif -%}
   {%- endfor -%}
+  </ul>
 </div>
 
