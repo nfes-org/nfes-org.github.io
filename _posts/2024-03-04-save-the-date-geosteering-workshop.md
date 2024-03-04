@@ -5,6 +5,7 @@ cover: assets/events/save-the-date-geosteering-2024.jpg
 cover_size: lg
 pageview: true
 excerpt: "Start preparing your abstract for the Geosteering Workshop by NORCE and NFES: November 11-13. Stavanger, Norway."
+presentation_date: 2024-11-12
 ---
 <style>
   .hero-example--linear-gradient {
