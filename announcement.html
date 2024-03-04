@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NFES Monthly Technical Meeting Announcement</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+  }
+  .header {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 20px;
+  }
+  .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+  }
+  .content img {
+    max-width: 45%;
+    height: auto;
+  }
+  .meeting-info {
+    max-width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .meeting-info h2, .meeting-info p {
+    margin: 5px 0;
+  }
+  .footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  .footer img {
+    margin: 0 10px;
+    height: 50px;
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>NFES - Norwegian Formation Evaluation Society</h1>
+</div>
+
+<div class="content">
+  <!-- Image of the geological layers -->
+  <img src="assets/DALLE-2024-02-02-layers.jpg" alt="Geological Layers">
+
+  <!-- Information about the presentation -->
+  <div class="meeting-info">
+    <h2>NFES Monthly Technical Meeting:</h2>
+    <p>TITLE</p>
+    <p>Presenter: Him or Her</p>
+    <p>When: ...</p>
+    <!-- <p>{{ presentation_title }}</p>
+    <p>Presenter: {{ presenter_name }}</p>
+    <p>When: {{ presentation_date_and_time }}</p> -->
+    <p>Where: Solastranden Gård</p>
+  </div>
+</div>
+
+<div class="footer">
+  <!-- Loop through sponsors and display their logos -->
+  {% for sponsor in site.data.sponsors %}
+    <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}">
+  {% endfor %}
+</div>
+
+</body>
+</html>
