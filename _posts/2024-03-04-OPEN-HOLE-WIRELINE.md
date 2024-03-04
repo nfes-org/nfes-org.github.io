@@ -1,6 +1,11 @@
 ---
 tags: presentation
 title: "OPEN-HOLE WIRELINE CONVEYANCE RISK MANAGEMENT (Guy Wheater, Gaia Earth Group)"
+presenter: Guy Wheater 
+presenter_affiliation: Gaia Earth Group
+presenter_photo: /assets/DALLE-2024-02-02-layers.jpg
+place: Solastranden Gård
+presentation_time: "11:00"
 presentation_date: 2024-03-06
 ---
 

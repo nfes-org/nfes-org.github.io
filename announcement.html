@@ -57,14 +57,16 @@ layout: none
       list-style-type: none;
       padding: 0;
     }
+
     .footer ul li {
-      display: inline-block; /* Inline block for the list items */
+      display: inline-flex; /* Flex to help with vertical alignment */
       margin: 5px; /* Space around each logo */
+      align-items: center; /* Align items vertically */
     }
+
     .footer img {
-      display: block; /* Corrects any inline behaviors and aligns with flex */
-      max-height: 50px; /* Keeps your image heights uniform */
-      width: auto; /* Maintains aspect ratio */
+      max-width: 100px; /* Sets a standard width for all logos */
+      height: auto; /* Adjusts height automatically to maintain aspect ratio */
       margin: 0 10px; /* Space on the sides */
     }
 </style>
@@ -79,18 +81,41 @@ layout: none
 
     <div class="content">
     <!-- Image of the geological layers -->
-    <img src="/assets/DALLE-2024-02-02-layers.jpg" alt="Geological Layers">
+    
+    {% if site.tags["presentation"][0].presenter_photo %}
+        <img src="{{ site.tags["presentation"][0].presenter_photo }}">
+    {% else %}
+        <img src="/assets/DALLE-2024-02-02-layers.jpg" alt="Geological Layers">
+    {% endif %}
 
     <!-- Information about the presentation -->
     <div class="meeting-info">
         <h2>NFES Monthly Technical Meeting:</h2>
+
+        {% if site.tags["presentation"][0].presenter %}
         <p>TITLE</p>
-        <p>Presenter: Him or Her</p>
-        <p>When: ...</p>
-        <!-- <p>{{ presentation_title }}</p>
-        <p>Presenter: {{ presenter_name }}</p>
-        <p>When: {{ presentation_date_and_time }}</p> -->
-        <p>Where: Solastranden Gård</p>
+            <p>Presenter: {{site.tags["presentation"][0].presenter}}</p>
+        {% endif %}
+
+        <p>When: 
+            at
+            {% if site.tags["presentation"][0].presentation_time %}
+                {{site.tags["presentation"][0].presentation_time}}
+            {% else %}
+                11:00
+            {% endif %}
+            on 
+            {{site.tags["presentation"][0].presentation_date | date: "%A, %B %-d"}} 
+        </p>
+
+        <p>Where: 
+          {% if site.tags["presentation"][0].place %}
+            {{site.tags["presentation"][0].place}}.
+          {% else %}
+            Solastranden Gård
+          {% endif %}
+        </p>
+
     </div>
     </div>
 
