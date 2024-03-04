@@ -39,10 +39,26 @@ layout: none
     padding: 20px;
     list-style-type: none; /* This removes the bullet points */
   }
+  .footer {
+    display: flex;
+    flex-direction: column; /* Changed to column to stack the heading and the logo list */
+    align-items: center; /* Center alignment of the footer items */
+    padding: 20px;
+  }
+  .footer h3 {
+    margin-bottom: 15px; /* Adds space below the heading */
+    font-size: 1.5em; /* Adjust the font size as needed */
+  }
   .footer ul {
     padding: 0;
     margin: 0;
-    list-style-type: none; /* This ensures that there are no bullet points */
+    list-style-type: none;
+    display: flex;
+    justify-content: center; /* Center the logos if the list is shorter than full width */
+    flex-wrap: wrap; /* Ensures logos wrap on smaller screens */
+  }
+  .footer ul li {
+    margin: 5px; /* Adds margin around each logo */
   }
   .footer img {
     margin: 0 10px;
@@ -53,14 +69,14 @@ layout: none
 <body>
 
 <div class="header">
-    <img src="'assets/images/TITTEL_NFES.jpg'" 
+    <img src="/assets/images/TITTEL_NFES.jpg" 
     alt="NFES - Norwegian Formation Evaluation Society" 
     style="max-width: 100%; height: auto;">
 </div>
 
 <div class="content">
   <!-- Image of the geological layers -->
-  <img src="assets/DALLE-2024-02-02-layers.jpg" alt="Geological Layers">
+  <img src="/assets/DALLE-2024-02-02-layers.jpg" alt="Geological Layers">
 
   <!-- Information about the presentation -->
   <div class="meeting-info">
@@ -80,18 +96,14 @@ layout: none
   {% for sponsor in site.data.sponsors %}
     <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}">
   {% endfor %} -->
+  <h3>Our Sponsors</h3>
   {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
   {%- for company in site.data.sponsors -%}
   {%- assign company_timestamp = company.valid_until | date: "%Y-%m-%d" -%}
     {%- if site_timestamp < company_timestamp -%}
-      <li>
-        <a 
-        itemprop="sameAs" href="{{ company.link }}" 
-        rel="noreferrer"
-        target="_blank">
-        <img class="image image--sm" alt="{{ company.name }} logo, confirmed until {{ company_timestamp }}" src="{{ company.logo }}">
-        </a>
-      </li>
+        <li>
+            <img src="{{ company.logo | asset_url }}" alt="{{ company.name }}">
+        </li>
     {%- endif -%}
   {%- endfor -%}
 </div>
