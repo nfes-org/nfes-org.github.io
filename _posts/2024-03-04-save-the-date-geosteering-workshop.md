@@ -1,6 +1,6 @@
 ---
 title: Save the dates for Geosteering and Formation Evaluation Workshop by NORCE and NFES 2024
-tags: News
+tags: News Event UpcomingEvent
 cover: assets/events/save-the-date-geosteering-2024.jpg
 cover_size: lg
 pageview: true
