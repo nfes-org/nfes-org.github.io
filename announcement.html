@@ -70,10 +70,24 @@
 </div>
 
 <div class="footer">
-  <!-- Loop through sponsors and display their logos -->
+  <!-- Loop through sponsors and display their logos
   {% for sponsor in site.data.sponsors %}
     <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}">
-  {% endfor %}
+  {% endfor %} -->
+  {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
+  {%- for company in site.data.sponsors -%}
+  {%- assign company_timestamp = company.valid_until | date: "%Y-%m-%d" -%}
+    {%- if site_timestamp < company_timestamp -%}
+      <li>
+        <a 
+        itemprop="sameAs" href="{{ company.link }}" 
+        rel="noreferrer"
+        target="_blank">
+        <img class="image image--sm" alt="{{ company.name }} logo, confirmed until {{ company_timestamp }}" src="{{ company.logo }}">
+        </a>
+      </li>
+    {%- endif -%}
+  {%- endfor -%}
 </div>
 
 </body>
