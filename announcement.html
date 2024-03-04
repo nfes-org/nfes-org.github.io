@@ -36,10 +36,9 @@ layout: none
     } /* This curly brace was missing */
     .footer {
       display: flex;
-      flex-direction: column; /* Changed to column to stack the heading and the logo list */
+      flex-direction: column; /* To stack the heading and the logos list */
       align-items: center; /* Center alignment of the footer items */
       padding: 20px;
-      list-style-type: none; /* This removes the bullet points */
     }
     .footer h3 {
       margin-bottom: 15px; /* Adds space below the heading */
@@ -48,17 +47,20 @@ layout: none
     .footer ul {
       padding: 0;
       margin: 0;
-      list-style-type: none;
-      display: flex;
-      justify-content: center; /* Center the logos if the list is shorter than full width */
-      flex-wrap: wrap; /* Ensures logos wrap on smaller screens */
+      list-style-type: none; /* No bullets */
+      display: flex; /* Aligns logos side-by-side */
+      justify-content: center; /* Center the logos */
+      flex-wrap: wrap; /* Wrap logos to next line on small screens */
     }
-    .footer ul li {
+    .footer li {
+      display: inline-block; /* Inline block for side-by-side */
       margin: 5px; /* Adds margin around each logo */
     }
     .footer img {
-      margin: 0 10px;
-      height: 50px;
+      display: block; /* Ensure the image is block-level to respect margins */
+      max-height: 50px; /* Fixed height for uniformity */
+      width: auto; /* Maintain aspect ratio */
+      margin: 0 10px; /* Spacing between logos */
     }
 </style>
 
