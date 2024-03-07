@@ -55,8 +55,11 @@ The **call for abstracts** and **sponsorhsip opportunities** will be availbale l
 * Berit Ensted Danielsen (Equinor)
 * David Holbrough (Baker Hughes)
 * David Larsen (Vår Energi)
+* Egil Romsås Fjeldberg (Aker BP)
 * Igor Kuvaev (ROGII)
 * Jean Michel Denichou (SLB)
 * Nazanin Jahani (NORCE)
 *	Nigel Clegg (Halliburton)
-* Sergey Alyaev (NORCE)
+* Sergey Alyaev (NORCE / NFES)
+* Sofia (Sonya) Davydycheva (3DEM Holding)
+
