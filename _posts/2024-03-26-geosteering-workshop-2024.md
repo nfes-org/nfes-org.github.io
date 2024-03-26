@@ -28,7 +28,6 @@ Submit abstracts and plan your visit to the
 
 <!-- Visit [the event page at DigiWells (NORCE)](https://digiwells.no/events/geosteering-2022) for signing up, submissions, and/or sponsorship. -->
 
-### 11-13 November, 2024 <br> Stavanger, Norway
 
 ### Action links
 
