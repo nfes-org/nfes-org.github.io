@@ -25,6 +25,8 @@ presentation_date: 2024-11-12
 
 Save the dates for the **3rd Geosteering and Formation Evaluation Workshop by NORCE and NFES**
 
+[**Link to the Workshop Page**](/2024/03/26/geosteering-workshop-2024.html)
+
 <!-- Visit [the event page at DigiWells (NORCE)](https://digiwells.no/events/geosteering-2022) for signing up, submissions, and/or sponsorship. -->
 
 ### 11-13 November, 2024 <br> Stavanger, Norway
