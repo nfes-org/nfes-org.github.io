@@ -53,7 +53,7 @@ Many innovative solutions pioneered for the North Sea are now commercially avail
 Extensive research, technology development, and investments in innovation remain the key factors that provide more value for each well delivered in the region, keeping it competitive worldwide. 
 With the increased focus on the green shift, the traditional hydrocarbon projects are joined by wells, which enable the energy industry in a broader sense.
 Our precious workshops in 2019 and 2022 each gathered almost 100 experts and got excellent feedback.
-Motivated by the series' success, NFES and NORCE invite you again to the Oil Capital of Norway (Stavanger) to meet other geosteering experts and share the ideas to drive the energy industry forward in the following decades.
+Motivated by the series' success, NFES and NORCE invite you again to the Oil Capital of Norway (Stavanger) to meet other geosteering experts and share ideas to drive the energy industry forward in the following decades.
 
 ## Planned Activities
 * **Plenary technical presentations**
@@ -119,7 +119,7 @@ To find more information about the hotel, visit the [Sola Strand Hotel website](
 
 ## Registration
 
-The registration will open in **Summer 2024**.
+The registration will open in **Summer 2024**. [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A).
 
 <!-- ### Booking of the Sola Strand Hotel
 
