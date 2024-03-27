@@ -35,9 +35,11 @@ or
 
 [Submit your abstract!](https://forms.gle/cv4iqiMepyjEykRc8)
 <span>&#183;</span>
-Sponsorship and marketing
+[Sponsorship](assets/workshop2024/geosteering-workshop-sponsor-NFES-2024-03-27.pdf)
+and 
+[Marketing](/assets/workshop2024/geosteering-workshop-marketing-packages-NFES-2024-03-27.pdf)
+packages
 <span>&#183;</span>
-<!-- <a type="button" href="/assets/geosteering-workshop-2022-flyer-4.pdf" target="_blank"> -->
 Conference flyer
 <span>&#183;</span>
 [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A)
@@ -101,7 +103,10 @@ Motivated by the series' success, NFES and NORCE invite you again to the Oil Cap
 ## Sponsorship and marketing packages available
 
 <!-- <a type="button" href="/assets/geosteering-workshop-2022-Sponsor_Opportunity-nfes.pdf" target="_blank"> -->
-Download the letter to potential sponsors
+Download the 
+**[Letter to Potential Sponsors](assets/workshop2024/geosteering-workshop-sponsor-NFES-2024-03-27.pdf)**
+and the 
+**[Offer Letter with Marketing Packages](/assets/workshop2024/geosteering-workshop-marketing-packages-NFES-2024-03-27.pdf)**.
 <!-- </a> -->
 
 
@@ -158,7 +163,7 @@ To find more information about the hotel, visit the [Sola Strand Hotel website](
 ### Organizing committee
 * Sergey Alyaev: main organizer, abstract submissions (Senior Research Scientist, NORCE; VP Academia, NFES) [saly@norceresearch.no](mailto:saly@norceresearch.no)
 * Nazanin Jahani: co-organizer, booking (Senior Research Scientist, NORCE) [naja@norceresearch.no](mailto:naja@norceresearch.no)
-* Annette Larsen: sponsorship (General Manager Logtek; VP Sponsorship, NFES) 
+* Annette Larsen: sponsorship and marketing packages (General Manager Logtek; VP Sponsorship, NFES) 
 [vp_sponsor@nfes.org](vp_sponsor@nfes.org)
 * Venkat Jambunathan: program (Petrophysist, Halliburton; VP Program, NFES) [vp_program@nfes.org](vp_program@nfes.org)
 
