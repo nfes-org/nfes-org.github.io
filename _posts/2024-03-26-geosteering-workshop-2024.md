@@ -1,7 +1,7 @@
 ---
 title: Geosteering and Formation Evaluation Workshop by NORCE and NFES 2024
 tags: News Event UpcomingEvent
-cover: assets/events/save-the-date-geosteering-2024.jpg
+cover: /assets/events/save-the-date-geosteering-2024.jpg
 cover_size: lg
 pageview: true
 excerpt: "Start preparing your abstract for the Geosteering Workshop by NORCE and NFES: November 11-13. Stavanger, Norway."
