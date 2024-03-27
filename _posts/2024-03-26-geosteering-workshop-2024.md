@@ -52,13 +52,13 @@ the North Sea is in the top league in developing cutting-edge technologies for f
 Many innovative solutions pioneered for the North Sea are now commercially available worldwide. 
 Extensive research, technology development, and investments in innovation remain the key factors that provide more value for each well delivered in the region, keeping it competitive worldwide. 
 With the increased focus on the green shift, the traditional hydrocarbon projects are joined by wells, which enable the energy industry in a broader sense.
-Our precious workshops in 2019 and 2022 each gathered almost 100 experts and got excelent feedback.
-Motivated by the success of the series, NFES and NORCE invite you again to the Oil Capital of Norway (Stavanger) to meet other geosteering experts and share the ideas that would drive the energy industry forward in the following decades.
+Our precious workshops in 2019 and 2022 each gathered almost 100 experts and got excellent feedback.
+Motivated by the series' success, NFES and NORCE invite you again to the Oil Capital of Norway (Stavanger) to meet other geosteering experts and share the ideas to drive the energy industry forward in the following decades.
 
 ## Planned Activities
 * **Plenary technical presentations**
 * Sponsor exhibition 
-* Panel discussion: “Where is the geosteering going the next 10 years?”
+* Panel discussion: “Where is the geosteering going in the next 10 years?”
 * Kahoot! quiz
 * Possible poster session
 
@@ -118,7 +118,7 @@ To find more information about the hotel, visit the [Sola Strand Hotel website](
 
 ## Registration
 
-The registartion will open in **Summer 2024**.
+The registration will open in **Summer 2024**.
 
 <!-- ### Booking of the Sola Strand Hotel
 
@@ -146,14 +146,6 @@ To find more information about the hotel, visit the [Sola Strand Hotel website](
   </div>
 </div>
 
-
-### Organizing committee
-* Sergey Alyaev: main organizer, abstract submissions (Senior Research Scientist, NORCE; VP Academia, NFES) [saly@norceresearch.no](mailto:saly@norceresearch.no)
-* Nazanin Jahani: co-organizer, booking (Senior Research Scientist, NORCE) [naja@norceresearch.no](mailto:naja@norceresearch.no)
-* Annette Larsen: sponsorship (General Manager Logtek; VP Sponsorship, NFES) 
-[vp_sponsor@nfes.org](vp_sponsor@nfes.org)
-* Venkat Jambunathan: program (Petrophysist, haliburton; VP Program, NFES) 
-
 ### Technical Committee
 * Berit Ensted Danielsen (Equinor)
 * David Holbrough (Baker Hughes)
@@ -165,4 +157,13 @@ To find more information about the hotel, visit the [Sola Strand Hotel website](
 *	Nigel Clegg (Halliburton)
 * Sergey Alyaev (NORCE / NFES)
 * Sofia Davydycheva (3DEM Holding)
+
+### Organizing committee
+* Sergey Alyaev: main organizer, abstract submissions (Senior Research Scientist, NORCE; VP Academia, NFES) [saly@norceresearch.no](mailto:saly@norceresearch.no)
+* Nazanin Jahani: co-organizer, booking (Senior Research Scientist, NORCE) [naja@norceresearch.no](mailto:naja@norceresearch.no)
+* Annette Larsen: sponsorship (General Manager Logtek; VP Sponsorship, NFES) 
+[vp_sponsor@nfes.org](vp_sponsor@nfes.org)
+* Venkat Jambunathan: program (Petrophysist, Halliburton; VP Program, NFES) [vp_program@nfes.org](vp_program@nfes.org)
+
+
 
