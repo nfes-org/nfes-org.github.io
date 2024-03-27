@@ -25,6 +25,8 @@ presentation_date: 2024-11-12
 
 Submit abstracts and plan your visit to the 
 **3rd Geosteering and Formation Evaluation Workshop by NORCE and NFES**
+or 
+[**sign-up for updates**](https://forms.gle/hzoBmG1sv2hBSEA9A) today!
 
 <!-- Visit [the event page at DigiWells (NORCE)](https://digiwells.no/events/geosteering-2022) for signing up, submissions, and/or sponsorship. -->
 
@@ -40,8 +42,7 @@ Sponsorship and marketing
 <!-- <a type="button" href="/assets/geosteering-workshop-2022-flyer-4.pdf" target="_blank"> -->
 Conference flyer
 <span>&#183;</span>
-Get updates
-<!-- </a> -->
+[Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A)
 
 ## About the event
 
