@@ -23,7 +23,7 @@ presentation_date: 2024-11-12
   </div>
 </div>
 
-Submit abstracts and plan your visit to the 
+[Submit abstracts](https://forms.gle/cv4iqiMepyjEykRc8) and plan your visit to the 
 **3rd Geosteering and Formation Evaluation Workshop by NORCE and NFES**
 or 
 [**sign-up for updates**](https://forms.gle/hzoBmG1sv2hBSEA9A) today!
@@ -33,9 +33,7 @@ or
 
 ### Action links
 
-<!-- <a type="button" href="https://forms.gle/q6nUaJ2WhGryL75B6" target="_blank"> -->
-Submit your abstract!
-<!-- </a> -->
+[Submit your abstract!](https://forms.gle/cv4iqiMepyjEykRc8)
 <span>&#183;</span>
 Sponsorship and marketing
 <span>&#183;</span>
@@ -63,9 +61,7 @@ Motivated by the series' success, NFES and NORCE invite you again to the Oil Cap
 * Kahoot! quiz
 * Possible poster session
 
-<!-- <a type="button" href="https://forms.gle/q6nUaJ2WhGryL75B6" target="_blank"> -->
-Submit your abstract!
-<!-- </a> -->
+[Submit your abstract!](https://forms.gle/cv4iqiMepyjEykRc8)
 
 ### Technical topics
 
@@ -131,7 +127,7 @@ To find more information about the hotel, visit the [Sola Strand Hotel website](
 
 
 ## Timeline
-* **September 1.** Deadline for abstracts considered for plenary sessions (150-500 words)
+* **September 1.** Deadline for [abstracts](https://forms.gle/cv4iqiMepyjEykRc8) considered for plenary sessions (150-500 words)
 * **September 21.** The final program is published, and acceptance notification
 * **October 1.** Early registration closes
 * **October 19.** Online registration closes
