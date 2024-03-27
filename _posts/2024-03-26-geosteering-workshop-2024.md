@@ -39,7 +39,7 @@ or
 <span>&#183;</span>
 [Marketing packages](/assets/workshop2024/geosteering-workshop-marketing-packages-NFES-2024-03-27.pdf)
 <span>&#183;</span>
-Conference flyer
+[Conference flyer](/assets/workshop2024/Geosteering-workshop-2024-flyer-03-27.pdf)
 <span>&#183;</span>
 [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A)
 
