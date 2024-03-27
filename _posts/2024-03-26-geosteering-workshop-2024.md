@@ -36,9 +36,8 @@ or
 [Submit your abstract!](https://forms.gle/cv4iqiMepyjEykRc8)
 <span>&#183;</span>
 [Sponsorship](assets/workshop2024/geosteering-workshop-sponsor-NFES-2024-03-27.pdf)
-and 
-[Marketing](/assets/workshop2024/geosteering-workshop-marketing-packages-NFES-2024-03-27.pdf)
-packages
+<span>&#183;</span>
+[Marketing packages](/assets/workshop2024/geosteering-workshop-marketing-packages-NFES-2024-03-27.pdf)
 <span>&#183;</span>
 Conference flyer
 <span>&#183;</span>
