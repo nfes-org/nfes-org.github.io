@@ -1,5 +1,5 @@
 ---
-tags: presentation
+tags: presentation has_attachment
 title: "Holistic Evaluation of Reservoir Oil Viscosity in Breidablikk Field – Including Mud Gas Logging Approach (Alexandra Cely, Equinor)"
 presentation_date: 2024-02-07
 ---
@@ -15,3 +15,5 @@ Breidablikk is a greenfield on the Norwegian Continental Shelf and just started 
 ## Biography
 
 **Alexandra Cely** is a principal reservoir engineer at Equinor ASA in Norway, where she is the leading researcher on reservoir fluid property prediction using cuttings; and on the developing of a thermodynamic method to correct standard mud gas data as input to real-time fluid type prediction. She applies her thermodynamic, chemistry and data science background to develop real time fluid identification solutions. She started in Equinor in 2012 as a flow assurance engineer, working in field development projects, and joined the PVT and fluid analysis group in 2019. Alexandra holds a MSc in Env. offshore engineering with a chemistry major, from the University of Stavanger, and BSc in Chemical engineering. Besides oil and gas, Alexandra is active in the low carbon solutions, especially on the hydrogen value chain.
+
+<a class="button button--primary button--pill" href="/assets/technical_meetings_2024/Paper_HolisticEvaluationOfReservoirOilViscosityInBreidablikk-IncludingMudGas_Montly_meeting.pptx">Download slides</a>
