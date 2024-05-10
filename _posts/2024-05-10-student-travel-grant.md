@@ -4,7 +4,7 @@ tags: News
 cover: /assets/events/save-new-dates-geosteering-2024.jpeg
 cover_size: lg
 pageview: true
-excerpt: "We are thrilled to announce that the NFES is offering a travel grant to support students from Norway"
+excerpt: "We are thrilled to announce that the NFES started offering a travel grant to support students from Norway"
 ---
 
 We are thrilled to announce that the **NFES is offering a travel grant to support students from Norway** in presenting their research in Formation Evaluation and related fields. This grant aims to foster academic exchange and development among students, facilitating their participation in NFES's technical seminars and workshops as well as global SPWLA events.
@@ -19,6 +19,6 @@ We are thrilled to announce that the **NFES is offering a travel grant to suppor
 3. Submit the completed form for consideration.
 Selection Process
 
-Funding decisions will be made by two members of the NFES board, ensuring a fair and thorough review of all applications.
+Funding decisions will be made by the NFES board, ensuring a fair and thorough review of all applications.
 
 We encourage all students with accepted presentations to apply for this unique opportunity to gain international exposure and share their research with peers and professionals in the field. For more information, please **contact [vp_pr@nfes.org](mailto:vp_pr@nfes.org)**.
