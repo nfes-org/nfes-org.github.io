@@ -1,3 +1,23 @@
+- name: ROGII
+  logo: /assets/logos/rogii_logo_index-1.png
+  link: https://www.rogii.com/
+  valid_until: 2025-04-15
+
+- name: Hydrophilic
+  logo: /assets/logos/Hydrophilic-LOGO2.png
+  link: https://www.hydrophilic.no/
+  valid_until: 2025-02-24
+
+- name: Logtek
+  logo: /assets/logos/Logtek.png
+  link: https://www.logtek.no/
+  valid_until: 2025-02-22
+
+- name: SLB
+  logo: /assets/logos/SLB_Logo_2022.png
+  link: https://www.slb.com/
+  valid_until: 2024-09-01
+
 - name: Aker BP
   logo: /assets/logos/akerbplogo.png
   link: https://akerbp.com/en/
@@ -8,22 +28,4 @@
   link: https://www.equinor.com/
   valid_until: 2024-08-01
 
-- name: Hydrophilic
-  logo: /assets/logos/Hydrophilic-LOGO2.png
-  link: https://www.hydrophilic.no/
-  valid_until: 2025-02-23
 
-- name: Logtek
-  logo: /assets/logos/Logtek.png
-  link: https://www.logtek.no/
-  valid_until: 2025-02-01
-
-- name: ROGII
-  logo: /assets/logos/rogii_logo_index-1.png
-  link: https://www.rogii.com/
-  valid_until: 2025-03-25
-
-- name: SLB
-  logo: /assets/logos/SLB_Logo_2022.png
-  link: https://www.slb.com/
-  valid_until: 2024-08-01
