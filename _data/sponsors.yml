@@ -1,3 +1,9 @@
+- name: Equinor
+  logo: /assets/logos/equinorlogo.png
+  link: https://www.equinor.com/
+  includes_renewal_months: 1
+  valid_until: 2024-07-14
+
 - name: Aker BP
   logo: /assets/logos/akerbplogo.png
   link: https://akerbp.com/en/
@@ -28,10 +34,6 @@
   includes_renewal_months: n/a
   valid_until: 2024-09-01
 
-- name: Equinor
-  logo: /assets/logos/equinorlogo.png
-  link: https://www.equinor.com/
-  includes_renewal_months: n/a
-  valid_until: 2024-08-01
+
 
 
