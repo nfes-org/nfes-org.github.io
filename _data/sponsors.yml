@@ -4,6 +4,12 @@
   includes_renewal_months: 1
   valid_until: 2025-07-14
 
+- name: Well ID
+  logo: /assets/logos/LOGO_WELL_ID_small.png
+  link: https://wellid.no/
+  includes_renewal_months: 1
+  valid_until: 2025-06-24
+
 - name: Aker BP
   logo: /assets/logos/akerbplogo.png
   link: https://akerbp.com/en/
