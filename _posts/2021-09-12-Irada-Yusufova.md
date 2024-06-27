@@ -1,6 +1,6 @@
 ---
 title: "Irada Yusufova, VP Technology and Social Media"
-tags: Board21/22 Board22/23 Board23/24 VP Board
+tags: Board21/22 Board22/23 Board23/24 Board24/25 VP Board
 role: "VP Technology and Social Media"
 cover: assets/board/irada.jpg
 cover_size: md

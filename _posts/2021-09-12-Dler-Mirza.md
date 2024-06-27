@@ -1,6 +1,6 @@
 ---
 title: "Dler Mirza, President"
-tags: Board21/22 Board22/23 Board23/24 President Board
+tags: Board21/22 Board22/23 Board23/24 Board24/25 President Board
 role: "President"
 cover: assets/board/dler.jpg
 cover_size: md

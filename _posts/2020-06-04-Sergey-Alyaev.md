@@ -1,6 +1,6 @@
 ---
 title: "Sergey Alyaev, VP PR & Academia"
-tags: Board21/22 Board22/23 Board23/24 VP Board
+tags: Board21/22 Board22/23 Board23/24 Board24/25 VP Board
 role: "VP PR & Academia"
 cover: assets/board/alyaev.jpg
 cover_size: md

@@ -1,6 +1,6 @@
 ---
 title: "Subhadeep Sarkar, VP Membership"
-tags: Board23/24 VP Board
+tags: Board23/24 Board24/25 VP Board
 role: "VP Membership"
 cover: assets/board/Subhadeep.jpg
 cover_size: md
