@@ -113,13 +113,70 @@ and the
 
 The workshop will take place at a historical Sola Strand Hotel with panoramic views of the North Sea, the kitchen serves dishes with local flavors, and a spa where you can relax and discuss geosteering with new friends. The lunches and the dinner are included in the registration fee.
 
-To find more information about the hotel, visit the [Sola Strand Hotel website](https://www.solastrandhotel.no/).
+To find more information about the hotel, visit the [Sola Strand Hotel website](https://www.solastrandhotel.no/). The information about booking with a special conference rate will be available when the registration opens. 
 
 
 
 ## Registration
 
-The registration will open in **Summer 2024**. [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A).
+The registration will open in the late **August 2024**. [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A). The preliminary prices are specified below. The registration includes access to the entire program, the ice-breaker, lunches, and the conference dinner.
+
+<table class="styled-table">
+    <thead>
+    <tr>
+        <th>Type</th>
+        <th>Early</th>
+        <th>Late</th>
+        <!-- <th>Extra</th> -->
+        <th>Total seats</th>
+    </tr>
+    </thead>
+    <tr>
+        <th>
+            <!-- empty -->
+        </th>
+        <th>
+            Before October 1
+        </th>
+        <th>
+            Before October 14
+        </th>
+        <!-- <th>
+            Before October 25
+        </th> -->
+        <th>
+            <!-- Total seats -->
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Delegate
+        </td>
+        <td>3900 NOK</td>
+        <td>5500 NOK</td>
+        <!-- <td>On request</td> -->
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            Student
+        </td>
+        <td>500 NOK</td>
+        <td>n/a</td>
+        <!-- <td>n/a</td> -->
+        <td>10 left</td>
+    </tr>
+        <tr>
+        <td>
+            One-day
+        </td>
+        <td>n/a</td>
+        <!-- <td>n/a</td> -->
+        <td>3500 NOK</td>
+        <td>5 left</td>
+    </tr>
+</table>
+
 
 <!-- ### Booking of the Sola Strand Hotel
 
