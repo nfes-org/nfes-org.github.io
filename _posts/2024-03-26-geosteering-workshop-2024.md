@@ -139,7 +139,7 @@ The registration will open in the late **August 2024**. [Sign-up for updates](ht
             Before October 1
         </th>
         <th>
-            Before October 14
+            Before October 19
         </th>
         <!-- <th>
             Before October 25
