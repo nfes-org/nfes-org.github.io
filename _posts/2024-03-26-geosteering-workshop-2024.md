@@ -27,12 +27,12 @@ presentation_date: 2024-11-12
 **3rd Geosteering and Formation Evaluation Workshop by NORCE and NFES**
 or 
 [**sign-up for updates**](https://forms.gle/hzoBmG1sv2hBSEA9A) today!
+And do not forget to [add the event to your calendar](/assets/events/GFE-Workshop2024.ics).
 
 <!-- Visit [the event page at DigiWells (NORCE)](https://digiwells.no/events/geosteering-2022) for signing up, submissions, and/or sponsorship. -->
 
 
 ### Action links
-
 [Submit your abstract!](https://forms.gle/cv4iqiMepyjEykRc8)
 <span>&#183;</span>
 [Sponsorship](/assets/workshop2024/geosteering-workshop-sponsor-NFES-2024-03-27.pdf)
@@ -40,6 +40,8 @@ or
 [Marketing packages](/assets/workshop2024/geosteering-workshop-marketing-packages-NFES-2024-03-27.pdf)
 <span>&#183;</span>
 [Conference flyer](/assets/workshop2024/Geosteering-workshop-2024-flyer-03-27.pdf)
+<span>&#183;</span>
+[Add to calendar](/assets/events/GFE-Workshop2024.ics)
 <span>&#183;</span>
 [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A)
 
@@ -62,9 +64,11 @@ Motivated by the series' success, NFES and NORCE invite you again to the Oil Cap
 * Kahoot! quiz
 * Possible poster session
 
-[Submit your abstract!](https://forms.gle/cv4iqiMepyjEykRc8)
+
 
 ### Technical topics
+
+[Submit your abstract](https://forms.gle/cv4iqiMepyjEykRc8) to one of the following tracks.
 
 1. Advancement in Ultra Deep Azimuthal Resistivity (UDAR) Technology and Interpretation
    - New Inversion Algorithms
@@ -119,7 +123,9 @@ To find more information about the hotel, visit the [Sola Strand Hotel website](
 
 ## Registration
 
-The registration will open in the late **August 2024**. [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A). The preliminary prices are specified below. The registration includes access to the entire program, the ice-breaker, lunches, and the conference dinner.
+The registration will open in the late **August 2024**. [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A). 
+
+The preliminary prices are specified below. The registration includes access to the entire program, the ice-breaker, lunches, and the conference dinner.
 
 <table class="styled-table">
     <thead>
