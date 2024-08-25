@@ -120,12 +120,16 @@ The workshop will take place at a historical Sola Strand Hotel with panoramic vi
 To find more information about the hotel, visit the [Sola Strand Hotel website](https://www.solastrandhotel.no/). The information about booking with a special conference rate will be available when the registration opens. 
 
 
-
 ## Registration
 
-The registration will open in the late **August 2024**. [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A). 
+To register, use the [**Registration Link** at deltager.no, NORCE's partner](https://www.deltager.no/norce/event/geosteering_and_formation_evaluation_workshop_by_norce_and_nfes_2024_11112024). Registration includes access to the entire program, the ice-breaker event, lunches, and the conference dinner. If you are unsure whether you will participate in the evening social events, we will send you an email in October to confirm your choice.
 
-The preliminary prices are specified below. The registration includes access to the entire program, the ice-breaker, lunches, and the conference dinner.
+### Hotel Booking
+
+For those of you coming from outside the area, we have pre-reserved several rooms at the conference venue, Sola Strand Hotel, for the period of November 11-14. To secure the special rate of 1880 NOK per room per night, please use the [**Hotel Booking Link**](https://app.mews.com/distributor/166ae71a-51c8-4551-931e-b12800bad7d5?mewsAvailabilityBlockId=2fb754c3-4254-46aa-aac2-b1280116cc5b&mewsStart=2024-11-11&mewsEnd=2024-11-14).
+
+### Prices for Early and Late Registration
+
 
 <table class="styled-table">
     <thead>
@@ -218,7 +222,7 @@ To find more information about the hotel, visit the [Sola Strand Hotel website](
 * Igor Kuvaev (ROGII)
 * Jean Michel Denichou (SLB)
 * Nazanin Jahani (NORCE)
-*	Nigel Clegg (Halliburton)
+* Nigel Clegg (Halliburton)
 * Sergey Alyaev (NORCE / NFES)
 * Sofia Davydycheva (3DEM Holding)
 
