@@ -201,7 +201,7 @@ To find more information about the hotel, visit the [Sola Strand Hotel website](
 
 
 ## Timeline
-* **September 2.** Deadline for [abstracts](https://forms.gle/cv4iqiMepyjEykRc8) considered for plenary sessions (150-500 words)
+* **September 9.** Extended deadline for [abstracts](https://forms.gle/cv4iqiMepyjEykRc8) considered for plenary sessions (150-500 words)
 * **September 21.** The final program is published, and acceptance notification
 * **October 1.** Early registration closes
 * **October 19.** Online registration and hotel reservation closes
