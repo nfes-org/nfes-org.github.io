@@ -125,7 +125,7 @@ To find more information about the hotel, visit the [Sola Strand Hotel website](
 To register, use the [**Registration Link** at deltager.no, NORCE's partner](https://www.deltager.no/norce/event/geosteering_and_formation_evaluation_workshop_by_norce_and_nfes_2024_11112024). Registration includes access to the entire program, the ice-breaker event, lunches, and the conference dinner. If you are unsure whether you will participate in the evening social events, we will send you an email in October to confirm your choice.
 
 Registration is open to all. Additionally, NFES members in good standing will receive a free membership renewal for 2025 with their registration.
-Presenting students are also eligible for NFES travel grants. [Apply upon abstract acceptance](https://nfes.org/2024/05/10/student-travel-grant.html).
+Presenting students affiliated with Norwegian universities are also eligible for NFES travel grants. [Apply upon abstract acceptance](https://nfes.org/2024/05/10/student-travel-grant.html).
 
 ### Hotel Booking
 
