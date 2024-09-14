@@ -102,9 +102,17 @@ Motivated by the series' success, NFES and NORCE invite you again to the Oil Cap
    - Developing best practices from past geosteering efforts
    - Case studies on the impact of geosteering data on subsequent operations
 
+## Sponsors
 
-## Sponsorship and marketing packages available
+| Logtek      |
+|:-----------:|
+| <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> | 
 
+<!-- | Research Council of Norway | ROGII       | Equinor     | Logtek      |
+|:-----------:|:-----------:|:-----------:|:-----------:|
+| <img class="image" alt="Logo of the Research Council of Norway" src="/assets/logos/rcnlogo.png"/> | <img class="image" alt="ROGII Inc. logo" src="/assets/logos/rogii_logo_index-1.png"/>  | <img class="image" alt="Equinor logo" src="/assets/logos/equinorlogo.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> |  -->
+
+### Available sponsorship and marketing packages
 
 Download the 
 **[Letter to Potential Sponsors](/assets/workshop2024/geosteering-workshop-sponsor-NFES-2024-03-27.pdf)**
