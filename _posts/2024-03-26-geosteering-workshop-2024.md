@@ -23,17 +23,19 @@ presentation_date: 2024-11-12
   </div>
 </div>
 
-[Submit abstracts](https://forms.gle/cv4iqiMepyjEykRc8) and plan your visit to the 
+<!-- [Submit abstracts](https://forms.gle/cv4iqiMepyjEykRc8) and plan your visit to the 
 **3rd Geosteering and Formation Evaluation Workshop by NORCE and NFES**
 or 
-[**sign-up for updates**](https://forms.gle/hzoBmG1sv2hBSEA9A) today!
-And do not forget to [add the event to your calendar](/assets/events/GFE-Workshop2024.ics).
+[**sign-up for updates**](https://forms.gle/hzoBmG1sv2hBSEA9A) today! -->
+[Register now](#registration)
+and do not forget to [add the event to your calendar](/assets/events/GFE-Workshop2024.ics).
 
 <!-- Visit [the event page at DigiWells (NORCE)](https://digiwells.no/events/geosteering-2022) for signing up, submissions, and/or sponsorship. -->
 
 
 ### Action links
-[Submit your abstract!](https://forms.gle/cv4iqiMepyjEykRc8)
+
+[Open the program (NEW)](/2024/09/17/workshop-2024-schedule.html)
 <span>&#183;</span>
 [Sponsorship](/assets/workshop2024/geosteering-workshop-sponsor-NFES-2024-03-27.pdf)
 <span>&#183;</span>
@@ -57,16 +59,20 @@ With the increased focus on the green shift, the traditional hydrocarbon project
 Our precious workshops in 2019 and 2022 each gathered almost 100 experts and got excellent feedback.
 Motivated by the series' success, NFES and NORCE invite you again to the Oil Capital of Norway (Stavanger) to meet other geosteering experts and share ideas to drive the energy industry forward in the following decades.
 
-## Planned Activities
-* **Plenary technical presentations**
+## Program
+
+[**Full program**](/2024/09/17/workshop-2024-schedule.html) is now available but several presentations are still pending confirmation.
+
+The program includes:
+
+* Plenary technical presentations
 * Sponsor exhibition 
 * Panel discussion: “Where is the geosteering going in the next 10 years?”
 * Kahoot! quiz
-* Possible poster session
 
 
 
-### Technical topics
+<!-- ### Technical topics
 
 [Submit your abstract](https://forms.gle/cv4iqiMepyjEykRc8) to one of the following tracks.
 
@@ -100,7 +106,7 @@ Motivated by the series' success, NFES and NORCE invite you again to the Oil Cap
    - Cross-Discipline Data Utilization
    - Effective data storage and retrieval systems
    - Developing best practices from past geosteering efforts
-   - Case studies on the impact of geosteering data on subsequent operations
+   - Case studies on the impact of geosteering data on subsequent operations -->
 
 ## Sponsors
 
@@ -176,7 +182,7 @@ For those of you coming from outside the area, we have pre-reserved several room
         <td>3900 NOK</td>
         <td>5500 NOK</td>
         <!-- <td>On request</td> -->
-        <td></td>
+        <td>70 available</td>
     </tr>
     <tr>
         <td>
@@ -185,7 +191,7 @@ For those of you coming from outside the area, we have pre-reserved several room
         <td>500 NOK</td>
         <td>n/a</td>
         <!-- <td>n/a</td> -->
-        <td>10 left</td>
+        <td>10 available</td>
     </tr>
         <tr>
         <td>
@@ -194,7 +200,7 @@ For those of you coming from outside the area, we have pre-reserved several room
         <td>n/a</td>
         <!-- <td>n/a</td> -->
         <td>3500 NOK</td>
-        <td>5 left</td>
+        <td>5 available</td>
     </tr>
 </table>
 
