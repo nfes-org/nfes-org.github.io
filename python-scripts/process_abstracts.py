@@ -3,11 +3,15 @@ import re
 from os.path import exists
 
 
-publish_date = "2023-10-27"
-presentation_date = "2023-11-01"
-tags = "seminar2023abstract"
+publish_date = "2024-09-25"
+presentation_date = "2024-11-12"
+tags = "workshop2024abstract"
 target_folder = "../_posts/"
 
+def pad_to_three(number):
+    if number <= 999:
+        return str(number).zfill(3)
+    return str(number)
 
 def create_file(row, id):
     title_col = "Presentation title"
@@ -25,7 +29,7 @@ def create_file(row, id):
     # title_for_display = re.sub('\s|:|/|\?|&|\.|[^\x00-\x7F]|,|\(|\)|\'', '-', title)
     # file_name = target_folder + publish_date + '-' + title_for_display + '.md'
     short_title = title.split(' ')[0].lower()
-    file_name = target_folder + publish_date + '-' + short_title + '-workshop-abstract-' + str(id+1) + '.md'
+    file_name = target_folder + publish_date + '-' + pad_to_three(id+1) + '-' + short_title + '-workshop-abstract' + '.md'
     print(file_name)
     # todo remove
     file_exists = exists(file_name)
@@ -56,7 +60,7 @@ def create_file(row, id):
 
 
 if __name__ == "__main__":
-    abstracts_data = pd.read_csv('~/Downloads/Abstract submission formation evaluation (Responses) - Form responses 1.csv')
+    abstracts_data = pd.read_csv('~/Downloads/Abstract submission geosteering 2024 (Responses) - Form responses 1.csv')
     print(abstracts_data)
     for index, row in abstracts_data.iterrows():
         create_file(row, index+1)
