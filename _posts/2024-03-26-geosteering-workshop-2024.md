@@ -110,9 +110,9 @@ The program includes:
 
 ## Sponsors
 
-| Logtek      |
-|:-----------:|
-| <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> | 
+| Equinor     | Halliburton | SLB         | Logtek      | ROGII       |
+|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| <img class="image" alt="Equinor logo" src="/assets/logos/equinorlogo.png"/> | <img class="image" alt="Halliburton logo" src="/assets/logos/Halliburton_logo.svg.png"/> | <img class="image" alt="SLB logo" src="/assets/logos/SLB_Logo_2022.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> | <img class="image" alt="ROGII logo" src="/assets/logos/rogii_logo_index-1.png"/> |
 
 <!-- | Research Council of Norway | ROGII       | Equinor     | Logtek      |
 |:-----------:|:-----------:|:-----------:|:-----------:|
