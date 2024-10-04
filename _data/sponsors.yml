@@ -1,8 +1,20 @@
+- name: SLB
+  logo: /assets/logos/SLB_Logo_2022.png
+  link: https://www.slb.com/
+  includes_renewal_months: 3
+  valid_until: 2025-09-01
+
+- name: Halliburton
+  logo: /assets/logos/Halliburton_logo.svg.png
+  link: https://www.halliburton.com/
+  includes_renewal_months: 3
+  valid_until: 2025-09-01
+
 - name: Equinor
   logo: /assets/logos/equinorlogo.png
   link: https://www.equinor.com/
   includes_renewal_months: 1
-  valid_until: 2025-07-14
+  valid_until: 2026-01-14
 
 - name: Well ID
   logo: /assets/logos/LOGO_WELL_ID_small.png
@@ -34,11 +46,7 @@
   includes_renewal_months: 1
   valid_until: 2025-02-22
 
-- name: SLB
-  logo: /assets/logos/SLB_Logo_2022.png
-  link: https://www.slb.com/
-  includes_renewal_months: n/a
-  valid_until: 2024-09-01
+
 
 
 
