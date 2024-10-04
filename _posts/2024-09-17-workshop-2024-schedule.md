@@ -7,14 +7,14 @@ presentation_date: 2024-11-11
 [To the event announcement](/2024/03/26/geosteering-workshop-2024.html)
 
 <table class="nice-table" id="table"><tr>
-<th colspan="3"><b>Day 0</b></th>
+<th colspan="3"><b>November 11</b></th>
 </tr>
 <tr>
 <td>18:00 - 19:30</td>
 <td colspan="2"><b>Ice-breaker reception</b></td>
 </tr>
 <tr>
-<th colspan="3"><b>Day 1</b></th>
+<th colspan="3"><b>November 12</b></th>
 </tr>
 <tr>
 <td>08:30 - 09:00</td>
@@ -27,7 +27,7 @@ presentation_date: 2024-11-11
 <tr>
 <td rowspan="2">09:15 - 10:15</td>
 <td rowspan="2">Next?</td>
-<td>09:15: TBA (TBA): <b>New Energies: Outlook on Geothermal Drilling and Formation Evaluation</b> </td>
+<td>09:15: Francesco di Credico (Baker Hughes): <b>New Energies: Outlook on Geothermal Drilling and Formation Evaluation</b> <a href="https://nfes.org/2024/09/25/026-new-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>09:50: Sergey Alyaev (NORCE) et al.: <b>Laying the Foundation for Generative AI-Enhanced Geosteering: The Complete DISTINGUISH Workflow</b> <a href="https://nfes.org/2024/09/25/017-laying-workshop-abstract.html">(abstract)</a></td>
@@ -54,7 +54,7 @@ presentation_date: 2024-11-11
 <tr>
 <td rowspan="2">13:00 - 13:50</td>
 <td rowspan="2">Post-job</td>
-<td>Kåre Røsvik Jensen (Equinor) et al.: <b>UDAR GEOSTEERING STRATEGY - understanding sensitivity</b> <a href="https://nfes.org/2024/09/25/010-udar-workshop-abstract.html">(abstract)</a></td>
+<td>Berit Ensted Danielsen (Equinor) et al.: <b>UDAR GEOSTEERING STRATEGY - understanding sensitivity</b> <a href="https://nfes.org/2024/09/25/010-udar-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>Daria Latypova (Halliburton) et al.: <b>3D UDAR Technology Deployment for Successful Multi-Lateral Installation in a Complex Injectite Environment, Balder Field, NCS</b> <a href="https://nfes.org/2024/09/25/011-3d-workshop-abstract.html">(abstract)</a></td>
@@ -91,7 +91,7 @@ presentation_date: 2024-11-11
 <td colspan="2"><b>Dinner</b></td>
 </tr>
 <tr>
-<th colspan="3"><b>Day 2</b></th>
+<th colspan="3"><b>November 13</b></th>
 </tr>
 <tr>
 <td>08:15 - 08:30</td>
@@ -146,7 +146,7 @@ presentation_date: 2024-11-11
 <tr>
 <td rowspan="2">13:55 - 14:45</td>
 <td rowspan="2">RT FE</td>
-<td>13:55: Per Erik Wærum (Repsol Norge AS) et al.: <b>MAPPING HISTORICAL WATER FLOODING AND FACILITATING PRODUCTION STRATEGY WITH THE USE OF NEW RESERVOIR MAPPING-WHILE-DRILLING SYSTEMS: A CASE STUDY FROM OFFSHORE NORWAY </b> (Waiting for confirmation)</td>
+<td>13:55: Per Erik Wærum (Repsol Norge AS) et al.: <b>MAPPING HISTORICAL WATER FLOODING AND FACILITATING PRODUCTION STRATEGY WITH THE USE OF NEW RESERVOIR MAPPING-WHILE-DRILLING SYSTEMS: A CASE STUDY FROM OFFSHORE NORWAY </b> <a href="https://nfes.org/2024/09/25/019-mapping-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>14:20: Abdulaziz Alanazi and/or Mohammed Al-Mutawa (Saudi Aramco) et al.: <b>Optimizing Horizontal Injector Placement Utilizing Integrated Petrophysical Geosteering and Real-Time NMR Logging in Thin Water Leg</b> <a href="https://nfes.org/2024/09/25/003-optimizing-workshop-abstract.html">(abstract)</a></td>
@@ -169,13 +169,13 @@ presentation_date: 2024-11-11
 </tr>
 </table>## Sponsors
 
-| Logtek      |
-|:-----------:|
-| <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> |
+| Equinor     | Halliburton | SLB         | Logtek      | ROGII       |
+|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| <img class="image" alt="Equinor logo" src="/assets/logos/equinorlogo.png"/> | <img class="image" alt="Halliburton logo" src="/assets/logos/Halliburton_logo.svg.png"/> | <img class="image" alt="SLB logo" src="/assets/logos/SLB_Logo_2022.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> | <img class="image" alt="ROGII logo" src="/assets/logos/rogii_logo_index-1.png"/> |
 
 ### Available sponsorship and marketing packages
 
 Download the 
-**[Letter to Potential Sponsors](/assets/workshop2024/geosteering-workshop-sponsor-NFES-202403-27.pdf)**
+**[Letter to Potential Sponsors](/assets/workshop2024/geosteering-workshop-sponsor-NFES-2024-03-27.pdf)**
 and the 
-**[Offer Letter with Marketing Packages](/assets/workshop2024/geosteering-workshop-marketing-packages-NFES-202403-27.pdf)**.
+**[Offer Letter with Marketing Packages](/assets/workshop2024/geosteering-workshop-marketing-packages-NFES-2024-03-27.pdf)**.

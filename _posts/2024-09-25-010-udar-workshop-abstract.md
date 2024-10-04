@@ -1,12 +1,10 @@
 ---
 tags: workshop2024abstract
-title: "UDAR GEOSTEERING STRATEGY - understanding sensitivity (Berit Ensted Danielsen, Equinor)"
+title: "UDAR GEOSTEERING STRATEGY - understanding sensitivity (Berit Ensted Danielsen, Kåre Røsvik Jensen, Equinor)"
 presentation_date: 2024-11-12
 ---
-#### Presenter
-**Berit Ensted Danielsen** from Equinor
-#### Co-authors
-Kåre Røsvik Jensen, Lead Petrophycist
+#### Presenters
+**Berit Ensted Danielsen and Kåre Røsvik Jensen** from Equinor
 ## Abstract
 The Breidablikk field on the NCS, interpreted as an injectite reservoir is characterized by a high degree of structural complexity of both top and base of the main reservoir sand body. Above the main reservoir a complex network of thinner injectite sand bodies covering the range from seismic to centimeter scale is seen. The asset would like to place the production wells as close to the top reservoir as possible while still minimizing their exposure to potentially unstable roof shale. The asset team asked in-house UDAR expertise, if this technology could be used to solve two objectives: 1) Use UDAR to map reservoir heterogeneities from a pilot well up to the top reservoir boundary before drilling the producer, and 2) to map the distance to the OWC. 
 
