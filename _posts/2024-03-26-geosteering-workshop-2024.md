@@ -70,6 +70,13 @@ The program includes:
 * Panel discussion: “Where is the geosteering going in the next 10 years?”
 * Kahoot! quiz
 
+### Speaker resources
+
+NFES (SPWLA) **guidelines for oral presentations** can be downloaded [here](/assets/pdfs/NFES-Guidelines-for-Oral-Presentation.pdf).
+
+The presentation template should be neutral, with commercial logos limited to the title and the final slides. 
+An optional **conference powerpoint template** can be downloaded [here](/assets/workshop2024/geosteering-template-2024.pptx).
+
 
 
 <!-- ### Technical topics
