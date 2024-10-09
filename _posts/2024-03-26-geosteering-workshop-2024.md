@@ -138,7 +138,7 @@ and the
 
 The workshop will take place at a historical Sola Strand Hotel with panoramic views of the North Sea, the kitchen serves dishes with local flavors, and a spa where you can relax and discuss geosteering with new friends. The lunches and the dinner are included in the registration fee.
 
-To find more information about the hotel, visit the [Sola Strand Hotel website](https://www.solastrandhotel.no/). The information about booking with a special conference rate will be available when the registration opens. 
+To find more information about the hotel, visit the [Sola Strand Hotel website](https://www.solastrandhotel.no/). [Book via special-rate link](https://app.mews.com/distributor/166ae71a-51c8-4551-931e-b12800bad7d5?mewsAvailabilityBlockId=2fb754c3-4254-46aa-aac2-b1280116cc5b&mewsStart=2024-11-11&mewsEnd=2024-11-14) The information about booking with a special conference rate will be available when the registration opens. 
 
 
 ## Registration
