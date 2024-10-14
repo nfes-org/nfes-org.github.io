@@ -54,7 +54,7 @@ presentation_date: 2024-11-11
 <tr>
 <td rowspan="2">13:00 - 13:50</td>
 <td rowspan="2">Post-job</td>
-<td>Berit Ensted Danielsen (Equinor) et al.: <b>UDAR GEOSTEERING STRATEGY - understanding sensitivity</b> <a href="https://nfes.org/2024/09/25/010-udar-workshop-abstract.html">(abstract)</a></td>
+<td>Kåre Røsvik Jensen (Equinor) et al.: <b>UDAR GEOSTEERING STRATEGY - understanding sensitivity</b> <a href="https://nfes.org/2024/09/25/010-udar-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>Daria Latypova (Halliburton) et al.: <b>3D UDAR Technology Deployment for Successful Multi-Lateral Installation in a Complex Injectite Environment, Balder Field, NCS</b> <a href="https://nfes.org/2024/09/25/011-3d-workshop-abstract.html">(abstract)</a></td>
