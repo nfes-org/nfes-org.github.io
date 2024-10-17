@@ -26,11 +26,11 @@ presentation_date: 2024-11-11
 </tr>
 <tr>
 <td rowspan="2">09:15 - 10:15</td>
-<td rowspan="2">Next?</td>
-<td>09:15: Francesco di Credico (Baker Hughes): <b>New Energies: Outlook on Geothermal Drilling and Formation Evaluation</b> <a href="https://nfes.org/2024/09/25/026-new-workshop-abstract.html">(abstract)</a></td>
+<td rowspan="2">RT FE</td>
+<td>09:15: FRANCESCO DI CREDICO (BAKER HUGHES): <b>New Energies: Market Status on Geothermal Drilling and technical challenges</b> <a href="https://nfes.org/2024/09/25/027-new-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>09:50: Sergey Alyaev (NORCE) et al.: <b>Laying the Foundation for Generative AI-Enhanced Geosteering: The Complete DISTINGUISH Workflow</b> <a href="https://nfes.org/2024/09/25/017-laying-workshop-abstract.html">(abstract)</a></td>
+<td>09:50: Mauro Viandante (SLB) et al.: <b>FIRST MULTI-PHYSICS INTEGRATION OF 3D RESISTIVITY MAPPING WITH 3D SONIC IMAGING TO CHARACTERIZE RESERVOIR FLUIDS AND STRUCTURAL ELEMENTS</b> <a href="https://nfes.org/2024/09/25/023-first-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>10:15 - 10:45</td>
@@ -39,7 +39,7 @@ presentation_date: 2024-11-11
 <tr>
 <td rowspan="3">10:45 - 12:00</td>
 <td rowspan="3">Opt</td>
-<td>10:45: David Holbrough (Baker Hughes) et al.: <b>Utilizing Deep & Ultra-Deep Azimuthal Resistivity Reservoir Mapping Technologies and Automated Well Placement To Aid Reservoir Understanding and Optimize Production – A Case Study</b> <a href="https://nfes.org/2024/09/25/016-utilizing-workshop-abstract.html">(abstract)</a></td>
+<td>10:45: Sergey Alyaev (NORCE) et al.: <b>Laying the Foundation for Generative AI-Enhanced Geosteering: The Complete DISTINGUISH Workflow</b> <a href="https://nfes.org/2024/09/25/017-laying-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>11:10: Carlos Sarquez (Halliburton) et al.: <b>Deep Azimuthal Resistivity Inversion Methodology for Thin Layered Reservoirs</b> <a href="https://nfes.org/2024/09/25/009-deep-workshop-abstract.html">(abstract)</a></td>
@@ -74,7 +74,7 @@ presentation_date: 2024-11-11
 <tr>
 <td rowspan="3">15:30 - 16:45</td>
 <td rowspan="3">RT FE</td>
-<td>15:30: Mauro Viandante (SLB) et al.: <b>FIRST MULTI-PHYSICS INTEGRATION OF 3D RESISTIVITY MAPPING WITH 3D SONIC IMAGING TO CHARACTERIZE RESERVOIR FLUIDS AND STRUCTURAL ELEMENTS</b> <a href="https://nfes.org/2024/09/25/023-first-workshop-abstract.html">(abstract)</a></td>
+<td>15:30: Warren Fernandes (Baker Hughes) et al.: <b>APPLICATION OF NEXT-GENERATION ULTRA-DEEP AZIMUTHAL RESISTIVITY GEOMAPPING INCORPORATING CRITICAL QUALITY CONTROL & SENSITIVITY ESTIMATIONS FOR OPTIMAL FIELD DEVELOPMENT. </b> <a href="https://nfes.org/2024/09/25/020-application-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>15:55: Simone Huwe & Roger Burgess (Equinor): <b>The application of Biostratigraphy as a tool for Geosteering</b> <a href="https://nfes.org/2024/09/25/005-the-workshop-abstract.html">(abstract)</a></td>
@@ -121,7 +121,7 @@ presentation_date: 2024-11-11
 <td>10:50: Brigido Vicuña (Halliburton) et al.: <b>New UDAR Inversion Techniques for improved Imaging of Geological Structures</b> <a href="https://nfes.org/2024/09/25/024-new-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>11:15: Xuandong Wang (Baker Hughes) et al.: <b>Transforming Reservoir Mapping Through Advanced 3D Visualizations of the New Flexible Inversion Data Format</b> (Waiting for confirmation)</td>
+<td>11:15: TBA (Baker Hughes) et al.: <b>Transforming Reservoir Mapping Through Advanced 3D Visualizations of the New Flexible Inversion Data Format</b> <a href="https://nfes.org/2024/09/25/002-transforming-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>11:40 - 12:40</td>
@@ -133,7 +133,7 @@ presentation_date: 2024-11-11
 <td>12:40: Jan Tveranger (NORCE) et al.: <b>Generating ML training data for real-time geological interpretation of LWD logs: Extraction of tool-specific synthetic logs from pre-drill geomodels</b> <a href="https://nfes.org/2024/09/25/015-generating-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>13:05: Warren Fernandes (Baker Hughes) et al.: <b>APPLICATION OF NEXT-GENERATION ULTRA-DEEP AZIMUTHAL RESISTIVITY GEOMAPPING INCORPORATING CRITICAL QUALITY CONTROL & SENSITIVITY ESTIMATIONS FOR OPTIMAL FIELD DEVELOPMENT. </b> <a href="https://nfes.org/2024/09/25/020-application-workshop-abstract.html">(abstract)</a></td>
+<td>13:05: David Holbrough (Baker Hughes) et al.: <b>Utilizing Deep & Ultra-Deep Azimuthal Resistivity Reservoir Mapping Technologies and Automated Well Placement To Aid Reservoir Understanding and Optimize Production – A Case Study</b> <a href="https://nfes.org/2024/09/25/016-utilizing-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>13:30 - 13:40</td>
@@ -149,7 +149,7 @@ presentation_date: 2024-11-11
 <td>13:55: Per Erik Wærum (Repsol Norge AS) et al.: <b>MAPPING HISTORICAL WATER FLOODING AND FACILITATING PRODUCTION STRATEGY WITH THE USE OF NEW RESERVOIR MAPPING-WHILE-DRILLING SYSTEMS: A CASE STUDY FROM OFFSHORE NORWAY </b> <a href="https://nfes.org/2024/09/25/019-mapping-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>14:20: Abdulaziz Alanazi and/or Mohammed Al-Mutawa (Saudi Aramco) et al.: <b>Optimizing Horizontal Injector Placement Utilizing Integrated Petrophysical Geosteering and Real-Time NMR Logging in Thin Water Leg</b> <a href="https://nfes.org/2024/09/25/003-optimizing-workshop-abstract.html">(abstract)</a></td>
+<td>14:20: TBA (TBA): <b>TBA</b> <a href="https://nfes.org/2024/09/25/026-tba-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>14:45 - 15:15</td>
