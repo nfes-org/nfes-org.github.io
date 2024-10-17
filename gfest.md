@@ -50,9 +50,9 @@ key: page-geosteering-workshop
  * [Discover abstracts](/archive.html?tag=workshop2024abstract)
 
 ## Partner
-NFES is partnering with (NORCE)[https://www.norceresearch.no/en/] to organise {{site.tags["UpcomingEvent"][0].title}}.
+NFES is partnering with [NORCE](https://www.norceresearch.no/en/) to organise **{{site.tags["UpcomingEvent"][0].title}}**.
 
-(NORCE Norwegian Research Centre)[https://www.norceresearch.no/en/] 
+[NORCE Norwegian Research Centre](https://www.norceresearch.no/en/)
 is an independent research institute that conducts research to facilitate informed and sustainable choices for the future.
 NORCE coordinates several interdisciplinary research projects working on geosteering, that contributed to the organization of the Workshop:
  * [Distinguish](https://geosteering.no/distinguish)
