@@ -11,14 +11,37 @@ titles:
 key: page-geosteering-workshop
 ---
 
+<style>
+    .hero-example--linear-gradient {
+      background-image: linear-gradient(180deg, 
+      rgba(94, 216, 254, 0.5), 
+      #e4ff8277), url("assets/images/near-gaard.jpg");
+    }
+</style>
+<style>
+  .hero-example--linear-gradient--sunset {
+    background-image: linear-gradient(180deg, 
+      rgba(94, 216, 254, 0.7), 
+      #e4ff82aa), url("/assets/events/Stavanger-Port-at-Dawn-cropped.jpg");
+  }
+</style>
+<style>
+  .hero-example--linear-gradient--dark {
+    background-image: 
+    linear-gradient(180deg, 
+    rgba(249,	247,	192		, 1), 
+    rgba(249,	247,	192		, .5)), url("/assets/events/Stavanger-Port-at-Dawn-cropped.jpg");
+  }
+</style>
+
 <div class="hero hero hero-example--linear-gradient--sunset" >
-  <div class="hero__content">
-    <!-- <h4 id="next-conference-proed">NFES is proud to host</h4> -->
-    <h3 id="next-conference">
-      {{site.tags["UpcomingEvent"][0].title}}
-    </h3>
-    <p>starts on {{site.tags["UpcomingEvent"][0].presentation_date | date: "%A, %B %-d, %Y"}}</p>
-    <a class="button button--primary button--pill" href="{{site.tags['UpcomingEvent'][0].url}}">To the announcement!</a>
+    <div class="hero__content">
+        <!-- <h4 id="next-conference-proed">NFES is proud to host</h4> -->
+        <h3 id="next-conference">
+        {{site.tags["UpcomingEvent"][0].title}}
+        </h3>
+        <p>starts on {{site.tags["UpcomingEvent"][0].presentation_date | date: "%A, %B %-d, %Y"}}</p>
+        <a class="button button--primary button--pill" href="{{site.tags['UpcomingEvent'][0].url}}">To the announcement!</a>
     </div>
 </div>
 
