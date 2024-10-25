@@ -116,13 +116,10 @@ An optional **conference powerpoint template** can be downloaded [here](/assets/
 
 ## Sponsors
 
-| Equinor     | Halliburton | SLB         | Logtek      | ROGII       |
-|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| <img class="image" alt="Equinor logo" src="/assets/logos/equinorlogo.png"/> | <img class="image" alt="Halliburton logo" src="/assets/logos/Halliburton_logo.svg.png"/> | <img class="image" alt="SLB logo" src="/assets/logos/SLB_Logo_2022.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> | <img class="image" alt="ROGII logo" src="/assets/logos/rogii_logo_index-1.png"/> |
+| Equinor     | Halliburton | SLB         | Vår Energi  | Logtek      | ROGII       |
+|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| <img class="image" alt="Equinor logo" src="/assets/logos/equinorlogo.png"/> | <img class="image" alt="Halliburton logo" src="/assets/logos/Halliburton_logo.svg.png"/> | <img class="image" alt="SLB logo" src="/assets/logos/SLB_Logo_2022.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Varenergi_logo.svg.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> | <img class="image" alt="ROGII logo" src="/assets/logos/rogii_logo_index-1.png"/> |
 
-<!-- | Research Council of Norway | ROGII       | Equinor     | Logtek      |
-|:-----------:|:-----------:|:-----------:|:-----------:|
-| <img class="image" alt="Logo of the Research Council of Norway" src="/assets/logos/rcnlogo.png"/> | <img class="image" alt="ROGII Inc. logo" src="/assets/logos/rogii_logo_index-1.png"/>  | <img class="image" alt="Equinor logo" src="/assets/logos/equinorlogo.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> |  -->
 
 ### Available sponsorship and marketing packages
 

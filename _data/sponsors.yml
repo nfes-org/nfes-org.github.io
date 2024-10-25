@@ -1,3 +1,9 @@
+- name: Vår Energi
+  logo: /assets/logos/Varenergi_logo.svg.png
+  link: https://varenergi.no/
+  includes_renewal_months: 3
+  valid_until: 2025-09-01
+
 - name: SLB
   logo: /assets/logos/SLB_Logo_2022.png
   link: https://www.slb.com/
