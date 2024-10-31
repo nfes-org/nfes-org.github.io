@@ -26,7 +26,7 @@ presentation_date: 2024-11-11
 </tr>
 <tr>
 <td rowspan="2">09:15 - 10:15</td>
-<td rowspan="2">RT FE</td>
+<td rowspan="2">Low-cost</td>
 <td>09:15: FRANCESCO DI CREDICO (BAKER HUGHES): <b>New Energies: Market Status on Geothermal Drilling and technical challenges</b> <a href="https://nfes.org/2024/09/25/027-new-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ presentation_date: 2024-11-11
 <td>11:10: Carlos Sarquez (Halliburton) et al.: <b>Deep Azimuthal Resistivity Inversion Methodology for Thin Layered Reservoirs</b> <a href="https://nfes.org/2024/09/25/009-deep-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>11:35: Hibat Errahmen Djecta (University of Stavanger and NORCE) et al.: <b>Improvement of Reinforcement Learning Strategies of the Pluralistic Robot Validated in Competitive Geosteering</b> <a href="https://nfes.org/2024/09/25/018-improvement-workshop-abstract.html">(abstract)</a></td>
+<td>11:35: Hibat Errahmen Djecta and Yasaman Cheraghi (University of Stavanger) et al.: <b>Improvement of Reinforcement Learning Strategies of the Pluralistic Robot Validated in Competitive Geosteering</b> <a href="https://nfes.org/2024/09/25/018-improvement-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>12:00 - 13:00</td>
@@ -129,11 +129,11 @@ presentation_date: 2024-11-11
 </tr>
 <tr>
 <td rowspan="2">12:40 - 13:30</td>
-<td rowspan="2">RT FE</td>
+<td rowspan="2">Data</td>
 <td>12:40: Jan Tveranger (NORCE) et al.: <b>Generating ML training data for real-time geological interpretation of LWD logs: Extraction of tool-specific synthetic logs from pre-drill geomodels</b> <a href="https://nfes.org/2024/09/25/015-generating-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>13:05: David Holbrough (Baker Hughes) et al.: <b>Utilizing Deep & Ultra-Deep Azimuthal Resistivity Reservoir Mapping Technologies and Automated Well Placement To Aid Reservoir Understanding and Optimize Production – A Case Study</b> <a href="https://nfes.org/2024/09/25/016-utilizing-workshop-abstract.html">(abstract)</a></td>
+<td>13:05: Igor Kuvaev (ROGII) et al.: <b>Exploring 73,000 Texas Lateral Wells: Statistical Insights</b> <a href="https://nfes.org/2024/09/25/028-exploring-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>13:30 - 13:40</td>
@@ -149,7 +149,7 @@ presentation_date: 2024-11-11
 <td>13:55: Per Erik Wærum (Repsol Norge AS) et al.: <b>MAPPING HISTORICAL WATER FLOODING AND FACILITATING PRODUCTION STRATEGY WITH THE USE OF NEW RESERVOIR MAPPING-WHILE-DRILLING SYSTEMS: A CASE STUDY FROM OFFSHORE NORWAY </b> <a href="https://nfes.org/2024/09/25/019-mapping-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>14:20: TBA (TBA): <b>TBA</b> <a href="https://nfes.org/2024/09/25/026-tba-workshop-abstract.html">(abstract)</a></td>
+<td>14:20: David Holbrough (Baker Hughes) et al.: <b>Utilizing Deep & Ultra-Deep Azimuthal Resistivity Reservoir Mapping Technologies and Automated Well Placement To Aid Reservoir Understanding and Optimize Production – A Case Study</b> <a href="https://nfes.org/2024/09/25/016-utilizing-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>14:45 - 15:15</td>
@@ -175,9 +175,3 @@ presentation_date: 2024-11-11
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | <img class="image" alt="Equinor logo" src="/assets/logos/equinorlogo.png"/> | <img class="image" alt="Halliburton logo" src="/assets/logos/Halliburton_logo.svg.png"/> | <img class="image" alt="SLB logo" src="/assets/logos/SLB_Logo_2022.png"/> | <img class="image" alt="Vår Energi logo" src="/assets/logos/Varenergi_logo.svg.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> | <img class="image" alt="ROGII logo" src="/assets/logos/rogii_logo_index-1.png"/> |
 
-### Available sponsorship and marketing packages
-
-Download the 
-**[Letter to Potential Sponsors](/assets/workshop2024/geosteering-workshop-sponsor-NFES-2024-03-27.pdf)**
-and the 
-**[Offer Letter with Marketing Packages](/assets/workshop2024/geosteering-workshop-marketing-packages-NFES-2024-03-27.pdf)**.
