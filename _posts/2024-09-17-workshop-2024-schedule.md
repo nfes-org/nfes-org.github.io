@@ -54,10 +54,10 @@ presentation_date: 2024-11-11
 <tr>
 <td rowspan="2">13:00 - 13:50</td>
 <td rowspan="2">Post-job</td>
-<td>Kåre Røsvik Jensen (Equinor) et al.: <b>UDAR GEOSTEERING STRATEGY - understanding sensitivity</b> <a href="https://nfes.org/2024/09/25/010-udar-workshop-abstract.html">(abstract)</a></td>
+<td>13:00: Kåre Røsvik Jensen (Equinor) et al.: <b>UDAR GEOSTEERING STRATEGY - understanding sensitivity</b> <a href="https://nfes.org/2024/09/25/010-udar-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>Daria Latypova (Halliburton) et al.: <b>3D UDAR Technology Deployment for Successful Multi-Lateral Installation in a Complex Injectite Environment, Balder Field, NCS</b> <a href="https://nfes.org/2024/09/25/011-3d-workshop-abstract.html">(abstract)</a></td>
+<td>13:25: Daria Latypova (Halliburton) et al.: <b>3D UDAR Technology Deployment for Successful Multi-Lateral Installation in a Complex Injectite Environment, Balder Field, NCS</b> <a href="https://nfes.org/2024/09/25/011-3d-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>13:50 - 14:00</td>
@@ -121,7 +121,7 @@ presentation_date: 2024-11-11
 <td>10:50: Brigido Vicuña (Halliburton) et al.: <b>New UDAR Inversion Techniques for improved Imaging of Geological Structures</b> <a href="https://nfes.org/2024/09/25/024-new-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>11:15: TBA (Baker Hughes) et al.: <b>Transforming Reservoir Mapping Through Advanced 3D Visualizations of the New Flexible Inversion Data Format</b> <a href="https://nfes.org/2024/09/25/002-transforming-workshop-abstract.html">(abstract)</a></td>
+<td>11:15: Gleb Dyatlov (Baker Hughes) et al.: <b>Transforming Reservoir Mapping Through Advanced 3D Visualizations of the New Flexible Inversion Data Format</b> <a href="https://nfes.org/2024/09/25/002-transforming-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>11:40 - 12:40</td>
@@ -158,10 +158,10 @@ presentation_date: 2024-11-11
 <tr>
 <td rowspan="2">15:15 - 16:05</td>
 <td rowspan="2">Post-job</td>
-<td>Srdjan Popovic (Aker BP): <b>Case Study: Reservoir delineation and contacts mapping on the Frigg Gamma Delta field </b> <a href="https://nfes.org/2024/09/25/025-case-workshop-abstract.html">(abstract)</a></td>
+<td>15:15: Srdjan Popovic (Aker BP): <b>Case Study: Reservoir delineation and contacts mapping on the Frigg Gamma Delta field </b> <a href="https://nfes.org/2024/09/25/025-case-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>Sergey Gavrik (Halliburton) et al.: <b>Mapping Complex Oil Water contacts with Ultra-deep Azimuthal Resistivity, case studies from a Massive Carbonate Reservoir</b> <a href="https://nfes.org/2024/09/25/012-mapping-workshop-abstract.html">(abstract)</a></td>
+<td>15:40: Sergey Gavrik (Halliburton) et al.: <b>Mapping Complex Oil Water contacts with Ultra-deep Azimuthal Resistivity, case studies from a Massive Carbonate Reservoir</b> <a href="https://nfes.org/2024/09/25/012-mapping-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>16:05 - 16:20</td>
@@ -169,9 +169,12 @@ presentation_date: 2024-11-11
 </tr>
 </table>
 
+
+
 ## Sponsors
 
 | Equinor     | Halliburton | SLB         | Vår Energi  | Logtek      | ROGII       |
 |:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | <img class="image" alt="Equinor logo" src="/assets/logos/equinorlogo.png"/> | <img class="image" alt="Halliburton logo" src="/assets/logos/Halliburton_logo.svg.png"/> | <img class="image" alt="SLB logo" src="/assets/logos/SLB_Logo_2022.png"/> | <img class="image" alt="Vår Energi logo" src="/assets/logos/Varenergi_logo.svg.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> | <img class="image" alt="ROGII logo" src="/assets/logos/rogii_logo_index-1.png"/> |
+
 
