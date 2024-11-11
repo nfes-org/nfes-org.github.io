@@ -26,7 +26,7 @@ presentation_date: 2024-11-11
 </tr>
 <tr>
 <td rowspan="2">09:15 - 10:15</td>
-<td rowspan="2">Low-cost</td>
+<td rowspan="2">RT FE</td>
 <td>09:15: FRANCESCO DI CREDICO (BAKER HUGHES): <b>New Energies: Market Status on Geothermal Drilling and technical challenges</b> <a href="https://nfes.org/2024/09/25/027-new-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
