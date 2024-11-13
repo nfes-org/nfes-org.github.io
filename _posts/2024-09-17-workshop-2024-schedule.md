@@ -121,7 +121,7 @@ presentation_date: 2024-11-11
 <td>10:50: Brigido Vicuña (Halliburton) et al.: <b>New UDAR Inversion Techniques for improved Imaging of Geological Structures</b> <a href="https://nfes.org/2024/09/25/024-new-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>11:15: Gleb Dyatlov (Baker Hughes) et al.: <b>Transforming Reservoir Mapping Through Advanced 3D Visualizations of the New Flexible Inversion Data Format</b> <a href="https://nfes.org/2024/09/25/002-transforming-workshop-abstract.html">(abstract)</a></td>
+<td>11:15: David Holbrough (Baker Hughes) et al.: <b>Transforming Reservoir Mapping Through Advanced 3D Visualizations of the New Flexible Inversion Data Format</b> <a href="https://nfes.org/2024/09/25/002-transforming-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>11:40 - 12:40</td>
