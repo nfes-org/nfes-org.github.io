@@ -65,7 +65,7 @@ presentation_date: 2024-11-11
 </tr>
 <tr>
 <td>14:00 - 15:00</td>
-<td colspan="2"><b>Panel discussion: “Where is geosteering going in the next 10 years?”</b></td>
+<td colspan="2"><b>Panel discussion: “Where is geosteering going in the next 10 years?”</b>Hosts: Sergey Alyaev (NORCE) and Nigel Clegg (Halliburton). Panelists: David Holbrough (Baker Hughes), Frank Antonsen (Equinor), Michael Rabinovich (Bp), Karol Riofrio (Halliburton), Igor Kuvaev (ROGII).</td>
 </tr>
 <tr>
 <td>15:00 - 15:30</td>
