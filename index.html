@@ -105,17 +105,20 @@ layout: home
       {%- endif -%}
       <div style="flex: 1;">
         <p>{{ news.excerpt | default: "" }}</p>
-        <p><em>{{ news.date | date: "%A, %B %-d, %Y" }}</em></p>
-        {%- if news.url -%}
-        <a href="{{ news.url }}" class="button button--primary button--pill">Read more</a>
-        {%- endif -%}
       </div>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem;">
+      {%- if news.url -%}
+      <a href="{{ news.url }}" class="button button--primary button--pill">Read more</a>
+      {%- endif -%}
+      <p style="margin: 0; font-style: italic;">{{ news.date | date: "%A, %B %-d, %Y" }}</p>
     </div>
   </article>
   {%- endfor -%}
 </div>
 
 <hr>
+
 
 
 
