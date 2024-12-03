@@ -57,10 +57,10 @@ layout: home
     }
 </style>
 <style>
-  .hero-example--linear-gradient--sunset {
+  .hero-example--linear-gradient--people {
     background-image: linear-gradient(180deg, 
       rgba(94, 216, 254, 0.7), 
-      #e4ff82aa), url("/assets/events/Stavanger-Port-at-Dawn-cropped.jpg");
+      #e4ff82aa), url("/assets/workshop2024/Norce-GeosteeringWorkshop-panel-dark-back.jpg");
   }
 </style>
 <style>
@@ -76,7 +76,7 @@ layout: home
 
 <!-- <p>
 
-<div class="hero hero hero-example--linear-gradient--sunset" >
+<div class="hero hero hero-example--linear-gradient--people" >
   <div class="hero__content">
     <h4 id="next-conference-proed">NFES proudly hosted</h4>
     <h3 id="next-conference">
@@ -89,9 +89,9 @@ layout: home
 </div>
 </p> -->
 
-<hr>
 
-<h3>Latest News</h3>
+
+<h2>Latest News</h2>
 <div>
   {%- assign latest_news = site.tags["News"] | slice: 0, 2 -%} <!-- Fetch top 2 news -->
   {%- for news in latest_news -%}
@@ -117,24 +117,18 @@ layout: home
   {%- endfor -%}
 </div>
 
-<hr>
 
-
-
-
-<!-- 123 -->
-
-<h3>Sometimes, we also organise larger conferences</h3>
+<h4>Our Latest International Conference</h4>
 
 <p> 
 
-<div class="hero hero hero-example--linear-gradient--sunset" >
+<div class="hero hero hero-example--linear-gradient--people" >
   <div class="hero__content">
     <!-- <h4 id="next-conference-proed">NFES is proud to host</h4> -->
     <h3 id="next-conference">
       {{site.tags["UpcomingEvent"][0].title}}
     </h3>
-    <p>which starts on {{site.tags["UpcomingEvent"][0].presentation_date | date: "%A, %B %-d, %Y"}}</p>
+    <p>which was on {{site.tags["UpcomingEvent"][0].presentation_date | date: "%A, %B %-d, %Y"}}</p>
     <a class="button button--primary button--pill" href="{{site.tags['UpcomingEvent'][0].url}}">To the announcement!</a>
     </div>
 </div>
