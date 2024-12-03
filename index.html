@@ -30,7 +30,6 @@ layout: home
 <!-- <div class="padding: ($spacer * 3.5);"></div> -->
 
 
-<hr>
 
 <!-- <script src="jquery.date-filter.min.js"></script> -->
 
@@ -90,6 +89,25 @@ layout: home
 </div>
 </p> -->
   
+
+<hr>
+
+<h3>Latest News</h3>
+<div class="layout--articles">
+  {%- assign _articles = site.news | slice: 0, 2 -%} <!-- Fetches the top 2 news entries -->
+  {%- assign _show_cover = true -%}
+  {%- assign _show_excerpt = true -%}
+  {%- assign _show_readmore = true -%}
+  {%- assign _show_info = true -%}
+
+  {%- include article-list.html articles=_articles type='item'
+    show_cover=_show_cover
+    show_excerpt=_show_excerpt
+    show_readmore=_show_readmore
+    show_info=_show_info -%}
+</div>
+
+<hr>
 
 
 <!-- 123 -->
