@@ -60,7 +60,7 @@ def create_file(row, id):
 
 
 if __name__ == "__main__":
-    abstracts_data = pd.read_csv('~/Downloads/Abstract submission geosteering 2024 (Responses) - Form responses 1.csv')
+    abstracts_data = pd.read_csv('~/Downloads/Abstract submission geosteering 2024 (Responses) - Form responses 1 (2).csv')
     print(abstracts_data)
     for index, row in abstracts_data.iterrows():
         create_file(row, index+1)
