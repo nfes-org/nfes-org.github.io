@@ -1,7 +1,7 @@
 ---
 title: NFES Student Travel Grant Announcement
 tags: News 
-cover: /assets/events/save-new-dates-geosteering-2024.jpeg
+cover: /assets/news/travel-grand.jpeg
 cover_size: lg
 pageview: true
 excerpt: "We are thrilled to announce that the NFES started offering a travel grant to support students from Norway"
