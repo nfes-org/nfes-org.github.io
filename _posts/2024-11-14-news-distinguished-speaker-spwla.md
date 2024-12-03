@@ -4,7 +4,7 @@ tags: News
 cover: /assets/people/soren-ambi-christiansen.jpg
 cover_size: lg
 pageview: true
-excerpt: "NFES Nomination Success: Søren Amdi Christensen Selected as Regional Distinguished Speaker!"
+excerpt: "NFES Nomination Success: Søren Amdi Christensen is selected as one of the 2024-2025 SPWLA REGIONAL DISTINGUISHED SPEAKERS."
 ---
 **Søren Amdi Christensen** is selected as one of the 2024-2025 SPWLA REGIONAL DISTINGUISHED SPEAKERS.
 
