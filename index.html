@@ -95,25 +95,28 @@ layout: home
 <div>
   {%- assign latest_news = site.tags["News"] | slice: 0, 2 -%} <!-- Fetch top 2 news -->
   {%- for news in latest_news -%}
-  <article style="display: flex; align-items: flex-start; gap: 1rem; margin-bottom: 1.5rem;">
-    {%- if news.cover -%}
-    <div style="flex: 0 0 120px;">
-      <img src="{{ news.cover }}" alt="{{ news.title }}" style="width: 100%; height: auto; border-radius: 5px;">
-    </div>
-    {%- endif -%}
-    <div style="flex: 1;">
-      <h4>{{ news.title }}</h4>
-      <p>{{ news.excerpt | default: "" }}</p>
-      <p><em>{{ news.date | date: "%A, %B %-d, %Y" }}</em></p>
-      {%- if news.url -%}
-      <a href="{{ news.url }}" class="button button--primary button--pill">Read more</a>
+  <article style="margin-bottom: 1.5rem;">
+    <h4 style="margin-bottom: 0.5rem;">{{ news.title }}</h4>
+    <div style="display: flex; align-items: flex-start; gap: 1rem;">
+      {%- if news.cover -%}
+      <div style="flex: 0 0 120px;">
+        <img src="{{ news.cover }}" alt="{{ news.title }}" style="width: 100%; height: auto; border-radius: 5px;">
+      </div>
       {%- endif -%}
+      <div style="flex: 1;">
+        <p>{{ news.excerpt | default: "" }}</p>
+        <p><em>{{ news.date | date: "%A, %B %-d, %Y" }}</em></p>
+        {%- if news.url -%}
+        <a href="{{ news.url }}" class="button button--primary button--pill">Read more</a>
+        {%- endif -%}
+      </div>
     </div>
   </article>
   {%- endfor -%}
 </div>
 
 <hr>
+
 
 
 <!-- 123 -->
