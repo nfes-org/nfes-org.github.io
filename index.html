@@ -88,23 +88,23 @@ layout: home
     </div>
 </div>
 </p> -->
-  
 
 <hr>
 
 <h3>Latest News</h3>
-<div class="layout--articles">
-  {%- assign _articles = site.news | slice: 0, 2 -%} <!-- Fetches the top 2 news entries -->
-  {%- assign _show_cover = true -%}
-  {%- assign _show_excerpt = true -%}
-  {%- assign _show_readmore = true -%}
-  {%- assign _show_info = true -%}
-
-  {%- include article-list.html articles=_articles type='item'
-    show_cover=_show_cover
-    show_excerpt=_show_excerpt
-    show_readmore=_show_readmore
-    show_info=_show_info -%}
+<div>
+  {%- assign latest_news = site.tags["News"] | slice: 0, 2 -%} <!-- Fetch top 2 news -->
+  {%- for news in latest_news -%}
+  <article>
+    <h4>{{ news.title }}</h4>
+    <p>{{ news.excerpt | default: "" }}</p> <!-- Use empty string as fallback -->
+    <p><em>{{ news.date | date: "%A, %B %-d, %Y" }}</em></p>
+    {%- if news.url -%}
+    <a href="{{ news.url }}" class="button button--primary button--pill">Read more</a>
+    {%- endif -%}
+  </article>
+  <hr>
+  {%- endfor -%}
 </div>
 
 <hr>
