@@ -91,14 +91,33 @@ layout: home
 
 <hr>
 
-<h3>Latest news</h3>
+<!-- <h3>Latest news</h3>
 <div class="layout--articles">
-  {%- assign latest_news = site.tags["News"] | slice: 0, 2 -%} <!-- Fetch top 2 news -->
+  {%- assign latest_news = site.tags["News"] | slice: 0, 2 -%}
   {%- include article-list.html articles=latest_news type='item'
     show_cover=true
     show_excerpt=true
     show_readmore=true
     show_info=true -%}
+</div> -->
+
+<h3>Latest News</h3>
+<div>
+  {%- assign latest_news = site.tags["News"] | slice: 0, 2 -%} <!-- Fetch top 2 news -->
+  {%- for news in latest_news -%}
+  <article>
+    {%- if news.cover -%}
+    <img src="{{ news.cover }}" alt="{{ news.title }}" style="max-width: 100%; height: auto;">
+    {%- endif -%}
+    <h4>{{ news.title }}</h4>
+    <p>{{ news.excerpt | default: "" }}</p>
+    <p><em>{{ news.date | date: "%A, %B %-d, %Y" }}</em></p>
+    {%- if news.url -%}
+    <a href="{{ news.url }}" class="button button--primary button--pill">Read more</a>
+    {%- endif -%}
+  </article>
+  <hr>
+  {%- endfor -%}
 </div>
 
 <hr>
