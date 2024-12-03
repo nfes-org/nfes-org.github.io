@@ -96,7 +96,7 @@ layout: home
   {%- assign latest_news = site.tags["News"] | slice: 0, 2 -%} <!-- Fetch top 2 news -->
   {%- include article-list.html articles=latest_news type='item'
     show_cover=true
-    cover_size='sm' <!-- Use 'sm' to make the cover small -->
+    cover_size='sm'
     show_excerpt=true
     show_readmore=true
     show_info=true -%}
