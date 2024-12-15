@@ -1,5 +1,5 @@
 ---
-title: "Søren Amdi Christensen Selected as Regional Distinguished Speaker!"
+title: "Three students recieved a travel grant in 2024"
 tags: News
 cover: /assets/people/Hibat-Dler-Yasaman.jpg
 cover_size: lg
