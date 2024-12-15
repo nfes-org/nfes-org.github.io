@@ -5,7 +5,7 @@ presenter: Mathias Horstmann
 presenter_affiliation: SLB
 # place: Strandhuset, Ølberg
 # presentation_time: "11:30"
-presentation_date: 2024-01-08
+presentation_date: 2025-01-08
 # presenter_photo: /assets/people/Alexandra_Cely.jpg
 ---
 
