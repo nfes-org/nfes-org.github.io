@@ -4,8 +4,9 @@
   <ul>
     Sponsors
   </ul>
+  {%- assign has_expired_sponsors = false -%}
+  {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
   <ul class="menu menu--nowrap menu--inline">
-      {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
       {%- for company in site.data.sponsors -%}
       {%- assign company_timestamp = company.valid_until | date: "%Y-%m-%d" -%}
         {%- if site_timestamp < company_timestamp -%}
@@ -17,8 +18,30 @@
             <img class="image image--sm" alt="{{ company.name }} logo, confirmed until {{ company_timestamp }}" src="{{ company.logo }}">
             </a>
           </li>
+        {%- else -%}
+          {%- assign has_expired_sponsors = true -%} 
         {%- endif -%}
       {%- endfor -%}
-
   </ul>
+  {%- has_expired_sponsors -%}
+  <ul>
+    Recent Sponsors
+  </ul>
+  <ul class="menu menu--nowrap menu--inline">
+      {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
+      {%- for company in site.data.sponsors -%}
+      {%- assign company_timestamp = company.valid_until | date: "%Y-%m-%d" -%}
+        {%- if site_timestamp >= company_timestamp -%}
+          <li>
+            <a 
+            itemprop="sameAs" href="{{ company.link }}" 
+            rel="noreferrer"
+            target="_blank">
+            <img class="image image--sm" alt="{{ company.name }} logo, confirmed until {{ company_timestamp }}" src="{{ company.logo }}">
+            </a>
+          </li>
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
 </div>
