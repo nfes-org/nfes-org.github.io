@@ -92,7 +92,7 @@ layout: home
 
 
 <h2>Latest News</h2>
-<div>
+<div> 
   {%- assign latest_news = site.tags["News"] | slice: 0, 3 -%} <!-- Fetch top 2 news -->
   {%- for news in latest_news -%}
   <article style="margin-bottom: 1.5rem;">
