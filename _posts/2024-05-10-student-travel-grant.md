@@ -16,8 +16,9 @@ We are thrilled to announce that the **NFES is offering a travel grant to suppor
 ### How to Apply
 1. Students must have an accepted presentation at one of the specified events to apply.
 2. Complete the **[application form](https://forms.gle/GgVP8qvBbW1e8isx8)** available at https://forms.gle/GgVP8qvBbW1e8isx8, including details of the accepted presentation and a brief description of your research.
-3. Submit the completed form for consideration.
-Selection Process
+3. Submit the completed form for consideration at least **3 weeks in advance for local events** and **6 weeks in advance for international events**.
+
+#### Selection Process
 
 Funding decisions will be made by the NFES board, ensuring a fair and thorough review of all applications.
 
