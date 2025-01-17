@@ -1,6 +1,6 @@
 ---
 tags: presentation
-title: "Advancements in Pulsed Neutron Generator based Formation Evaluation while Drilling (Mathias Horstmann** SLB)"
+title: "Advancements in Pulsed Neutron Generator based Formation Evaluation while Drilling (Mathias Horstmann, SLB)"
 presenter: Mathias Horstmann
 presenter_affiliation: SLB
 # place: Strandhuset, Ølberg
