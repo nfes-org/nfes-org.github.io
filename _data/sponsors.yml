@@ -43,14 +43,14 @@
 - name: Hydrophilic
   logo: /assets/logos/Hydrophilic-LOGO2.png
   link: https://www.hydrophilic.no/
-  includes_renewal_months: 1
-  valid_until: 2025-02-24
+  includes_renewal_months: 6
+  valid_until: 2025-06-24
 
 - name: Logtek
   logo: /assets/logos/Logtek.png
   link: https://www.logtek.no/
-  includes_renewal_months: 1
-  valid_until: 2025-02-22
+  includes_renewal_months: 6
+  valid_until: 2025-06-22
 
 
 
