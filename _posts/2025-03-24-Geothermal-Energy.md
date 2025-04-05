@@ -1,6 +1,6 @@
 ---
 tags: presentation
-title: "CCUS from emitter to storage – where are we and what do we need (Kirsti Midttømme, NORCE)"
+title: "Geothermal Energy in the Nordics: Drilling and Sustainable Utilization (Kirsti Midttømme, NORCE)"
 presenter: Kirsti Midttømme
 presenter_affiliation: NORCE
 # place: Strandhuset, Ølberg
