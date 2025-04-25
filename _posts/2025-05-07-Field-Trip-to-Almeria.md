@@ -19,7 +19,7 @@ The field trip guide will be Cesar Viseras, (clastic sedimentologist and stratig
 ### Practicalities
 The total number of participants is limited to a maximum of 16, on a first-come-first-serve basis, **starting Monday, 12th May** (i.e., earlier sign-ups will be discarded).  The sign-up deadline is set to EOB Wednesday, 21st May. However, in case of a high level of interest and more than 16 participant submissions, membership status will be included in the evaluation and selection processes.
 
-Cost (including travel and diet) is expected to be within 16 kNOK per person, of which 2 kNOK will be sponsored by NFES.  All participants will have to be NFES 2025 paying members.
+Cost (including travel and diet) is expected to be within 16 kNOK per person, of which 2 kNOK will be sponsored by NFES.  All participants will have to be NFES 2024 and 2025 paying members.
 
 ### How to sign-up
 To sign-up:
