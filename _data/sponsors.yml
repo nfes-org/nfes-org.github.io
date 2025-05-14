@@ -34,12 +34,6 @@
   includes_renewal_months: 1
   valid_until: 2025-06-02
 
-- name: ROGII
-  logo: /assets/logos/rogii_logo_index-1.png
-  link: https://www.rogii.com/
-  includes_renewal_months: 1
-  valid_until: 2025-04-15
-
 - name: Hydrophilic
   logo: /assets/logos/Hydrophilic-LOGO2.png
   link: https://www.hydrophilic.no/
