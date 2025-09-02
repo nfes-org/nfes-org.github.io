@@ -1,15 +1,15 @@
 ---
 tags: presentation
-title: "Energy Transition Outlook and the role of Norwegian Oil & Gas (Geir Egil Eie, DNV)"
-presenter: Geir Egil Eie
-presenter_affiliation: DNV
+title: "Evaluating Waterflood Effectiveness and Hydrocarbon Recovery Using Constraint Inversion of Resistivity Sigma and Core Data (Harish Datir, SLB)"
+presenter: Harish Datir
+presenter_affiliation: SLB
 # place: Strandhuset, Ølberg
 # presentation_time: "11:30"
-presentation_date: 2025-06-04
+presentation_date: 2025-09-03
 # presenter_photo: /assets/people/Alexandra_Cely.jpg
 ---
 
-The technical presentation “Evaluating Waterflood Effectiveness and Hydrocarbon Recovery Using Constraint Inversion of Resistivity Sigma and Core Data“ will be given by Harish Datir from SLB.
+The technical presentation **"Evaluating Waterflood Effectiveness and Hydrocarbon Recovery Using Constraint Inversion of Resistivity Sigma and Core Data"** will be given by **Harish Datir from SLB**.
 
  
 
@@ -31,6 +31,6 @@ The approach delivered consistent present-day Sw profiles and improved quantific
 
 ### Bio:
 
-Harish B. Datir is a Principal Domain Champion for Petrophysics, Acoustics and Geology services, based in Stavanger, Norway. He began his career with SLB in 2007 as a Wireline Field Engineer in Saudi Arabia and has held various roles across multiple locations. In 2017, he assumed his current position as Domain Champion, leveraging his experience in formation evaluation in both carbonate and clastic environments. He worked in the Middle East for five years, and since 2012, he has been working in Scandinavia, covering Norway and Denmark operations. He has a degree in applied geology and a master’s in applied geophysics. His work focuses on developing new integrated answer products and improving the existing ones in support to better utilization of SLB log measurements and to contribute to more reliable reservoir characterization.
+**Harish B. Datir** is a Principal Domain Champion for Petrophysics, Acoustics and Geology services, based in Stavanger, Norway. He began his career with SLB in 2007 as a Wireline Field Engineer in Saudi Arabia and has held various roles across multiple locations. In 2017, he assumed his current position as Domain Champion, leveraging his experience in formation evaluation in both carbonate and clastic environments. He worked in the Middle East for five years, and since 2012, he has been working in Scandinavia, covering Norway and Denmark operations. He has a degree in applied geology and a master’s in applied geophysics. His work focuses on developing new integrated answer products and improving the existing ones in support to better utilization of SLB log measurements and to contribute to more reliable reservoir characterization.
 
  
