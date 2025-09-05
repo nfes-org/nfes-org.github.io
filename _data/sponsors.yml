@@ -1,53 +1,42 @@
-- name: Vår Energi
-  logo: /assets/logos/Varenergi_logo.svg.png
-  link: https://varenergi.no/
-  includes_renewal_months: 3
-  valid_until: 2025-09-01
+- name: Equinor
+  logo: /assets/logos/equinorlogo.png
+  link: https://www.equinor.com/
+  includes_renewal_months: 5
+  valid_until: 2026-12-28
+
+- name: Aker BP
+  logo: /assets/logos/akerbplogo.png
+  link: https://akerbp.com/en/
+  includes_renewal_months: 5
+  valid_until: 2025-12-28
 
 - name: SLB
   logo: /assets/logos/SLB_Logo_2022.png
   link: https://www.slb.com/
-  includes_renewal_months: 3
-  valid_until: 2025-09-01
+  includes_renewal_months: 5
+  valid_until: 2025-12-28
+
+- name: Logtek
+  logo: /assets/logos/Logtek.png
+  link: https://www.logtek.no/
+  includes_renewal_months: 5
+  valid_until: 2027-12-28
+
+- name: Well ID
+  logo: /assets/logos/LOGO_WELL_ID_small.png
+  link: https://wellid.no/
+  note: not paid at the time of update
+  includes_renewal_months: 5
+  valid_until: 2026-12-28
+
+- name: Hydrophilic
+  logo: /assets/logos/Hydrophilic-LOGO2.png
+  link: https://www.hydrophilic.no/
+  includes_renewal_months: 5
+  valid_until: 2026-12-28
 
 - name: Halliburton
   logo: /assets/logos/Halliburton_logo.svg.png
   link: https://www.halliburton.com/
   includes_renewal_months: 3
   valid_until: 2025-09-01
-
-- name: Equinor
-  logo: /assets/logos/equinorlogo.png
-  link: https://www.equinor.com/
-  includes_renewal_months: 1
-  valid_until: 2026-01-14
-
-- name: Well ID
-  logo: /assets/logos/LOGO_WELL_ID_small.png
-  link: https://wellid.no/
-  includes_renewal_months: 1
-  valid_until: 2025-06-24
-
-- name: Aker BP
-  logo: /assets/logos/akerbplogo.png
-  link: https://akerbp.com/en/
-  includes_renewal_months: 1
-  valid_until: 2025-06-02
-
-- name: Hydrophilic
-  logo: /assets/logos/Hydrophilic-LOGO2.png
-  link: https://www.hydrophilic.no/
-  includes_renewal_months: 6
-  valid_until: 2025-06-24
-
-- name: Logtek
-  logo: /assets/logos/Logtek.png
-  link: https://www.logtek.no/
-  includes_renewal_months: 6
-  valid_until: 2025-06-22
-
-
-
-
-
-

@@ -6,8 +6,10 @@
   </ul>
   {%- assign has_expired_sponsors = false -%}
   {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
+  {%- assign sorted_sponsors = site.data.sponsors | sort: "valid_until" | reverse -%}
+
   <ul class="menu menu--nowrap menu--inline">
-      {%- for company in site.data.sponsors -%}
+      {%- for company in sorted_sponsors -%}
       {%- assign company_timestamp = company.valid_until | date: "%Y-%m-%d" -%}
         {%- if site_timestamp < company_timestamp -%}
           <li>
@@ -23,7 +25,7 @@
         {%- endif -%}
       {%- endfor -%}
   </ul>
-  {%- if has_expired_sponsors -%}
+  <!-- {%- if has_expired_sponsors -%}
   <ul>
     Recent Sponsors
   </ul>
@@ -43,5 +45,5 @@
         {%- endif -%}
       {%- endfor -%}
     </ul>
-  {%- endif -%}
+  {%- endif -%} -->
 </div>
