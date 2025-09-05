@@ -38,5 +38,5 @@
 - name: Halliburton
   logo: /assets/logos/Halliburton_logo.svg.png
   link: https://www.halliburton.com/
-  includes_renewal_months: 3
-  valid_until: 2025-09-01
+  includes_renewal_months: 5
+  valid_until: 2025-12-28
