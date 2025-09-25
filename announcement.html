@@ -154,7 +154,8 @@ layout: none
     <h3>Our Sponsors</h3>
     <ul>
     {%- assign site_timestamp = site.time | date: "%Y-%m-%d" -%}
-    {%- for company in site.data.sponsors -%}
+    {%- assign sorted_sponsors = site.data.sponsors | sort: "valid_until" | reverse -%}
+    {%- for company in sorted_sponsors -%}
     {%- assign company_timestamp = company.valid_until | date: "%Y-%m-%d" -%}
         {%- if site_timestamp < company_timestamp -%}
             <li>
@@ -162,6 +163,8 @@ layout: none
             </li>
         {%- endif -%}
     {%- endfor -%}
+    
+
     </ul>
     </div>
 </div>
