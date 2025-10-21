@@ -40,3 +40,5 @@ python-scripts/.idea/workspace.xml
 python-scripts/.idea/
 
 .idea/
+
+python-scripts/.venv/
