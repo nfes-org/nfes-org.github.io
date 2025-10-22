@@ -3,6 +3,7 @@ tags: News
 title: "Schedule for NFES Formation Evaluation Seminar, November 12, 2025"
 presentation_date: 2025-11-12
 cover: assets/events/Norce-GeosteeringWorkshop24-19.jpg
+excerpt: "The schedule for the November 12th NFES Seminar is now available!"
 ---
 
 [**To the event announcement**](/2025/09/08/nfes-full-day-2025.html)
