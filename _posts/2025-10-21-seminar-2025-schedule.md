@@ -1,10 +1,13 @@
 ---
-tags: news
+tags: News
 title: "Schedule for NFES Formation Evaluation Seminar, November 12, 2025"
 presentation_date: 2025-11-12
+cover: assets/events/Norce-GeosteeringWorkshop24-19.jpg
 ---
 
-[To the event announcement](/2025/09/08/nfes-full-day-2025.html)
+[**To the event announcement**](/2025/09/08/nfes-full-day-2025.html)
+
+**The program is preliminary while we await confirmations from the presenters.**
 
 <table class="nice-table" id="table"><tr>
 <th colspan="3"><b>November 12</b></th>
@@ -18,20 +21,23 @@ presentation_date: 2025-11-12
 <td colspan="2"><b>Opening</b></td>
 </tr>
 <tr>
-<td rowspan="2">09:15 - 10:15</td>
-<td rowspan="2">Session 1</td>
-<td>09:15: Chee Kong Chen (Baker Hughes): <b>Maximising cased hole logging data – A case history of discovering unexpected crossflow</b> (Waiting for confirmation)</td>
+<td rowspan="2">09:15 - 10:05</td>
+<td rowspan="2">I</td>
+<td>09:15: Knut Arne Birkedal (Aker BP) et al.: <b>A Cloud-native Workflow for Formation Pressure Evaluation: Enhancing  Subsurface Analysis and Field Development</b> (Waiting for confirmation)</td>
 </tr>
 <tr>
-<td>09:50: Viktoriya Nam (Snr. Cased Hole Geoscientist Baker Hughes): <b>Production Logging Interpretation Challenges in Deviated Multiphase  Flow (Mature Oil Well Case Study)</b> (Waiting for confirmation)</td>
+<td>09:40: Viktoriya Nam (Snr. Cased Hole Geoscientist Baker Hughes): <b>Production Logging Interpretation Challenges in Deviated Multiphase  Flow (Mature Oil Well Case Study)</b> (Waiting for confirmation)</td>
 </tr>
 <tr>
-<td>10:15 - 10:45</td>
+<td>10:05 - 10:35</td>
 <td colspan="2"><b>Break</b></td>
 </tr>
 <tr>
-<td rowspan="2">10:45 - 11:50</td>
-<td rowspan="2">Session 2</td>
+<td rowspan="3">10:35 - 11:50</td>
+<td rowspan="3">II</td>
+<td>10:35: Kjetil Westeng (Aker BP): <b>Optimized Dynamic Depth Alignment Between Well Logs for Enhanced Petrophysical and Rock Physics Interpretation</b> </td>
+</tr>
+<tr>
 <td>11:00: Trond Rolfsvåg (Hydrophilic AS): <b>Petrophysical Sensemaking</b> (Waiting for confirmation)</td>
 </tr>
 <tr>
@@ -43,7 +49,7 @@ presentation_date: 2025-11-12
 </tr>
 <tr>
 <td rowspan="2">12:50 - 13:40</td>
-<td rowspan="2">Session 3</td>
+<td rowspan="2">III</td>
 <td>12:50: Darling Criollo (Halliburton) et al.: <b>Advanced Gas analysis meets Geoscience solution in Norway field: the insights of a holistic approach</b> (Waiting for confirmation)</td>
 </tr>
 <tr>
@@ -54,28 +60,30 @@ presentation_date: 2025-11-12
 <td colspan="2"><b>Break</b></td>
 </tr>
 <tr>
-<td>14:10 - 14:35</td>
+<td>14:10 - 14:25</td>
 <td colspan="2"><b>Logo selection</b></td>
 </tr>
 <tr>
-<td rowspan="2">14:35 - 15:25</td>
-<td rowspan="2">Session 4</td>
-<td>14:35: Amit Govil  (SLB - RP-Intervention Advisor ) et al.: <b>Lightweight cement evaluation using Tight processing from Pulse-Echo and Pitch-Catch data.  </b> (Waiting for confirmation)</td>
+<td rowspan="2">14:25 - 15:15</td>
+<td rowspan="2">IV</td>
+<td>14:25: Amit Govil  (SLB - RP-Intervention Advisor ) et al.: <b>Lightweight cement evaluation using Tight processing from Pulse-Echo and Pitch-Catch data.  </b> (Waiting for confirmation)</td>
 </tr>
 <tr>
-<td>15:00: Knut Arne Birkedal (Aker BP) et al.: <b>A Cloud-native Workflow for Formation Pressure Evaluation: Enhancing  Subsurface Analysis and Field Development</b> (Waiting for confirmation)</td>
+<td>14:50: Chee Kong Chen (Baker Hughes): <b>Maximising cased hole logging data – A case history of discovering unexpected crossflow</b> (Waiting for confirmation)</td>
 </tr>
 <tr>
-<td>15:25 - 15:40</td>
+<td>15:15 - 15:30</td>
 <td colspan="2"><b>Concluding remarks</b></td>
 </tr>
 <tr>
-<td>15:40 - </td>
+<td>15:30 - </td>
 <td colspan="2"><b>End of program</b></td>
 </tr>
 </table>### Available sponsorship and marketing packages
 
-Download the 
-**[Letter to Potential Sponsors](/assets/workshop2024/geosteering-workshop-sponsor-NFES-2024-03-27.pdf)**
-and the 
-**[Offer Letter with Marketing Packages](/assets/workshop2024/geosteering-workshop-marketing-packages-NFES-2024-03-27.pdf)**.
+NFES offers high visibility to our partners at the seminar.
+ Sponsorship and marketing packages are available starting from 15,000 NOK.
+
+ For more details on the opportunities, please contact:
+
+ - Annette Larsen: alarsen@logtek.no
