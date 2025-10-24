@@ -24,10 +24,10 @@ excerpt: "The schedule for the November 12th NFES Seminar is now available!"
 <tr>
 <td rowspan="2">09:15 - 10:05</td>
 <td rowspan="2">I</td>
-<td>09:15: Chee Kong Chen (Baker Hughes): <b>Maximising cased hole logging data – A case history of discovering unexpected crossflow</b> <a href="https://nfes.org/2025/10/21/003-maximising-workshop-abstract.html">(abstract)</a></td>
+<td>09:15: Knut Arne Birkedal (Aker BP) et al.: <b>A Cloud-native Workflow for Formation Pressure Evaluation: Enhancing  Subsurface Analysis and Field Development</b> <a href="https://nfes.org/2025/10/21/010-a-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>09:40: Trond Rolfsvåg (Hydrophilic AS): <b>Petrophysical Sensemaking</b> <a href="https://nfes.org/2025/10/21/005-petrophysical-workshop-abstract.html">(abstract)</a></td>
+<td>09:40: Viktoriya Nam (Snr. Cased Hole Geoscientist Baker Hughes): <b>Production Logging Interpretation Challenges in Deviated Multiphase  Flow (Mature Oil Well Case Study)</b> <a href="https://nfes.org/2025/10/21/004-production-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>10:05 - 10:35</td>
@@ -39,7 +39,7 @@ excerpt: "The schedule for the November 12th NFES Seminar is now available!"
 <td>10:35: Kjetil Westeng (Aker BP): <b>Optimized Dynamic Depth Alignment Between Well Logs for Enhanced Petrophysical and Rock Physics Interpretation</b> (Waiting for confirmation)</td>
 </tr>
 <tr>
-<td>11:00: Viktoriya Nam (Snr. Cased Hole Geoscientist Baker Hughes): <b>Production Logging Interpretation Challenges in Deviated Multiphase  Flow (Mature Oil Well Case Study)</b> <a href="https://nfes.org/2025/10/21/004-production-workshop-abstract.html">(abstract)</a></td>
+<td>11:00: Trond Rolfsvåg (Hydrophilic AS): <b>Petrophysical Sensemaking</b> <a href="https://nfes.org/2025/10/21/005-petrophysical-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>11:25: Durra Handri Saputera (University of Bergen) et al.: <b>Rapid Modelling of Electromagnetic Induction Log Data using an Adaptive Born Approximation</b> <a href="https://nfes.org/2025/10/21/006-rapid-workshop-abstract.html">(abstract)</a></td>
@@ -67,10 +67,10 @@ excerpt: "The schedule for the November 12th NFES Seminar is now available!"
 <tr>
 <td rowspan="2">14:25 - 15:15</td>
 <td rowspan="2">IV</td>
-<td>14:25: Knut Arne Birkedal (Aker BP) et al.: <b>A Cloud-native Workflow for Formation Pressure Evaluation: Enhancing  Subsurface Analysis and Field Development</b> <a href="https://nfes.org/2025/10/21/010-a-workshop-abstract.html">(abstract)</a></td>
+<td>14:25: Amit Govil  (SLB - RP-Intervention Advisor ) et al.: <b>Lightweight cement evaluation using Tight processing from Pulse-Echo and Pitch-Catch data.  </b> <a href="https://nfes.org/2025/10/21/009-lightweight-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>14:50: Amit Govil  (SLB - RP-Intervention Advisor ) et al.: <b>Lightweight cement evaluation using Tight processing from Pulse-Echo and Pitch-Catch data.  </b> <a href="https://nfes.org/2025/10/21/009-lightweight-workshop-abstract.html">(abstract)</a></td>
+<td>14:50: Chee Kong Chen (Baker Hughes): <b>Maximising cased hole logging data – A case history of discovering unexpected crossflow</b> <a href="https://nfes.org/2025/10/21/003-maximising-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>15:15 - 15:30</td>
