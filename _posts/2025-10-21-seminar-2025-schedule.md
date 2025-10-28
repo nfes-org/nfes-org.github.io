@@ -8,7 +8,9 @@ excerpt: "The schedule for the November 12th NFES Seminar is now available!"
 
 [**To the event announcement**](/2025/09/08/nfes-full-day-2025.html)
 
-**The program is preliminary while we await confirmations from the presenters.**
+[**Online registration is open!**](https://forms.gle/rcWjB6hE7MQGHkYJ8)
+
+The program is preliminary while we await confirmations from the presenters.
 
 <table class="nice-table" id="table"><tr>
 <th colspan="3"><b>November 12</b></th>
