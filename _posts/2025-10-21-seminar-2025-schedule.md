@@ -38,7 +38,7 @@ The program is preliminary while we await confirmations from the presenters.
 <tr>
 <td rowspan="3">10:35 - 11:50</td>
 <td rowspan="3">II</td>
-<td>10:35: Kjetil Westeng (Aker BP): <b>Optimized Dynamic Depth Alignment Between Well Logs for Enhanced Petrophysical and Rock Physics Interpretation</b> (Waiting for confirmation)</td>
+<td>10:35: Kjetil Westeng (Aker BP): <b>Optimized Dynamic Depth Alignment Between Well Logs for Enhanced Petrophysical and Rock Physics Interpretation</b> <a href="https://nfes.org/2025/10/21/011-optimized-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>11:00: Trond Rolfsvåg (Hydrophilic AS): <b>Petrophysical Sensemaking</b> <a href="https://nfes.org/2025/10/21/005-petrophysical-workshop-abstract.html">(abstract)</a></td>
@@ -56,7 +56,7 @@ The program is preliminary while we await confirmations from the presenters.
 <td>12:50: Darling Criollo (Halliburton) et al.: <b>Advanced Gas analysis meets Geoscience solution in Norway field: the insights of a holistic approach</b> <a href="https://nfes.org/2025/10/21/007-advanced-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>13:15: Tom Bradley (Baker Hughes) et al.: <b>Quantifying Porosity, Permeability and Reservoir Quality in Geothermal Wells Using a New High Efficiency Nuclear Magnetic Resonance Logging Methodology</b> (Waiting for confirmation)</td>
+<td>13:15: Tom Bradley (Baker Hughes) et al.: <b>Quantifying Porosity, Permeability and Reservoir Quality in Geothermal Wells Using a New High Efficiency Nuclear Magnetic Resonance Logging Methodology</b> <a href="https://nfes.org/2025/10/21/008-quantifying-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>13:40 - 14:10</td>
