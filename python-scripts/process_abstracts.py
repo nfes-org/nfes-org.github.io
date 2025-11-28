@@ -126,7 +126,7 @@ def create_file(row, id, overwrite=False):
         abstract = row[abstract_col]
         formatted_abstract = re.sub(r'\r\n|\r|\n', '\n\n', abstract)
         md_file.write(formatted_abstract)
-        md_file.write('\n')
+        md_file.write('\n\n')
 
         if pd.notna(row[embeded_pic_col]):
             file_type, file_id, url = drive_to_direct_url(row[embeded_pic_col])
@@ -153,7 +153,7 @@ def create_file(row, id, overwrite=False):
 
 
 if __name__ == "__main__":
-    abstracts_data = pd.read_csv('~/Downloads/2025 Abstract submission formation evaluation (Responses) - Form responses 1.csv')
+    abstracts_data = pd.read_csv('~/Downloads/2025 Abstract submission formation evaluation (Responses) - Form responses 1 (1).csv')
     abstracts_data = abstracts_data.rename(columns=lambda c: "Abstract" if c.startswith("Abstract of the contributed talk") else c)
 
     print(abstracts_data)
