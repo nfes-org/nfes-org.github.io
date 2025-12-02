@@ -15,7 +15,7 @@ Durra has recently submitted his PhD thesis at the University of Bergen titled *
 He is looking for a permanent R&D position in industry, awaiting his scheduled defence. 
 In the meantime, he continues developing the presented line of research started in collaboration with the Formation Evaluation Consortium at UT Austin through a DigiWells researcher grant.
 
-This grant is not the first one that he has received from NFES. Last year, Durra received [the Travel Grant](/2024/12/03/student-grants-delivered-for-2024.html) as the only PhD student from Norway to have a paper accepted for the 2024 Annual SPWLA Symposium.
+This grant is not the first one that he has received from NFES. Last year, Durra received [the Travel Grant](/2024/12/03/student-grants-delivered-for-2024.html) as the only PhD student from Norway to have a paper accepted for the Stundet Contest of 2024 Annual SPWLA Symposium. 
 
 
 
