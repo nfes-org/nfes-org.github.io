@@ -40,3 +40,11 @@
   link: https://www.halliburton.com/
   includes_renewal_months: 5
   valid_until: 2027-04-09
+
+- name: Harbour Energy
+  logo: /assets/logos/Harbour_Energy_Logo.png
+  link: https://www.harbourenergy.com/
+  includes_renewal_months: 5
+  valid_until: 2027-06-09
+
+  
