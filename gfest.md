@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN  Geosteering and Formation Evaluation Wrokshop 2024
+  en      : &EN  Geosteering and Formation Evaluation Workshop 2027
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -46,8 +46,12 @@ key: page-geosteering-workshop
 </div>
 
 ## Quick links
- * [Workshop schedule](/2024/09/17/workshop-2024-schedule.html)
- * [Discover abstracts](/archive.html?tag=workshop2024abstract)
+ * [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A)
+ * [Workshop announcement]({{site.tags['UpcomingEvent'][0].url}})
+
+## Previous edition (2024)
+ * [2024 workshop schedule](/2024/09/17/workshop-2024-schedule.html)
+ * [2024 abstracts](/archive.html?tag=workshop2024abstract)
 
 ## Partner
 NFES is partnering with [NORCE](https://www.norceresearch.no/en/) to organise **{{site.tags["UpcomingEvent"][0].title}}**.
@@ -61,8 +65,6 @@ NORCE coordinates several interdisciplinary research projects working on geostee
 
 
 
-## Sponsors 
+## Sponsors
 
-| Equinor     | Halliburton | SLB         | Vår Energi  | Logtek      | ROGII       |
-|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| <img class="image" alt="Equinor logo" src="/assets/logos/equinorlogo.png"/> | <img class="image" alt="Halliburton logo" src="/assets/logos/Halliburton_logo.svg.png"/> | <img class="image" alt="SLB logo" src="/assets/logos/SLB_Logo_2022.png"/> | <img class="image" alt="Vår Energi logo" src="/assets/logos/Varenergi_logo.svg.png"/> | <img class="image" alt="Logtek logo" src="/assets/logos/Logtek.png"/> | <img class="image" alt="ROGII logo" src="/assets/logos/rogii_logo_index-1.png"/> |
+Sponsorship opportunities for the 2027 workshop are open. To become a sponsor, please contact **Annette Larsen** [alarsen@logtek.no](mailto:alarsen@logtek.no).
