@@ -5,7 +5,7 @@ presenter: Priscila Caldas
 presenter_affiliation: Halliburton
 # place: Strandhuset, Ølberg
 # presentation_time: "11:30"
-presentation_date: 2026-03-04
+presentation_date: 2026-04-08
 # presenter_photo: /assets/people/Alexandra_Cely.jpg
 ---
 
