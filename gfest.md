@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN  Geosteering and Formation Evaluation Workshop 2027
+  en      : &EN  Next NFES Geosteering Workshop
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
