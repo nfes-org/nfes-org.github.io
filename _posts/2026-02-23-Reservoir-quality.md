@@ -1,5 +1,5 @@
 ---
-tags: presentation
+tags: presentation has_attachment
 title: "Reservoir quality in deep sandstone prospects, what are the main controls (Olav Walderhaug, Equinor)"
 presenter: Olav Walderhaug
 presenter_affiliation: Equinor
@@ -17,6 +17,7 @@ The technical presentation **“Reservoir quality in deep sandstone prospects, w
 
 Many deep oil and gas prospects have been drilled on the NCS during recent years, but even when hydrocarbons are encountered, reservoir quality is often poor and makes profitable development very challenging or impossible. It is therefore essential to understand the factors that control reservoir quality in deeply buried sandstone prospects. This talk gives an overview of these factors and how they affect reservoir quality. Processes discussed include both the composition and texture of the sands at deposition, and the diagenetic processes that operate during burial. Special attention is given to the most widespread and destructive of all diagenetic cementation processes at great depth and high temperature, i.e., quartz cementation. The myth claiming that oil emplacement stops diagenetic cementation will also be discussed.
 
+<a class="button button--primary button--pill" href="/assets/archive/NFES_Sola_04.03.2026.pdf">Download Presentation as PDF</a>
 
 ### Bio
 
