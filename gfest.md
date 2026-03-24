@@ -49,6 +49,10 @@ key: page-geosteering-workshop
  * [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A)
  * [Workshop announcement]({{site.tags['UpcomingEvent'][0].url}})
 
+## Contact
+
+For general inquiries, contact **Sergey Alyaev** [saly@norceresearch.no](mailto:saly@norceresearch.no?subject=gFest4).
+
 ## Previous edition (2024)
  * [2024 workshop schedule](/2024/09/17/workshop-2024-schedule.html)
  * [2024 abstracts](/archive.html?tag=workshop2024abstract)
