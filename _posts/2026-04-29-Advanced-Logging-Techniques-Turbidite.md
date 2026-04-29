@@ -1,0 +1,21 @@
+---
+tags: presentation
+title: "Advanced Logging Techniques for Characterizing a Complex Turbidite Reservoir in the Norwegian Sea"
+presenter: Andrew Mburu
+presenter_affiliation: Harbour Energy
+# place: Solastranden Gård
+presentation_time: "11:00"
+presentation_date: 2026-05-06
+# presenter_photo: 
+---
+
+The technical presentation **"Advanced Logging Techniques for Characterizing a Complex Turbidite Reservoir in the Norwegian Sea"** will be given by **Andrew Mburu from Harbour Energy.**
+
+### Abstract:
+
+In the Norwegian Sea, a deep marine turbidite reservoir was discovered containing gas/condensate within a 4-way structural closure. In the prospect, the operator drilled one discovery well and one well for appraising the prospect. An extensive dataset, including a core in the appraisal well, was acquired, which was essential for accurately evaluating and characterizing the reservoir. As this was a new discovery in a relatively unexplored area, the already available information about the petrophysical properties was limited through logs and reservoir parameters validation through core data was absent (SCAL analysis is till on going at the time this paper was written). Without a detailed understanding of these properties, it was difficult to construct representative static and dynamic reservoir models to assess and quantify accurately the reservoir volumes. Hence, it was vital to access lateral connectivity, overall reservoir quality, and permeability. An intensive effort was made to acquire as much information as possible from the well logs and from the core to reduce uncertainties. The primary uncertainties that needed to be addressed were water saturation (Sw) and permeability, both critical for evaluating the reservoir's production potential and not restricted to the explored area. These parameters posed particular challenges because the reservoir had laminated intervals, disbursed clay within the sandstone intervals, which complicated the accurate determination of Sw and permeability. To obtain a reliable interpretation, it was essential to have precise knowledge of reservoir characteristics, such as total porosity, permeability, connate water salinity, and Archie's coefficients (m and n). These properties play a vital role in defining water saturation and in predicting the reservoir's hydrocarbon content and flow behavior.
+
+The data acquisition campaign included a comprehensive suite of wireline logs including triaxial resistivity, array sonic, borehole imaging, nuclear magnetic resonance (NMR), dielectric logging, neutron induced spectroscopy (geochemical spectroscopy), high resolution density and neutron among others designed to gather detailed information on the reservoir's petrophysical and geological properties. A novel multiphysics inversion method has been developed to enhance the interpretation of two key advanced logging tools: multi-frequency dielectric dispersion and geochemical spectroscopy. Standalone dielectric logs struggle to estimate salinity accurately in high-salinity formation water under normal circumstances, but this issue is addressed by incorporating chlorine and formation sigma measurements through the multiphysics approach. When NMR porosity data is combined with total organic carbon (TOC) measurements, it helps to better identify and constrain hydrocarbon properties. This method considers the different sensitivities of each measurement type, along with their uncertainties, to provide more accurate solutions for water volume, water saturation, formation water salinity, Archie's coefficients (m and n) and the properties of hydrocarbons. The multiphysics inversion method delivers precise results with reduced uncertainty for well log interpretation, making the most out of the data collected from advanced logging tools.
+
+### Bio:
+**Andrew Mburu** is a petrophysicist for Harbour Energy, based in Stavanger, Norway. He received his MSc in Petroleum Engineering from the University of Stavanger in 2019, specializing in Reservoir Engineering and Natural Gas Technology. He has mainly worked on integrated petrophysics analysis and operational support for exploration and development projects in Norway, Germany, Egypt and Mexico.
