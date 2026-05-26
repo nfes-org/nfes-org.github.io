@@ -4,7 +4,7 @@ tags: News
 cover: /assets/events/field-trip-teaser-2026.jpg
 cover_size: lg
 pageview: true
-excerpt: "Members are invited to sign up for NFES Field Trip to Italy before June 2."
+excerpt: "Members are invited to sign up for NFES Field Trip to Italy before June 2. The trip is scheduled for 24–28 September 2026."
 ---
 
 NFES invites our members to join the Field Trip to Padova/Bologna Italy, scheduled on 24–28 September 2026 (Thursday through Monday). Please sign up before June 2, 2026. 
