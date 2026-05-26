@@ -1,7 +1,7 @@
 ---
 title: "2026 NFES field trip – Padova/Bologna (Italy) in September 2026"
 tags: News
-cover: /assets/news/travel-grand.jpeg
+cover: /assets/events/field-trip-teaser-2026.jpg
 cover_size: lg
 pageview: true
 excerpt: "NFES invites our members to join the Field Trip to Padova/Northern Italy, scheduled on 24–28 September 2026."
@@ -30,3 +30,7 @@ Cost (including travel and diet) is estimated to be within 16 000 NOK per person
 ### Logistics
 
 Fly to Venice, then bus/car rental and drive to Padova.
+
+### Downloads
+
+<a class="button button--primary button--pill" href="/assets/events/filedtrip-2026.pdf">Download field trip flyer</a>
