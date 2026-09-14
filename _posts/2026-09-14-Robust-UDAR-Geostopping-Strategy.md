@@ -1,0 +1,25 @@
+---
+tags: presentation
+title: "What does it take to make a robust UDAR geostopping strategy? Discussion based on geostopping results from production wells on the Norwegian Continental Shelf (Marta Prymak-Moyle, Equinor)"
+presenter: Marta Prymak-Moyle
+presenter_affiliation: Equinor
+place: Solastranden Gård
+presentation_time: "11:00"
+presentation_date: 2026-09-03
+# presenter_photo: 
+---
+
+The technical presentation **"What does it take to make a robust UDAR geostopping strategy? Discussion based on geostopping results from production wells on the Norwegian Continental Shelf"** will be given by **Marta Prymak-Moyle from Equinor.**
+
+### Abstract:
+
+The positioning of the last well section above top reservoir has become increasingly critical in production wells as the Norwegian Continental Shelf has matured. Historically, the depth limit for this section was set at twice the seismic uncertainty, exceeding 30 m TVD above the reservoir. Exposing tens of meters of unstable shale formation in the subsequent reservoir section increases the risk of formation collapse. The pressure difference between the overburden and the reservoir often complicates the selection of appropriate mud weight, potentially leading to mud loss, blowouts, or stuck pipe. Additionally, the presence of permeable, water-bearing sands above the reservoir may lead to increased water production if opened alongside reservoir sands. Traditionally, these challenges have been handled in a reactive way, but the industry is now adopting a more proactive approach using Ultra Deep Azimuthal Resistivity (UDAR) technology and robust workflows, enhancing drilling efficiency and reducing overall well cost.
+
+UDAR technology has demonstrated the ability to detect resistivity contrasts tens of meters ahead of or below the bit in low-resistive environments, effectively bridging the seismic resolution gap mentioned above. When the top reservoir exhibits a significant resistivity contrast to the overburden shale, the UDAR tool can map this contrast, enabling a controlled drilling stop in the range of 5-10 m TVD above top reservoir. This reduction in overburden exposure has resulted in safer operations by significantly reducing drilling and wellbore stability risks. However, using UDAR for geostopping presents challenges due to the limited data available for decision making compared to reservoir geosteering in horizontal wells. Most importantly, the consequences of a wrong decision can be disastrous. To address these challenges, conducting extensive pre-job modelling to develop a robust decision strategy is essential for ensuring a successful geostopping operation.
+
+In this paper, we review several UDAR geostopping jobs, focusing on the pre-job-established decision strategies to stop at a specific point above top reservoir and compare these with real-time results. Factors that influence the UDAR inversion result and interpretation include the inversion method (stochastic vs deterministic), the number of receivers, their spacing, the frequencies used, variations in resistivity levels in the shale, and the shape of the resistivity contrast around the top reservoir. Through field results and synthetic pre-job modelling examples, we illustrate the key considerations necessary for successfully planning and executing UDAR geostopping operation given the factors mentioned above.
+
+Realistic synthetic scenario modelling of UDAR responses in the pre-job phase of geostopping operations is essential for developing a robust decision strategy that enables stopping at a given distance above a resistivity contrast, thereby minimizing the risk of drilling too deep and encountering potentially disastrous consequences. The synthetic UDAR inversions must closely align with real-time results given the same resistivity distribution and contrasts; large differences will undermine the decision strategy for stopping at the planned position in the subsurface. Utilizing percentiles from the stochastic UDAR inversion has proven highly beneficial for geostopping decision-making. Finally, using three receivers in the UDAR inversion process secures early anticipation with large depth of investigation, while shorter receiver spacings improve the ability to resolve resistivity variations in the overburden, facilitating more precise prediction of top reservoir from the UDAR inversion results.
+
+### Bio:
+**Marta Prymak-Moyle** is a petrophysicist at Equinor in Stavanger, Norway, where she has worked since 2019. She began her career focusing on well planning and well operations, gaining experience in drilling processes and formation evaluation. Later, she joined the Technology, Development, and Innovation Business Area, where she currently specializes in UDAR data interpretation and the development of workflows to enhance geosteering operations and reservoir characterization. Marta holds an MSc in Petroleum Geoscience from Imperial College London. Her interests lie in data analysis and script-based automation to enhance efficiency and accuracy in reservoir evaluation.
