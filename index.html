@@ -110,7 +110,12 @@ layout: home
 {% endif %}
 
 {%- for event in upcoming_events -%}
-<div class="hero hero hero-example--linear-gradient--people" style="margin-bottom: 1.5rem;">
+{%- if event.cover -%}
+  {%- capture event_background -%}background-image: linear-gradient(180deg, rgba(94, 216, 254, 0.7), #e4ff82aa), url('{{ event.cover | relative_url }}');{%- endcapture -%}
+{%- else -%}
+  {%- assign event_background = "" -%}
+{%- endif -%}
+<div class="hero hero hero-example--linear-gradient--people" style="margin-bottom: 1.5rem; {{ event_background }}">
   <div class="hero__content">
     <h4>NFES is proud to announce</h4>
     <h3>
