@@ -101,22 +101,26 @@ layout: home
 </div>
 
 
-<h4>Our Latest International Conference</h4>
+{%- assign upcoming_events = site.tags["UpcomingEvent"] | sort: "presentation_date" -%}
 
+{% if upcoming_events.size > 1 %}
+<h4>Our Upcoming International Conferences</h4>
+{% else %}
+<h4>Our Upcoming International Conference</h4>
+{% endif %}
 
-<p>
-
-<div class="hero hero hero-example--linear-gradient--people" >
+{%- for event in upcoming_events -%}
+<div class="hero hero hero-example--linear-gradient--people" style="margin-bottom: 1.5rem;">
   <div class="hero__content">
-    <h4 id="next-conference-proed">NFES is proud to announce</h4>
-    <h3 id="next-conference">
-      {{site.tags["UpcomingEvent"][0].title}}
+    <h4>NFES is proud to announce</h4>
+    <h3>
+      {{ event.title }}
     </h3>
-    <p>on {{site.tags["UpcomingEvent"][0].presentation_date | date: "%A, %B %-d, %Y"}}</p>
-    <a class="button button--primary button--pill" href="{{site.tags['UpcomingEvent'][0].url}}">To the announcement!</a>
+    <p>on {{ event.presentation_date | date: "%A, %B %-d, %Y" }}</p>
+    <a class="button button--primary button--pill" href="{{ event.url }}">To the announcement!</a>
     </div>
 </div>
-</p>
+{%- endfor -%}
 
 <hr>
 
