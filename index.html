@@ -59,9 +59,10 @@ layout: home
 </style>
 <style>
   .hero-example--linear-gradient--people {
+    --hero-image: url("/assets/events/Norce-GeosteeringWorkshop24-84.jpg");
     background-image: linear-gradient(180deg, 
       rgba(94, 216, 254, 0.7), 
-      #e4ff82aa), url("/assets/events/Norce-GeosteeringWorkshop24-84.jpg");
+      #e4ff82aa), var(--hero-image);
   }
 </style>
 <style>
@@ -110,12 +111,7 @@ layout: home
 {% endif %}
 
 {%- for event in upcoming_events -%}
-{%- if event.cover -%}
-  {%- capture event_background -%}background-image: linear-gradient(180deg, rgba(94, 216, 254, 0.7), #e4ff82aa), url('{{ event.cover | relative_url }}');{%- endcapture -%}
-{%- else -%}
-  {%- assign event_background = "" -%}
-{%- endif -%}
-<div class="hero hero hero-example--linear-gradient--people" style="margin-bottom: 1.5rem; {{ event_background }}">
+<div class="hero hero hero-example--linear-gradient--people" style="margin-bottom: 1.5rem;{% if event.cover %} --hero-image: url('{{ event.cover | relative_url }}');{% endif %}">
   <div class="hero__content">
     <h4>NFES is proud to announce</h4>
     <h3>
