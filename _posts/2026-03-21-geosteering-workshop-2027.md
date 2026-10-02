@@ -94,6 +94,7 @@ TBA
 * Egil Fjeldberg (Aker BP)
 * Geraldine Vey (Aker BP)
 * Jean Michel Denichou (SLB)
+* Joanna Hansford (ROGII)
 * Jörn Zimmerling (Uppsala University)
 * Maurizio Mele (Eni)
 * Nazanin Jahani (NORCE)
