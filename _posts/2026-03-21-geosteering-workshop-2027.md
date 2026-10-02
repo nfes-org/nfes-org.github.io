@@ -102,7 +102,7 @@ TBA
 * Sergey Alyaev (NORCE / NFES)
 
 ### Organizing committee
-* Sergey Alyaev: main organizer, abstract submissions (Senior Research Scientist, NORCE; VP Academia, NFES) [saly@norceresearch.no](mailto:saly@norceresearch.no)
+* Sergey Alyaev: main organizer, abstract submissions (Research Professor, NORCE; VP Academia, NFES) [saly@norceresearch.no](mailto:saly@norceresearch.no)
 * Nazanin Jahani: co-organizer, booking (Senior Research Scientist, NORCE) [naja@norceresearch.no](mailto:naja@norceresearch.no)
 * Annette Larsen: sponsorship and marketing packages (General Manager Logtek; VP Sponsorship, NFES) 
 [alarsen@logtek.no](mailto:alarsen@logtek.no)
