@@ -73,7 +73,7 @@ To find more information about the hotel, visit the [Sola Strand Hotel website](
 TBA
 
 ## Timeline
-* **End of May 2026.** Abstract submission opens
+* **October 2026.** Abstract submission opens and topics are announced
 * **End of January 2027.** Abstract submission deadline
 * **April 19.** Conference ice-breaker
 * **April 20-21.** Workshop dates
