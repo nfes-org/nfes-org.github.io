@@ -1,3 +1,10 @@
 <!-- start custom article top snippet -->
-
+{%- if page.presenter -%}
+  <div class="article__presenter">
+    <strong>{{ page.presenter }}</strong>
+    {%- if page.presenter_affiliation -%}
+      <span class="presenter__affiliation"> — {{ page.presenter_affiliation }}</span>
+    {%- endif -%}
+  </div>
+{%- endif -%}
 <!-- end custom article top snippet -->
