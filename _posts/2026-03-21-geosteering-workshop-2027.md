@@ -90,10 +90,11 @@ TBA
 ### Technical Committee
 * Berit Danielsen (Equinor)
 * David Holbrough (Baker Hughes)
+* David Larsen (Vår Energi)
 * Egil Fjeldberg (Aker BP)
 * Geraldine Vey (Aker BP)
 * Jean Michel Denichou (SLB)
-* Jörn Zimmerling (Uni Uppsala)
+* Jörn Zimmerling (Uppsala University)
 * Maurizio Mele (Eni)
 * Nazanin Jahani (NORCE)
 * Nigel Clegg (Halliburton)
