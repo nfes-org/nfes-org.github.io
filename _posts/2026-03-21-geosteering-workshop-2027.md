@@ -88,7 +88,16 @@ TBA
 </div>
 
 ### Technical Committee
-TBA
+* Berit Danielsen (Equinor)
+* David Holbrough (Baker Hughes)
+* Egil Fjeldberg (Aker BP)
+* Geraldine Vey (Aker BP)
+* Jean Michel Denichou (SLB)
+* Jörn Zimmerling (Uni Uppsala)
+* Maurizio Mele (Eni)
+* Nazanin Jahani (NORCE)
+* Nigel Clegg (Halliburton)
+* Sergey Alyaev (NORCE / NFES)
 
 ### Organizing committee
 * Sergey Alyaev: main organizer, abstract submissions (Senior Research Scientist, NORCE; VP Academia, NFES) [saly@norceresearch.no](mailto:saly@norceresearch.no)
