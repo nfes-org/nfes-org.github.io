@@ -1,15 +1,19 @@
 import requests
 import pandas as pd
 import re
+from datetime import date
 from urllib.parse import urlparse, parse_qs
 from os.path import exists
 import os
 
 
-publish_date = "2025-10-21"
-presentation_date = "2025-11-12"
-tags = "workshop2025abstract"
+publish_date = date.today().isoformat()
+presentation_date = "2026-11-04"
+tags = "workshop2026abstract"
 target_folder = "../_posts/"
+failed_downloads = []
+illustrations_folder = "../assets/seminar_2026/illustrations"
+csv_path = "../seminar_2026_temp/2026 Abstract submission formation evaluation (Responses) - Form responses 1 (1).csv"
 
 
 def pad_to_three(number):
@@ -39,6 +43,10 @@ def drive_to_direct_url(url: str):
     return None, None, None
 
 
+class NotPubliclyShared(Exception):
+    """Drive served a sign-in page instead of the file."""
+
+
 def download_file(url: str, id: str = "new_file", out_dir="."):
     r = requests.get(url, allow_redirects=True, timeout=10)
     r.raise_for_status()
@@ -49,7 +57,11 @@ def download_file(url: str, id: str = "new_file", out_dir="."):
     elif ctype.startswith("image/"):
         ext = "." + ctype.split("/")[1].split(";")[0]
     else:
-        ext = ".pdf"
+        # Drive answers with the sign-in page for files that are not shared
+        # publicly. Saving that as .pdf silently produces a broken attachment.
+        raise NotPubliclyShared(
+            f"{url} returned {ctype or 'an unknown content type'}, not a file"
+        )
 
     path = f"{out_dir}/{id}{ext}"
     with open(path, "wb") as f:
@@ -90,7 +102,7 @@ def create_file(row, id, overwrite=False):
     co_auth_col = "Co-author names, affiliations"
     abstract_col = "Abstract"
     bio_col = "Short bio of the presenter"
-    embeded_pic_col = "[Either] Upload your picture here"
+    embeded_pic_col = "[Either] Upload your illustration here"
     extenal_pic_col = "[Or] Add your link here"
 
     title = row[title_col]
@@ -133,12 +145,20 @@ def create_file(row, id, overwrite=False):
             print(f"Found {file_type}")
             # todo incorrect behavior detects via link formating
             if file_type == "image":
-                local_path = download_file(url, file_id, out_dir="../assets/seminar_2025/illustrations")
-                local_path = local_path.lstrip(".")
-                if local_path.endswith(".pdf"):
-                    md_file.write(f"[Supporting pdf (download)]({local_path}) \n ")
+                try:
+                    local_path = download_file(url, file_id, out_dir=illustrations_folder)
+                except (NotPubliclyShared, requests.RequestException) as err:
+                    print(f"  ! could not download the illustration: {err}")
+                    failed_downloads.append((row[title_col], url))
+                    local_path = None
+                if local_path is None:
+                    md_file.write(f"[Supporting document (download from Google Drive)]({url}) \n")
                 else:
-                    md_file.write(f"![Supporting figure]({local_path}) \n ")
+                    local_path = local_path.lstrip(".")
+                    if local_path.endswith(".pdf"):
+                        md_file.write(f"[Supporting pdf (download)]({local_path}) \n ")
+                    else:
+                        md_file.write(f"![Supporting figure]({local_path}) \n ")
             elif file_type == "file":
                 md_file.write(f"[Supporting document (download from Google Drive)]({url}) \n")
         if pd.notna(row[extenal_pic_col]) and is_downloadable_image(row[extenal_pic_col]):
@@ -153,11 +173,19 @@ def create_file(row, id, overwrite=False):
 
 
 if __name__ == "__main__":
-    abstracts_data = pd.read_csv('~/Downloads/2025 Abstract submission formation evaluation (Responses) - Form responses 1 (1).csv')
+    os.makedirs(illustrations_folder, exist_ok=True)
+    abstracts_data = pd.read_csv(csv_path)
     abstracts_data = abstracts_data.rename(columns=lambda c: "Abstract" if c.startswith("Abstract of the contributed talk") else c)
 
     print(abstracts_data)
     for index, row in abstracts_data.iterrows():
         create_file(row, index+1, overwrite=True)
+
+    if failed_downloads:
+        print(f"\n{len(failed_downloads)} illustration(s) could not be downloaded; "
+              "the posts link to Google Drive instead. Share these publicly, or "
+              f"save them into {illustrations_folder} by hand:")
+        for title, url in failed_downloads:
+            print(f"  - {title}\n    {url}")
 
 
