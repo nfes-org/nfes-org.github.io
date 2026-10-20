@@ -21,24 +21,22 @@ import csv
 import glob
 import os
 import re
-from datetime import date
+
+from seminar_config import (
+    abstract_suffix,
+    agenda_csv as csv_path,
+    announcement_url,
+    cover,
+    day_heading,
+    registration_url,
+    schedule_name as output_name,
+    seminar_date,
+    seminar_date_long,
+    site_url,
+    target_folder as posts_folder,
+)
 
 # --- configuration ------------------------------------------------------
-
-csv_path = "../seminar_2026_temp/NFES_Seminar_Proposed_Agenda.csv"
-posts_folder = "../_posts/"
-abstract_suffix = "-workshop-abstract"
-
-publish_date = date.today().isoformat()
-seminar_date = "2026-11-04"
-seminar_date_long = "November 4, 2026"
-day_heading = "November 4"
-output_name = f"{publish_date}-seminar-2026-schedule.md"
-
-cover = "assets/events/Norce-GeosteeringWorkshop24-19.jpg"
-announcement_url = "/2026/09/14/nfes-full-day-2026.html"
-registration_url = "https://forms.gle/tCDhaU9mgRFxpNmW9"
-site_url = "https://nfes.org"
 
 preliminary = True
 

@@ -42,3 +42,4 @@ python-scripts/.idea/
 .idea/
 
 python-scripts/.venv/
+python-scripts/__pycache__/

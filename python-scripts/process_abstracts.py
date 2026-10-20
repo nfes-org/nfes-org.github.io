@@ -1,19 +1,21 @@
 import requests
 import pandas as pd
 import re
-from datetime import date
 from urllib.parse import urlparse, parse_qs
 from os.path import exists
 import os
 
+from seminar_config import (
+    abstract_suffix,
+    abstracts_csv as csv_path,
+    abstract_tag as tags,
+    illustrations_folder,
+    publish_date,
+    seminar_date as presentation_date,
+    target_folder,
+)
 
-publish_date = date.today().isoformat()
-presentation_date = "2026-11-04"
-tags = "workshop2026abstract"
-target_folder = "../_posts/"
 failed_downloads = []
-illustrations_folder = "../assets/seminar_2026/illustrations"
-csv_path = "../seminar_2026_temp/2026 Abstract submission formation evaluation (Responses) - Form responses 1 (1).csv"
 
 
 def pad_to_three(number):
@@ -113,7 +115,7 @@ def create_file(row, id, overwrite=False):
     # title_for_display = re.sub('\s|:|/|\?|&|\.|[^\x00-\x7F]|,|\(|\)|\'', '-', title)
     # file_name = target_folder + publish_date + '-' + title_for_display + '.md'
     short_title = title.split(' ')[0].lower()
-    file_name = target_folder + publish_date + '-' + pad_to_three(id+1) + '-' + short_title + '-workshop-abstract' + '.md'
+    file_name = target_folder + publish_date + '-' + pad_to_three(id+1) + '-' + short_title + abstract_suffix + '.md'
     print(file_name)
     # todo remove
     file_exists = exists(file_name)
