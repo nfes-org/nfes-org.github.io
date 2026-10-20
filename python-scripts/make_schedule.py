@@ -46,7 +46,7 @@ Sponsorship and marketing packages are available starting from 15,000 NOK.
 
 For more details on the opportunities, please contact:
 
-- Annette Larsen: [alarsen@logtek.no](mailto:alarsen@logtek.no)
+- Jennifer Market: [jennifer.market@wellid.no](mailto:jennifer.market@wellid.no)
 """
 
 # --- reading the agenda -------------------------------------------------
