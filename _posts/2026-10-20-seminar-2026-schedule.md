@@ -14,12 +14,6 @@ The program is preliminary while we await confirmations from the presenters.
 
 <table class="nice-table" id="table">
 <tr>
-<th colspan="3"><b>November 4</b></th>
-</tr>
-<tr>
-<th colspan="3"><b>Welcome & Introduction</b></th>
-</tr>
-<tr>
 <td>08:30 - 09:00</td>
 <td colspan="2"><b>Registration, coffee & mingling</b></td>
 </tr>
@@ -76,9 +70,6 @@ The program is preliminary while we await confirmations from the presenters.
 </tr>
 <tr>
 <td>14:55: Ross Brackenridge (Geoactive Ltd): <b>Life Beyond Drilling: Why Now Is the Time for Subsurface Teams to Embrace Cased Hole Analysis</b> <a href="https://nfes.org/2026/10/20/006-life-workshop-abstract.html">(abstract)</a></td>
-</tr>
-<tr>
-<th colspan="3"><b>Closing</b></th>
 </tr>
 <tr>
 <td>15:20 - 15:30</td>
