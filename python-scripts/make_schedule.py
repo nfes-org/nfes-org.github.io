@@ -27,7 +27,6 @@ from seminar_config import (
     agenda_csv as csv_path,
     announcement_url,
     cover,
-    day_heading,
     registration_url,
     schedule_name as output_name,
     seminar_date,
@@ -155,7 +154,6 @@ def describe_talk(entry, urls, missing):
 
 def build_table(agenda, urls, missing):
     parts = ['<table class="nice-table" id="table">']
-    parts.append(f'<tr>\n<th colspan="3"><b>{day_heading}</b></th>\n</tr>')
 
     session = ""
     talks = []
@@ -189,12 +187,10 @@ def build_table(agenda, urls, missing):
             if not any(not is_heading(later) for later in rest):
                 trailing_notes.append(label)
                 continue
+            # Only sessions that hold talks are named, in the rowspan cell.
+            # Headings over breaks and closing remarks are dropped: those
+            # rows already carry their own name.
             session = label
-            # Headings such as "Welcome & Introduction" label rows that are
-            # not talks; show them as a full-width heading instead.
-            following = next((later for later in rest if not is_heading(later)), None)
-            if following is not None and not following["ID"]:
-                parts.append(f'<tr>\n<th colspan="3"><b>{label}</b></th>\n</tr>')
         elif entry["ID"]:
             talks.append(entry)
         else:

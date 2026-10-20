@@ -13,7 +13,6 @@ from datetime import date
 seminar_year = 2026
 seminar_date = "2026-11-04"
 seminar_date_long = "November 4, 2026"
-day_heading = "November 4"
 
 # Posts are published under the day the scripts are run.
 publish_date = date.today().isoformat()
