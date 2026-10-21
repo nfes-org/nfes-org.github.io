@@ -46,6 +46,23 @@ def drive_to_direct_url(url: str):
     return None, None, None
 
 
+MAGIC = {
+    b"%PDF": ".pdf",
+    b"\x89PNG": ".png",
+    b"\xff\xd8\xff": ".jpg",
+    b"GIF8": ".gif",
+    b"RIFF": ".webp",
+}
+
+
+def sniff_extension(content: bytes):
+    """Extension for a file whose content type Drive did not spell out."""
+    for magic, ext in MAGIC.items():
+        if content.startswith(magic):
+            return ext
+    return None
+
+
 class NotPubliclyShared(Exception):
     """Drive served a sign-in page instead of the file."""
 
@@ -60,11 +77,13 @@ def download_file(url: str, id: str = "new_file", out_dir="."):
     elif ctype.startswith("image/"):
         ext = "." + ctype.split("/")[1].split(";")[0]
     else:
-        # Drive answers with the sign-in page for files that are not shared
-        # publicly. Saving that as .pdf silently produces a broken attachment.
-        raise NotPubliclyShared(
-            f"{url} returned {ctype or 'an unknown content type'}, not a file"
-        )
+        # Shared files often arrive as application/octet-stream, so go by the
+        # content. A sign-in page (text/html) is what an unshared file gives.
+        ext = sniff_extension(r.content)
+        if ext is None:
+            raise NotPubliclyShared(
+                f"{url} returned {ctype or 'an unknown content type'}, not a file"
+            )
 
     path = f"{out_dir}/{id}{ext}"
     with open(path, "wb") as f:
@@ -105,6 +124,22 @@ def is_downloadable_image(url: str, timeout=6):
         return False
 
 
+def post_path(number, short_title):
+    """Where this abstract's post goes.
+
+    An abstract that is already published keeps the date in its file name:
+    that date is part of its URL, and the schedule links to it."""
+    for candidate in sorted(
+        glob.glob(os.path.join(target_folder, f"*-{number}-*{abstract_suffix}.md"))
+    ):
+        # The numbers restart every seminar, so the tag decides which year
+        # a candidate belongs to.
+        with open(candidate, encoding="utf-8") as f:
+            if f"tags: {tags}" in f.read():
+                return candidate
+    return target_folder + publish_date + '-' + number + '-' + short_title + abstract_suffix + '.md'
+
+
 def create_file(row, id, overwrite=False):
     title_col = "Presentation title"
     author_col = "Presenter name"
@@ -123,7 +158,7 @@ def create_file(row, id, overwrite=False):
     # title_for_display = re.sub('\s|:|/|\?|&|\.|[^\x00-\x7F]|,|\(|\)|\'', '-', title)
     # file_name = target_folder + publish_date + '-' + title_for_display + '.md'
     short_title = title.split(' ')[0].lower()
-    file_name = target_folder + publish_date + '-' + pad_to_three(id+1) + '-' + short_title + abstract_suffix + '.md'
+    file_name = post_path(pad_to_three(id+1), short_title)
     print(file_name)
     # todo remove
     file_exists = exists(file_name)
