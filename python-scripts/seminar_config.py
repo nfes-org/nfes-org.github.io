@@ -27,7 +27,8 @@ abstracts_csv = temp_folder + (
     f"{seminar_year} Abstract submission formation evaluation (Responses)"
     " - Form responses 1 (1).csv"
 )
-agenda_csv = temp_folder + "NFES_Seminar_Proposed_Agenda.csv"
+# Either the spreadsheet itself or a CSV export of it.
+agenda_file = temp_folder + "NFES_Seminar_Proposed_Agenda.xlsx"
 
 # --- naming -------------------------------------------------------------
 

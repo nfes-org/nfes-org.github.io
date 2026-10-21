@@ -1,7 +1,9 @@
-"""Build the seminar schedule post from a CSV export of the agenda sheet.
+"""Build the seminar schedule post from the agenda sheet.
 
-The CSV is expected to have a header row containing "Time slot" (anything
-above it, such as a spreadsheet title, is skipped) and these columns:
+The agenda is read straight from the .xlsx, or from a CSV export of it --
+whichever seminar_config.agenda_file points at. It needs a header row
+containing "Time slot" (anything above it, such as a spreadsheet title, is
+skipped) and these columns:
 
     Time slot | Duration | Presentation | Presenter | Organisation | ID
 
@@ -24,13 +26,14 @@ import re
 
 from seminar_config import (
     abstract_suffix,
-    agenda_csv as csv_path,
+    agenda_file,
     announcement_url,
     cover,
     registration_url,
     schedule_name as output_name,
     seminar_date,
     seminar_date_long,
+    seminar_year,
     site_url,
     target_folder as posts_folder,
 )
@@ -54,10 +57,23 @@ For more details on the opportunities, please contact:
 COLUMNS = ("Time slot", "Duration", "Presentation", "Presenter", "Organisation", "ID")
 
 
+def read_table(path):
+    """Read the agenda as rows of strings, from .xlsx or from .csv."""
+    if path.lower().endswith((".xlsx", ".xlsm")):
+        import openpyxl  # only needed for spreadsheets
+
+        sheet = openpyxl.load_workbook(path, data_only=True).worksheets[0]
+        return [
+            [("" if cell is None else str(cell)).strip() for cell in row]
+            for row in sheet.iter_rows(values_only=True)
+        ]
+    with open(path, newline="", encoding="utf-8-sig") as f:
+        return [[(c or "").strip() for c in row] for row in csv.reader(f)]
+
+
 def read_rows(path):
     """Return the agenda rows as dicts, skipping anything above the header."""
-    with open(path, newline="", encoding="utf-8-sig") as f:
-        rows = [[(c or "").strip() for c in row] for row in csv.reader(f)]
+    rows = read_table(path)
 
     header_index = next(
         (i for i, row in enumerate(rows) if "Time slot" in row), None
@@ -234,12 +250,23 @@ def build_post(agenda, urls, missing):
     return "\n".join(out)
 
 
+def output_path():
+    """Keep the date an already published schedule post was created under,
+    so re-running does not leave a second post at a second URL."""
+    published = sorted(
+        glob.glob(os.path.join(posts_folder, f"*-seminar-{seminar_year}-schedule.md"))
+    )
+    if published:
+        return published[-1]
+    return os.path.join(posts_folder, output_name)
+
+
 if __name__ == "__main__":
-    agenda = read_rows(csv_path)
+    agenda = read_rows(agenda_file)
     urls = abstract_urls()
     missing = []
 
-    output_path = os.path.join(posts_folder, output_name)
+    output_path = output_path()
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(build_post(agenda, urls, missing))
     print(f"wrote {output_path}")
