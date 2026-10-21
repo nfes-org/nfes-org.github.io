@@ -1,4 +1,5 @@
 import requests
+import glob
 import pandas as pd
 import re
 from urllib.parse import urlparse, parse_qs
@@ -69,6 +70,13 @@ def download_file(url: str, id: str = "new_file", out_dir="."):
     with open(path, "wb") as f:
         f.write(r.content)
     return path
+
+
+def saved_copy(file_id: str):
+    """A file saved by hand as <drive id>.<ext> is used instead of downloading,
+    which is how attachments that are not shared publicly get onto the page."""
+    matches = sorted(glob.glob(os.path.join(illustrations_folder, file_id + ".*")))
+    return matches[0] if matches else None
 
 
 def is_downloadable_image(url: str, timeout=6):
@@ -147,12 +155,16 @@ def create_file(row, id, overwrite=False):
             print(f"Found {file_type}")
             # todo incorrect behavior detects via link formating
             if file_type == "image":
-                try:
-                    local_path = download_file(url, file_id, out_dir=illustrations_folder)
-                except (NotPubliclyShared, requests.RequestException) as err:
-                    print(f"  ! could not download the illustration: {err}")
-                    failed_downloads.append((row[title_col], url))
-                    local_path = None
+                local_path = saved_copy(file_id)
+                if local_path:
+                    print(f"  using the copy already in {illustrations_folder}")
+                else:
+                    try:
+                        local_path = download_file(url, file_id, out_dir=illustrations_folder)
+                    except (NotPubliclyShared, requests.RequestException) as err:
+                        print(f"  ! could not download the illustration: {err}")
+                        failed_downloads.append((row[title_col], url))
+                        local_path = None
                 if local_path is None:
                     md_file.write(f"[Supporting document (download from Google Drive)]({url}) \n")
                 else:
