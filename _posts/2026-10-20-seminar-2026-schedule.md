@@ -38,41 +38,38 @@ The program is preliminary while we await confirmations from the presenters.
 </tr>
 <tr>
 <td rowspan="2">10:55 - 11:45</td>
-<td rowspan="2">Session 2: Advanced Formation & Pore-System Characterisation</td>
+<td rowspan="2">Session 2: Formation Evaluation & Advanced characterisation</td>
 <td>10:55: Mathias Horstmann (SLB): <b>Disruptive At-Bit Imaging: Unprecedented Borehole Resolution for Superior Drilling, Formation Evaluation, and Geomechanics</b> <a href="https://nfes.org/2026/10/20/004-disruptive-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>11:20: Jia Qi Ngui (Halliburton) et al.: <b>Exploring the Complex Trend of Resistivity Anisotropy and Associated Lithological Heterogeneity in Clastic Reservoirs</b> <a href="https://nfes.org/2026/10/20/005-exploring-workshop-abstract.html">(abstract)</a></td>
+<td>11:20: Adam Fheed (AGH University of Krakow) et al.: <b>Automatic Segmentation of X-Ray Microtomography Rock Images: A New NMR-Guided Watershed Technique for Reef Rocks</b> <a href="https://nfes.org/2026/10/20/009-automatic-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
 <td>11:45 - 12:45</td>
 <td colspan="2"><b>Lunch</b></td>
 </tr>
 <tr>
-<td rowspan="3">12:45 - 14:00</td>
-<td rowspan="3">Session 3: Pore system, Core Analysis & Subsurface Fluids</td>
-<td>12:45: Adam Fheed (AGH University of Krakow) et al.: <b>Automatic Segmentation of X-Ray Microtomography Rock Images: A New NMR-Guided Watershed Technique for Reef Rocks</b> <a href="https://nfes.org/2026/10/20/009-automatic-workshop-abstract.html">(abstract)</a></td>
+<td rowspan="2">12:45 - 13:35</td>
+<td rowspan="2">Session 3: Core Analysis & Subsurface Fluids</td>
+<td>12:45: Meysam Nourani (Stratum Reservoir AS) et al.: <b>Improving Caprock Seal Capacity Evaluation Through an Optimized Mercury Injection Capillary Pressure Approach</b> <a href="https://nfes.org/2026/10/20/008-improving-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>13:10: Meysam Nourani (Stratum Reservoir AS) et al.: <b>Improving Caprock Seal Capacity Evaluation Through an Optimized Mercury Injection Capillary Pressure Approach</b> <a href="https://nfes.org/2026/10/20/008-improving-workshop-abstract.html">(abstract)</a></td>
+<td>13:10: Carl Fredrik Gyllenhammar (CaMa GeoScience AS): <b>Where is the fresh water coming from?</b> <a href="https://nfes.org/2026/10/20/011-where-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>13:35: Carl Fredrik Gyllenhammar (CaMa GeoScience AS): <b>Where is the fresh water coming from?</b> <a href="https://nfes.org/2026/10/20/011-where-workshop-abstract.html">(abstract)</a></td>
-</tr>
-<tr>
-<td>14:00 - 14:30</td>
+<td>13:35 - 14:05</td>
 <td colspan="2"><b>Coffee break</b></td>
 </tr>
 <tr>
-<td rowspan="2">14:30 - 15:20</td>
+<td rowspan="2">14:05 - 14:55</td>
 <td rowspan="2">Session 4: Petrophysics Across the Well Life Cycle</td>
-<td>14:30: Armando Gomez Oviedo (Halliburton) et al.: <b>Cement Volume Determination in Time-Critical Operations: A Case Study from the Norwegian North Sea</b> <a href="https://nfes.org/2026/10/20/003-cement-workshop-abstract.html">(abstract)</a></td>
+<td>14:05: Armando Gomez Oviedo (Halliburton) et al.: <b>Cement Volume Determination in Time-Critical Operations: A Case Study from the Norwegian North Sea</b> <a href="https://nfes.org/2026/10/20/003-cement-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>14:55: Ross Brackenridge (Geoactive Ltd): <b>Life Beyond Drilling: Why Now Is the Time for Subsurface Teams to Embrace Cased Hole Analysis</b> <a href="https://nfes.org/2026/10/20/006-life-workshop-abstract.html">(abstract)</a></td>
+<td>14:30: Ross Brackenridge (Geoactive Ltd): <b>Life Beyond Drilling: Why Now Is the Time for Subsurface Teams to Embrace Cased Hole Analysis</b> <a href="https://nfes.org/2026/10/20/006-life-workshop-abstract.html">(abstract)</a></td>
 </tr>
 <tr>
-<td>15:20 - 15:30</td>
+<td>14:55 - 15:05</td>
 <td colspan="2"><b>Discusion/Closing remarks</b></td>
 </tr>
 </table>
