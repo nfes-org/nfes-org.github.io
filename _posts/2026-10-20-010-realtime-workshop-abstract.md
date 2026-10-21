@@ -26,7 +26,7 @@ The study demonstrates that radar-based LWD imaging can be successfully integrat
 
 
 
-[Supporting document (download from Google Drive)](https://drive.google.com/uc?export=view&id=15Th5XAkGboLZX1eSJBLZWR8ct8R6g1st) 
-
+![Supporting figure](/assets/seminar_2026/illustrations/15Th5XAkGboLZX1eSJBLZWR8ct8R6g1st.png) 
+ 
 ## Biography
 Jennifer Market is the Chief Scientist at Well ID and specializes in development new downhole measurements and applications 

@@ -30,8 +30,8 @@ Conclusion
 
 Our methodology provides a systematic approach to improving watershed segmentation for μCT-based PSD derivation while enabling simultaneous visual inspection of pore structures. Selecting H from the stabilization of the Wasserstein discrepancy, rather than its minimum alone, can limit excessive pore subdivisions while preserving plausible geological boundaries. Although automated, the process can be time-consuming, prompting future integration with AI by using compiled segmentations from the proposed procedure as training datasets to yield rapid segmentations for the analysis of large digital-rock datasets Currently limited to specific reef carbonate types, the approach could potentially be extended to other complex rocks. It may be particularly useful for studying pore size and geometry during reservoir quality evaluation.
 
-[Supporting document (download from Google Drive)](https://drive.google.com/uc?export=view&id=1BJhUyiQr5e09sDxf_526I-TQTZedtJ1m) 
-
+[Supporting pdf (download)](/assets/seminar_2026/illustrations/1BJhUyiQr5e09sDxf_526I-TQTZedtJ1m.pdf) 
+ 
 ## Biography
 For over ten years, Dr. Adam Fheed has worked as a researcher in the oil and gas sector, gaining interdisciplinary expertise in carbonate sedimentology, diagenesis, and petrophysics, with a particular focus on reef reservoirs. He earned his PhD degree from AGH University of Krakow in 2019. He has developed his expertise at Polish and international institutions, including Orlen Upstream and King Fahd University of Petroleum and Minerals, where he spent nearly two years studying the effects of supercritical CO₂ on reef-rock pore structure.
 

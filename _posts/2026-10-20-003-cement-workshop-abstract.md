@@ -24,7 +24,7 @@ This case study underscores the value of integrating LWD real-time and memory da
 
 
 
-[Supporting document (download from Google Drive)](https://drive.google.com/uc?export=view&id=1jYB4y7wFbnRP7zxfnac4SpNsJLIaKuk5) 
-
+![Supporting figure](/assets/seminar_2026/illustrations/1jYB4y7wFbnRP7zxfnac4SpNsJLIaKuk5.png) 
+ 
 ## Biography
 Armando Gomez Oviedo is a Petrophysicist and Geoscience Advisor with over 15 years of experience in formation evaluation, reservoir characterization, and integrated subsurface solutions. He holds a Bachelor's degree in Geoscience Engineering and a Master's degree in Renewable Energies Management. Having worked across the Norwegian Continental Shelf, Mexico, and Latin America, he is recognized for combining technical expertise, innovation, and business leadership to support reservoir development and optimization.

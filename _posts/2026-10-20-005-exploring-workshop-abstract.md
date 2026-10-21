@@ -24,7 +24,7 @@ Overall, the study demonstrates that resistivity anisotropy derived from multi-c
 
 
 
-[Supporting document (download from Google Drive)](https://drive.google.com/uc?export=view&id=15wdt-nMNKKpXmbFGBViegDyxAKtKQvbm) 
-
+![Supporting figure](/assets/seminar_2026/illustrations/15wdt-nMNKKpXmbFGBViegDyxAKtKQvbm.png) 
+ 
 ## Biography
 Jia Qi Ngui is a Geoscientist with strong interest in formation evaluation and subsurface characterization. Currently based in Aberdeen, she supports projects across a range of geological settings. Her work focuses on integrating geological and petrophysical data to improve understanding of subsurface complexity, reservoir architecture and heterogeneity. Jia Qi is passionate about translating technical data into practical insights that support exploration, development, and well delivery objectives.

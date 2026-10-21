@@ -40,7 +40,7 @@ The results show that a constant intrusion-rate approach combined with an enhanc
 
 
 
-[Supporting document (download from Google Drive)](https://drive.google.com/uc?export=view&id=1WZZYQEncPVlLPXX5DpCSXN7M4jZkjuMN) 
-
+[Supporting pdf (download)](/assets/seminar_2026/illustrations/1WZZYQEncPVlLPXX5DpCSXN7M4jZkjuMN.pdf) 
+ 
 ## Biography
 Meysam Nourani is a reservoir engineering and Special Core Analysis (SCAL) specialist who bridges advanced scientific research with real-world energy challenges. As a SCAL Project Manager at Stratum Reservoir in Stavanger, Norway, he brings five years of industry experience at the company, supported by a strong international academic and research background. He holds a PhD in Petroleum/Reservoir Engineering from Sharif University and has completed five years of postdoctoral research at two renowned institutions: NTNU in Norway and GEUS in Denmark. His expertise spans advanced reservoir characterization, enhanced oil recovery (EOR), innovative SCAL methodologies, and their evolving applications in carbon capture, utilization, and storage (CCUS). Combining scientific depth with practical insight, Meysam is passionate about pushing the boundaries of core analysis, transforming complex reservoir data into meaningful insights, and contributing to smarter, more sustainable energy solutions.

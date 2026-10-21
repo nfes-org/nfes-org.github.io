@@ -14,8 +14,8 @@ As the Oil & Gas industry matures there has never been better time to get involv
 
 
 
-[Supporting document (download from Google Drive)](https://drive.google.com/uc?export=view&id=1rRIqawakxG1TTJeQz_FQ22IV-REVBSL2) 
-
+![Supporting figure](/assets/seminar_2026/illustrations/1rRIqawakxG1TTJeQz_FQ22IV-REVBSL2.png) 
+ 
 ## Biography
 Ross currently works for Geoactive Ltd where he is the Cased Hole Domain Expert for the Interactive Petrophysics (IP) software package. He is currently based in, and also originates from Aberdeen, Scotland.  
 Ross has over 28 years of experience in the oil and gas industry, having studied Computer Science prior to starting his career. During many years with a major service company, his technical expertise focused on mature assets, specialising in cased hole data analysis, including casing and cement evaluation, production logging, and pulsed-neutron reservoir analysis. There, Ross also held roles across geoscience management, sales, and business development.

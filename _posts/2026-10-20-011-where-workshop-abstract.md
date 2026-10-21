@@ -46,8 +46,8 @@ This suggests that the oil migration follow salinity and pressure differentials 
 
 
 
-[Supporting document (download from Google Drive)](https://drive.google.com/uc?export=view&id=1UrELW09GSleTtqj-_y8OaszxIJJmPX5K) 
-
+![Supporting figure](/assets/seminar_2026/illustrations/1UrELW09GSleTtqj-_y8OaszxIJJmPX5K.jpeg) 
+ 
 ## Biography
 Fred (Carl Fredrik) Gyllenhammar is a geoscientist consulting in the oil and gas industry. He started his academic career studying math, physics and chemistry at University of Grenoble in France in 1975. Ending up with an MSc in Applied Geophysics from University in Oslo. 
 He started in Conoco in 1985 as a Wellsite Geologist. After 13 years he resigned and joined industry research project GeoPoP, at University in Durham. Submitting his PhD in 2001; “A critical review of currently available pore pressure methods and their input parameters. – Glaciations and compaction of the North Sea sediments.” Published as a textbook and used worldwide, including Schlumberger’s office in Houston.
