@@ -42,6 +42,13 @@ from seminar_config import (
 
 preliminary = True
 
+# Replaces the note the agenda sheet carries under the table. Set to None to
+# print whatever the sheet says.
+format_note = (
+    "Presentation format: 25 minutes presentation + 5 minutes Q&A"
+    " for each 30-minute slot."
+)
+
 sponsorship_note = """### Available sponsorship and marketing packages
 
 NFES offers high visibility to our partners at the seminar.
@@ -243,7 +250,7 @@ def build_post(agenda, urls, missing):
         out.append("")
     out.append(table)
     out.append("")
-    for note in trailing_notes:
+    for note in [format_note] if format_note else trailing_notes:
         out.append(note)
         out.append("")
     out.append(sponsorship_note)
