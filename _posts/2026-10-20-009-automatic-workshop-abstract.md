@@ -38,3 +38,7 @@ For over ten years, Dr. Adam Fheed has worked as a researcher in the oil and gas
 He has received multiple awards, including a prestigious award from the Polish Ministry of Higher Education for scientific achievements, as well as several honorable mentions at international conferences. He has also led research projects funded through competitive scientific grants and contributed to the development of both academic and industry-oriented projects.
 
 Dr. Fheed's primary goal is to bridge the gap between classical carbonate-rock assessment methods, such as field observations and core analysis, and petrophysical characterization. To achieve this, he has been developing advanced rock-analysis workflows involving X-ray microtomography (μCT) and magnetic resonance (MR) image analysis.
+
+## Funding
+
+This research was supported by the Polish National Agency for Academic Exchange (NAWA; project No. BPN/BEK/2023/1/00375, awarded to Adam Fheed), subsidy No. 16.16.140.315/05 from the Polish Ministry of Science and Higher Education to AGH University of Krakow, and the “Excellence Initiative – Research University” program (D21/18329) implemented at the university.
