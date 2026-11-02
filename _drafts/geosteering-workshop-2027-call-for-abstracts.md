@@ -8,13 +8,13 @@ We welcome methodological contributions and field case studies that improve subs
 
 Topics include, but are not limited to:
 
-* **Measurements, modelling, and interpretation.** Advances in ultra-deep azimuthal resistivity (UDAR) logging and modeling and emerging sensing technologies.
+* **Measurements, modelling, and interpretation.** Advances in logging and modeling for ultra-deep azimuthal resistivity (UDAR) and emerging sensing technologies.
 * **Geosteering without UDAR.** Methods and field applications using conventional logging measurements and drilling data, supported by geological models.
 * **Multiphysics integration.** Fusion of electromagnetic, seismic and other measurements to support formation evaluation, look-ahead imaging, and post-well analysis.
 * **Uncertainty and decision-making.** Uncertainty assessment, well-placement optimization, and real-time decision support.
 * **AI and automation.** Data-driven methods, generative modeling, automated workflows, and expert advisory systems.
 * **Field experience.** Operational challenges, lessons learned, multidisciplinary collaboration, and training.
-* **Applications beyond petroleum.** Geosteering and formation evaluation for geothermal energy, tunnelling and other subsurface operations.
+* **Applications beyond petroleum.** Geosteering for geothermal energy, tunnelling and other subsurface operations.
 
 Contributions addressing other advances relevant to geosteering are equally welcome.
 
