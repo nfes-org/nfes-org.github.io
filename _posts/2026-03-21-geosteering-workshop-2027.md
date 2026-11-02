@@ -25,6 +25,14 @@ presentation_date: 2027-04-20
 
 ### Action links
 
+[Call for abstracts](#call-for-abstracts)
+<span>&#183;</span>
+[Abstract guidelines](#abstract-guidelines)
+<span>&#183;</span>
+[Timeline](#timeline)
+<span>&#183;</span>
+[Sponsorship](#sponsorship)
+<span>&#183;</span>
 [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A)
 
 ## About the event
