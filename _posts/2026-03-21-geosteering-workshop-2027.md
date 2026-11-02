@@ -29,8 +29,6 @@ presentation_date: 2027-04-20
 <span>&#183;</span>
 [Call for abstracts](#call-for-abstracts)
 <span>&#183;</span>
-[Abstract guidelines](#abstract-guidelines)
-<span>&#183;</span>
 [Timeline](#timeline)
 <span>&#183;</span>
 [Sponsorship](#sponsorship)
