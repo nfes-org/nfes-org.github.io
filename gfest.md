@@ -38,16 +38,16 @@ key: page-geosteering-workshop
     <div class="hero__content">
         <!-- <h4 id="next-conference-proed">NFES is proud to host</h4> -->
         <h3 id="next-conference">
-        {{site.tags["UpcomingEvent"][0].title}}
+        {{site.tags["GeosteeringWorkshop"][0].title}}
         </h3>
-        <p>starts on {{site.tags["UpcomingEvent"][0].presentation_date | date: "%A, %B %-d, %Y"}}</p>
-        <a class="button button--primary button--pill" href="{{site.tags['UpcomingEvent'][0].url}}">To the announcement!</a>
+        <p>starts on {{site.tags["GeosteeringWorkshop"][0].presentation_date | date: "%A, %B %-d, %Y"}}</p>
+        <a class="button button--primary button--pill" href="{{site.tags['GeosteeringWorkshop'][0].url}}">To the announcement!</a>
     </div>
 </div>
 
 ## Quick links
  * [Sign-up for updates](https://forms.gle/hzoBmG1sv2hBSEA9A)
- * [Workshop announcement]({{site.tags['UpcomingEvent'][0].url}})
+ * [Workshop announcement]({{site.tags['GeosteeringWorkshop'][0].url}})
 
 ## Contact
 
@@ -58,7 +58,7 @@ For general inquiries, contact **Sergey Alyaev** [saly@norceresearch.no](mailto:
  * [2024 abstracts](/archive.html?tag=workshop2024abstract)
 
 ## Partner
-NFES is partnering with [NORCE](https://www.norceresearch.no/en/) to organise **{{site.tags["UpcomingEvent"][0].title}}**.
+NFES is partnering with [NORCE](https://www.norceresearch.no/en/) to organise **{{site.tags["GeosteeringWorkshop"][0].title}}**.
 
 [NORCE Norwegian Research Centre](https://www.norceresearch.no/en/)
 is an independent research institute that conducts research to facilitate informed and sustainable choices for the future.
