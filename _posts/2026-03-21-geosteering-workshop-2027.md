@@ -25,6 +25,8 @@ presentation_date: 2027-04-20
 
 ### Action links
 
+[Submit an abstract](https://forms.gle/4EK4Fa7fBBu8CC759)
+<span>&#183;</span>
 [Call for abstracts](#call-for-abstracts)
 <span>&#183;</span>
 [Abstract guidelines](#abstract-guidelines)
