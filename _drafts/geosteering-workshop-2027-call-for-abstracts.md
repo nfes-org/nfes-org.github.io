@@ -3,6 +3,7 @@
 NORCE and NFES invite abstracts presenting new ideas, technical advances, and practical experiences in geosteering and related formation evaluation for the **4th Geosteering and Formation Evaluation Workshop**.
 
 **Abstract submission deadline: 31 January 2027**
+<!-- Internal note: we can extend the deadline to 1 February 2027 if needed. -->
 
 We welcome methodological contributions and field case studies that improve subsurface understanding, make better use of available data and support timely steering decisions.
 
