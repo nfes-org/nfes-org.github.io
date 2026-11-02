@@ -71,4 +71,4 @@ NORCE coordinates several interdisciplinary research projects working on geostee
 
 ## Sponsors
 
-Sponsorship opportunities for the 2027 workshop are open. To become a sponsor, please contact **Annette Larsen** [alarsen@logtek.no](mailto:alarsen@logtek.no).
+Sponsorship opportunities for the 2027 workshop are open. To become a sponsor, please contact **Jennifer Market** [jennifer.market@wellid.no](mailto:jennifer.market@wellid.no).
