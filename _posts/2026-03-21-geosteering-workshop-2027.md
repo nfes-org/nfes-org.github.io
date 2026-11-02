@@ -103,9 +103,21 @@ Note that **abstracts must be technical and non-commercial**. Do not include tra
 
 ## Sponsorship
 
-To become a sponsor, please contact **Annette Larsen** [alarsen@logtek.no](mailto:alarsen@logtek.no).
+NORCE and NFES would like to offer sponsorship and marketing opportunity during the workshop.
 
 Sponsorship packages TBA.
+
+<!-- TODO: confirm the 2027 package contents and price before uncommenting
+We offer 4 **event sponsor / event marketing packages** costing 15 000 NOK.
+A package includes:
+- 2 complimentary delegate registrations
+- Logo of a sponsor on the event's webpage and an optional link to your company's web presence
+- Logo in emails sent to members promoting the workshop
+- Word of thank you from the chairman at the workshop
+- Marketing of your company in the registration area/break area including **1 roll-up display** below 1m. (sponsor to provide) and **1** bar table for printed materials (provided). -->
+
+For more details on sponsor opportunity, please contact:
+- Annette Larsen [alarsen@logtek.no](mailto:alarsen@logtek.no)
 
 ## Venue
 
