@@ -28,7 +28,7 @@ Please follow the SPWLA-style format outlined below:
    - *Procedure* - describe the methods and highlight what is new.
    - *Results / Observations* - present the main findings and technical contributions.
    - *Conclusion* - summarise lessons learned, practical implications and potential applications.
-3. **Supporting figure** - submit one figure or graph illustrating the methodology or key results (without company logos or author names). For easiest interpretation, mension it in the abstract text.
+3. **Supporting figure** - submit one figure or graph illustrating the methodology or key results (without company logos or author names). For easiest interpretation, mention it in the abstract text.
 4. **Relevant references** - if you are extending or summarising published work of others or of your own within your abstract, add references **[1]** (optional, but encouraged).
 
 Note that **abstracts must be technical and non-commercial**. Do not include trade names or promotional content.
