@@ -25,8 +25,6 @@ presentation_date: 2027-04-20
 
 ### Action links
 
-[Submit an abstract](https://forms.gle/4EK4Fa7fBBu8CC759)
-<span>&#183;</span>
 [Call for abstracts](#call-for-abstracts)
 <span>&#183;</span>
 [Timeline](#timeline)
@@ -105,17 +103,6 @@ Note that **abstracts must be technical and non-commercial**. Do not include tra
 
 NORCE and NFES would like to offer sponsorship and marketing opportunity during the workshop.
 
-Sponsorship packages TBA.
-
-<!-- TODO: confirm the 2027 package contents and price before uncommenting
-We offer 4 **event sponsor / event marketing packages** costing 15 000 NOK.
-A package includes:
-- 2 complimentary delegate registrations
-- Logo of a sponsor on the event's webpage and an optional link to your company's web presence
-- Logo in emails sent to members promoting the workshop
-- Word of thank you from the chairman at the workshop
-- Marketing of your company in the registration area/break area including **1 roll-up display** below 1m. (sponsor to provide) and **1** bar table for printed materials (provided). -->
-
 For more details on sponsor opportunity, please contact:
 - Jennifer Market [jennifer.market@wellid.no](mailto:jennifer.market@wellid.no)
 
@@ -161,7 +148,5 @@ TBA
 ### Organizing committee
 * Sergey Alyaev: main organizer, abstract submissions (Research Professor, NORCE; VP Academia, NFES) [saly@norceresearch.no](mailto:saly@norceresearch.no)
 * Nazanin Jahani: co-organizer, booking (Senior Research Scientist, NORCE) [naja@norceresearch.no](mailto:naja@norceresearch.no)
-* Annette Larsen: sponsorship and marketing packages (General Manager Logtek; VP Sponsorship, NFES) 
-[alarsen@logtek.no](mailto:alarsen@logtek.no)
 * Jennifer Market: sponsorship and marketing packages (Chief Scientist, Well ID) [jennifer.market@wellid.no](mailto:jennifer.market@wellid.no)
 * Venkat Jambunathan: program (Petrophysist, Halliburton; VP Program, NFES) [vp_program@nfes.org](mailto:vp_program@nfes.org)
