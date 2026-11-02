@@ -163,4 +163,5 @@ TBA
 * Nazanin Jahani: co-organizer, booking (Senior Research Scientist, NORCE) [naja@norceresearch.no](mailto:naja@norceresearch.no)
 * Annette Larsen: sponsorship and marketing packages (General Manager Logtek; VP Sponsorship, NFES) 
 [alarsen@logtek.no](mailto:alarsen@logtek.no)
+* Jennifer Market: sponsorship and marketing packages (Chief Scientist, Well ID) [jennifer.market@wellid.no](mailto:jennifer.market@wellid.no)
 * Venkat Jambunathan: program (Petrophysist, Halliburton; VP Program, NFES) [vp_program@nfes.org](mailto:vp_program@nfes.org)
