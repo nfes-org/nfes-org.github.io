@@ -117,7 +117,7 @@ A package includes:
 - Marketing of your company in the registration area/break area including **1 roll-up display** below 1m. (sponsor to provide) and **1** bar table for printed materials (provided). -->
 
 For more details on sponsor opportunity, please contact:
-- Annette Larsen [alarsen@logtek.no](mailto:alarsen@logtek.no)
+- Jennifer Market [jennifer.market@wellid.no](mailto:jennifer.market@wellid.no)
 
 ## Venue
 
