@@ -8,7 +8,7 @@ We welcome methodological contributions and field case studies that improve subs
 
 Topics include, but are not limited to:
 
-* **Measurements, modelling, and interpretation.** Advances in logging and modeling for ultra-deep azimuthal resistivity (UDAR) and emerging sensing technologies.
+* **Measurements and modelling.** Advances in logging and modelling for ultra-deep azimuthal resistivity (UDAR) and emerging sensing technologies.
 * **Geosteering without UDAR.** Methods and field applications using conventional logging measurements and drilling data, supported by geological models.
 * **Multiphysics integration.** Fusion of electromagnetic, seismic and other measurements to support formation evaluation, look-ahead imaging, and post-well analysis.
 * **Uncertainty and decision-making.** Uncertainty assessment, well-placement optimization, and real-time decision support.
