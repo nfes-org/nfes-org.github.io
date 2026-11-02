@@ -60,7 +60,7 @@ The program will include:
 
 ## Call for Abstracts
 
-NORCE and NFES invite abstracts presenting new ideas, technical advances, and practical experiences in geosteering and related formation evaluation for the **4th Geosteering and Formation Evaluation Workshop**.
+NORCE and NFES [invite abstracts](https://forms.gle/4EK4Fa7fBBu8CC759) presenting new ideas, technical advances, and practical experiences in geosteering and related formation evaluation for the **4th Geosteering and Formation Evaluation Workshop**.
 
 **Abstract submission deadline: 31 January 2027**
 <!-- Internal note: we can extend the deadline to 1 February 2027 if needed. -->
@@ -95,7 +95,7 @@ Please follow the SPWLA-style format outlined below:
 Note that **abstracts must be technical and non-commercial**. Do not include trade names or promotional content.
 
 
-**The link for submission of abstracts is coming soon.**
+**[Abstract submission link](https://forms.gle/4EK4Fa7fBBu8CC759)**
 
 ## Sign up for updates
 
